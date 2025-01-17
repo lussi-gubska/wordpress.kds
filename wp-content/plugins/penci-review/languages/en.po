@@ -1,0 +1,706 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-09-07 21:10+0700\n"
+"PO-Revision-Date: 2023-09-07 21:10+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _e;__;esc__;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/customize.php:62 inc/options/penci_new_section_review_section.php:13
+msgid "Hide Featured Image"
+msgstr ""
+
+#: inc/customize.php:63 inc/options/penci_new_section_review_section.php:14
+msgid "Hide Adress"
+msgstr ""
+
+#: inc/customize.php:64 inc/options/penci_new_section_review_section.php:15
+msgid "Hide Phone"
+msgstr ""
+
+#: inc/customize.php:65 inc/options/penci_new_section_review_section.php:16
+msgid "Hide Website"
+msgstr ""
+
+#: inc/customize.php:66 inc/options/penci_new_section_review_section.php:17
+msgid "Hide Product Price"
+msgstr ""
+
+#: inc/customize.php:67 inc/options/penci_new_section_review_section.php:18
+msgid "Hide Button Buy Now"
+msgstr ""
+
+#: inc/customize.php:68 inc/options/penci_new_section_review_section.php:19
+msgid "Hide Reviewed Schema Info"
+msgstr ""
+
+#: inc/customize.php:290 inc/customize.php:356 inc/customize.php:376
+#: inc/options/penci_new_section_review_section.php:204
+#: inc/options/penci_new_section_review_section.php:262
+#: inc/options/penci_new_section_review_section.php:280
+msgid "Custom \"Price\" text"
+msgstr ""
+
+#: inc/customize.php:291 inc/options/penci_new_section_review_section.php:205
+msgid "Custom \"Thing\" text"
+msgstr ""
+
+#: inc/customize.php:292 inc/options/penci_new_section_review_section.php:206
+msgid "Custom \"None\" text"
+msgstr ""
+
+#: inc/customize.php:293 inc/options/penci_new_section_review_section.php:207
+msgid "Custom \"Book\" text"
+msgstr ""
+
+#: inc/customize.php:294 inc/options/penci_new_section_review_section.php:208
+msgid "Custom \"Game\" text"
+msgstr ""
+
+#: inc/customize.php:295 inc/options/penci_new_section_review_section.php:209
+msgid "Custom \"Movie\" text"
+msgstr ""
+
+#: inc/customize.php:296 inc/options/penci_new_section_review_section.php:210
+msgid "Custom \"MusicRecording\" text"
+msgstr ""
+
+#: inc/customize.php:297 inc/options/penci_new_section_review_section.php:211
+msgid "Custom \"Painting\" text"
+msgstr ""
+
+#: inc/customize.php:298 inc/options/penci_new_section_review_section.php:212
+msgid "Custom \"Place\" text"
+msgstr ""
+
+#: inc/customize.php:299 inc/options/penci_new_section_review_section.php:213
+msgid "Custom \"Product\" text"
+msgstr ""
+
+#: inc/customize.php:300 inc/options/penci_new_section_review_section.php:214
+msgid "Custom \"Restaurant\" text"
+msgstr ""
+
+#: inc/customize.php:301 inc/options/penci_new_section_review_section.php:215
+msgid "Custom \"SoftwareApplication\" text"
+msgstr ""
+
+#: inc/customize.php:302 inc/options/penci_new_section_review_section.php:216
+msgid "Custom \"Store\" text"
+msgstr ""
+
+#: inc/customize.php:303 inc/options/penci_new_section_review_section.php:217
+msgid "Custom \"TVSeries\" text"
+msgstr ""
+
+#: inc/customize.php:304 inc/options/penci_new_section_review_section.php:218
+msgid "Custom \"WebSite\" text"
+msgstr ""
+
+#: inc/customize.php:308 inc/options/penci_new_section_review_section.php:220
+msgid "Custom \"Book Title\" text"
+msgstr ""
+
+#: inc/customize.php:309 inc/customize.php:321 inc/customize.php:326
+#: inc/customize.php:335 inc/customize.php:344 inc/customize.php:350
+#: inc/customize.php:355 inc/customize.php:365 inc/customize.php:375
+#: inc/customize.php:384 inc/customize.php:392 inc/customize.php:397
+#: inc/options/penci_new_section_review_section.php:221
+#: inc/options/penci_new_section_review_section.php:232
+#: inc/options/penci_new_section_review_section.php:236
+#: inc/options/penci_new_section_review_section.php:244
+#: inc/options/penci_new_section_review_section.php:252
+#: inc/options/penci_new_section_review_section.php:257
+#: inc/options/penci_new_section_review_section.php:261
+#: inc/options/penci_new_section_review_section.php:270
+#: inc/options/penci_new_section_review_section.php:279
+#: inc/options/penci_new_section_review_section.php:287
+#: inc/options/penci_new_section_review_section.php:294
+#: inc/options/penci_new_section_review_section.php:298
+msgid "Custom \"URL\" text"
+msgstr ""
+
+#: inc/customize.php:310 inc/options/penci_new_section_review_section.php:222
+msgid "Custom \"Book Author\" text"
+msgstr ""
+
+#: inc/customize.php:311 inc/options/penci_new_section_review_section.php:223
+msgid "Custom \"Book Edition\" text"
+msgstr ""
+
+#: inc/customize.php:312 inc/options/penci_new_section_review_section.php:224
+msgid "Custom \"Book Format\" text"
+msgstr ""
+
+#: inc/customize.php:313 inc/customize.php:327 inc/customize.php:345
+#: inc/options/penci_new_section_review_section.php:225
+#: inc/options/penci_new_section_review_section.php:237
+#: inc/options/penci_new_section_review_section.php:253
+msgid "Custom \"Date published\" text"
+msgstr ""
+
+#: inc/customize.php:314 inc/options/penci_new_section_review_section.php:226
+msgid "Custom \"Illustrator\" text"
+msgstr ""
+
+#: inc/customize.php:315 inc/options/penci_new_section_review_section.php:227
+msgid "Custom \"ISBN\" text"
+msgstr ""
+
+#: inc/customize.php:316 inc/options/penci_new_section_review_section.php:228
+msgid "Custom \"Number Of Pages\" text"
+msgstr ""
+
+#: inc/customize.php:317 inc/options/penci_new_section_review_section.php:229
+msgid "Custom \"Book Description\" text"
+msgstr ""
+
+#: inc/customize.php:320 inc/options/penci_new_section_review_section.php:231
+msgid "Custom \"Game title\" text"
+msgstr ""
+
+#: inc/customize.php:322 inc/options/penci_new_section_review_section.php:233
+msgid "Custom \"Game description\" text"
+msgstr ""
+
+#: inc/customize.php:325 inc/options/penci_new_section_review_section.php:235
+msgid "Custom \"Movie title\" text"
+msgstr ""
+
+#: inc/customize.php:328 inc/options/penci_new_section_review_section.php:238
+msgid "Custom \"Movie description\" text"
+msgstr ""
+
+#: inc/customize.php:329 inc/options/penci_new_section_review_section.php:239
+msgid "Custom \"Director(s)\" text"
+msgstr ""
+
+#: inc/customize.php:330 inc/options/penci_new_section_review_section.php:240
+msgid "Custom \"Actor(s)\" text"
+msgstr ""
+
+#: inc/customize.php:331 inc/customize.php:339 inc/customize.php:346
+#: inc/options/penci_new_section_review_section.php:241
+#: inc/options/penci_new_section_review_section.php:248
+#: inc/options/penci_new_section_review_section.php:254
+msgid "Custom \"Genre\" text"
+msgstr ""
+
+#: inc/customize.php:334 inc/options/penci_new_section_review_section.php:243
+msgid "Custom \"Track name\" text"
+msgstr ""
+
+#: inc/customize.php:336 inc/customize.php:343
+#: inc/options/penci_new_section_review_section.php:245
+#: inc/options/penci_new_section_review_section.php:251
+msgid "Custom \"Author\" text"
+msgstr ""
+
+#: inc/customize.php:337 inc/options/penci_new_section_review_section.php:246
+msgid "Custom \"Track Duration\" text"
+msgstr ""
+
+#: inc/customize.php:338 inc/options/penci_new_section_review_section.php:247
+msgid "Custom \"Album name\" text"
+msgstr ""
+
+#: inc/customize.php:342 inc/customize.php:374 inc/customize.php:391
+#: inc/customize.php:396 inc/options/penci_new_section_review_section.php:250
+#: inc/options/penci_new_section_review_section.php:278
+#: inc/options/penci_new_section_review_section.php:293
+#: inc/options/penci_new_section_review_section.php:297
+msgid "Custom \"Name\" text"
+msgstr ""
+
+#: inc/customize.php:349 inc/options/penci_new_section_review_section.php:256
+msgid "Custom \"Place Name\" text"
+msgstr ""
+
+#: inc/customize.php:351 inc/options/penci_new_section_review_section.php:258
+msgid "Custom \"Place Description\" text"
+msgstr ""
+
+#: inc/customize.php:354 inc/options/penci_new_section_review_section.php:260
+msgid "Custom \"Product Name\" text"
+msgstr ""
+
+#: inc/customize.php:357 inc/customize.php:377
+#: inc/options/penci_new_section_review_section.php:263
+#: inc/options/penci_new_section_review_section.php:281
+msgid "Custom \"Currency\" text"
+msgstr ""
+
+#: inc/customize.php:358 inc/options/penci_new_section_review_section.php:264
+msgid "Custom \"Availability\" text"
+msgstr ""
+
+#: inc/customize.php:359 inc/options/penci_new_section_review_section.php:265
+msgid "Custom \"Brand\" text"
+msgstr ""
+
+#: inc/customize.php:360 inc/options/penci_new_section_review_section.php:266
+msgid "Custom \"SKU\" text"
+msgstr ""
+
+#: inc/customize.php:361 inc/options/penci_new_section_review_section.php:267
+msgid "Custom \"Product Description"
+msgstr ""
+
+#: inc/customize.php:364 inc/options/penci_new_section_review_section.php:269
+msgid "Custom \"Restaurant Name\" text"
+msgstr ""
+
+#: inc/customize.php:366 inc/customize.php:385
+#: inc/options/penci_new_section_review_section.php:271
+#: inc/options/penci_new_section_review_section.php:288
+msgid "Custom \"Address\" text"
+msgstr ""
+
+#: inc/customize.php:367 inc/customize.php:386
+#: inc/options/penci_new_section_review_section.php:272
+#: inc/options/penci_new_section_review_section.php:289
+msgid "Custom \"Price range\" text"
+msgstr ""
+
+#: inc/customize.php:368 inc/customize.php:387
+#: inc/options/penci_new_section_review_section.php:273
+#: inc/options/penci_new_section_review_section.php:290
+msgid "Custom \"Telephone\" text"
+msgstr ""
+
+#: inc/customize.php:369 inc/options/penci_new_section_review_section.php:274
+msgid "Custom \"Serves cuisine\" text"
+msgstr ""
+
+#: inc/customize.php:370 inc/options/penci_new_section_review_section.php:275
+msgid "Custom \"Opening hours\" text"
+msgstr ""
+
+#: inc/customize.php:371 inc/options/penci_new_section_review_section.php:276
+msgid "Custom \"Restaurant Description\" text"
+msgstr ""
+
+#: inc/customize.php:378 inc/options/penci_new_section_review_section.php:282
+msgid "Custom \"Operating System\" text"
+msgstr ""
+
+#: inc/customize.php:379 inc/options/penci_new_section_review_section.php:283
+msgid "Custom \"Application Category\" text"
+msgstr ""
+
+#: inc/customize.php:380 inc/customize.php:393 inc/customize.php:398
+#: inc/options/penci_new_section_review_section.php:284
+#: inc/options/penci_new_section_review_section.php:295
+#: inc/options/penci_new_section_review_section.php:299
+msgid "Custom \"Description\" text"
+msgstr ""
+
+#: inc/customize.php:383 inc/options/penci_new_section_review_section.php:286
+msgid "Custom \"Store Name\" text"
+msgstr ""
+
+#: inc/customize.php:388 inc/options/penci_new_section_review_section.php:291
+msgid "Custom \"Store Description\" text"
+msgstr ""
+
+#: inc/default-options.php:8
+msgid "Price:"
+msgstr ""
+
+#: inc/default-options.php:10
+msgid "Thing"
+msgstr ""
+
+#: inc/default-options.php:11
+msgid "None"
+msgstr ""
+
+#: inc/default-options.php:12
+msgid "Book"
+msgstr ""
+
+#: inc/default-options.php:13
+msgid "Game"
+msgstr ""
+
+#: inc/default-options.php:14
+msgid "Movie"
+msgstr ""
+
+#: inc/default-options.php:15
+msgid "MusicRecording"
+msgstr ""
+
+#: inc/default-options.php:16
+msgid "Painting"
+msgstr ""
+
+#: inc/default-options.php:17
+msgid "Place"
+msgstr ""
+
+#: inc/default-options.php:18
+msgid "Product"
+msgstr ""
+
+#: inc/default-options.php:19
+msgid "Restaurant"
+msgstr ""
+
+#: inc/default-options.php:20
+msgid "SoftwareApplication"
+msgstr ""
+
+#: inc/default-options.php:21
+msgid "Store"
+msgstr ""
+
+#: inc/default-options.php:22
+msgid "TVSeries"
+msgstr ""
+
+#: inc/default-options.php:23
+msgid "WebSite"
+msgstr ""
+
+#: inc/default-options.php:24
+msgid "Course"
+msgstr ""
+
+#: inc/default-options.php:25
+msgid "Event"
+msgstr ""
+
+#: inc/default-options.php:26
+msgid "How to"
+msgstr ""
+
+#: inc/default-options.php:29
+msgid "Book Title"
+msgstr ""
+
+#: inc/default-options.php:30 inc/default-options.php:42
+#: inc/default-options.php:47 inc/default-options.php:56
+#: inc/default-options.php:65 inc/default-options.php:71
+#: inc/default-options.php:76 inc/default-options.php:88
+#: inc/default-options.php:98 inc/default-options.php:107
+#: inc/default-options.php:115 inc/default-options.php:120
+#: inc/schema-markup.php:1134 inc/schema-markup.php:1189
+#: inc/schema-markup.php:1242 inc/schema-markup.php:1471
+msgid "URL"
+msgstr ""
+
+#: inc/default-options.php:31
+msgid "Book Author"
+msgstr ""
+
+#: inc/default-options.php:32
+msgid "Book Edition"
+msgstr ""
+
+#: inc/default-options.php:33
+msgid "Book Format"
+msgstr ""
+
+#: inc/default-options.php:34 inc/default-options.php:48
+#: inc/default-options.php:66 inc/schema-markup.php:1141
+#: inc/schema-markup.php:1249
+msgid "Date published"
+msgstr ""
+
+#: inc/default-options.php:35
+msgid "Illustrator"
+msgstr ""
+
+#: inc/default-options.php:36
+msgid "ISBN"
+msgstr ""
+
+#: inc/default-options.php:37
+msgid "Number Of Pages"
+msgstr ""
+
+#: inc/default-options.php:38
+msgid "Book Description"
+msgstr ""
+
+#: inc/default-options.php:41
+msgid "Game title"
+msgstr ""
+
+#: inc/default-options.php:43
+msgid "Game description"
+msgstr ""
+
+#: inc/default-options.php:46 inc/schema-markup.php:1126
+msgid "Movie title"
+msgstr ""
+
+#: inc/default-options.php:49 inc/schema-markup.php:1148
+msgid "Movie description"
+msgstr ""
+
+#: inc/default-options.php:50 inc/schema-markup.php:1155
+msgid "Director(s)"
+msgstr ""
+
+#: inc/default-options.php:51 inc/schema-markup.php:1163
+msgid "Actor(s)"
+msgstr ""
+
+#: inc/default-options.php:52 inc/default-options.php:60
+#: inc/default-options.php:67 inc/schema-markup.php:1171
+#: inc/schema-markup.php:1217 inc/schema-markup.php:1256
+msgid "Genre"
+msgstr ""
+
+#: inc/default-options.php:55 inc/schema-markup.php:1182
+msgid "Track name"
+msgstr ""
+
+#: inc/default-options.php:57 inc/default-options.php:64
+#: inc/schema-markup.php:1196 inc/schema-markup.php:1235
+msgid "Author"
+msgstr ""
+
+#: inc/default-options.php:58 inc/schema-markup.php:1203
+msgid "Track Duration"
+msgstr ""
+
+#: inc/default-options.php:59 inc/schema-markup.php:1210
+msgid "Album name"
+msgstr ""
+
+#: inc/default-options.php:63 inc/default-options.php:97
+#: inc/default-options.php:114 inc/default-options.php:119
+#: inc/default-options.php:124 inc/default-options.php:128
+#: inc/schema-markup.php:1228
+msgid "Name"
+msgstr ""
+
+#: inc/default-options.php:70
+msgid "Place Name"
+msgstr ""
+
+#: inc/default-options.php:72
+msgid "Place Description"
+msgstr ""
+
+#: inc/default-options.php:75
+msgid "Product Name"
+msgstr ""
+
+#: inc/default-options.php:77 inc/default-options.php:99
+#: inc/default-options.php:135
+msgid "Price"
+msgstr ""
+
+#: inc/default-options.php:78 inc/default-options.php:100
+msgid "Currency"
+msgstr ""
+
+#: inc/default-options.php:79
+msgid "Availability"
+msgstr ""
+
+#: inc/default-options.php:80
+msgid "Brand"
+msgstr ""
+
+#: inc/default-options.php:81
+msgid "SKU"
+msgstr ""
+
+#: inc/default-options.php:82
+msgid "Product Description"
+msgstr ""
+
+#: inc/default-options.php:83
+msgid "Price Valid Until"
+msgstr ""
+
+#: inc/default-options.php:84
+msgid "Product MPN"
+msgstr ""
+
+#: inc/default-options.php:87
+msgid "Restaurant Name"
+msgstr ""
+
+#: inc/default-options.php:89 inc/default-options.php:108
+#: inc/schema-markup.php:1478
+msgid "Address"
+msgstr ""
+
+#: inc/default-options.php:90 inc/default-options.php:109
+#: inc/schema-markup.php:1484
+msgid "Price range"
+msgstr ""
+
+#: inc/default-options.php:91 inc/default-options.php:110
+#: inc/schema-markup.php:1490
+msgid "Telephone"
+msgstr ""
+
+#: inc/default-options.php:92
+msgid "Serves cuisine"
+msgstr ""
+
+#: inc/default-options.php:93
+msgid "Opening hours"
+msgstr ""
+
+#: inc/default-options.php:94
+msgid "Restaurant Description"
+msgstr ""
+
+#: inc/default-options.php:101
+msgid "Operating System"
+msgstr ""
+
+#: inc/default-options.php:102
+msgid "Application Category"
+msgstr ""
+
+#: inc/default-options.php:103 inc/default-options.php:116
+#: inc/default-options.php:121 inc/default-options.php:125
+#: inc/default-options.php:129
+msgid "Description"
+msgstr ""
+
+#: inc/default-options.php:106 inc/schema-markup.php:1464
+msgid "Store Name"
+msgstr ""
+
+#: inc/default-options.php:111 inc/schema-markup.php:1497
+msgid "Store Description"
+msgstr ""
+
+#: inc/default-options.php:130
+msgid "Url"
+msgstr ""
+
+#: inc/default-options.php:131
+msgid "startDate"
+msgstr ""
+
+#: inc/default-options.php:132
+msgid "endDate"
+msgstr ""
+
+#: inc/default-options.php:133
+msgid "Location Name"
+msgstr ""
+
+#: inc/default-options.php:134
+msgid "Location Address"
+msgstr ""
+
+#: inc/default-options.php:136
+msgid "Price Currency"
+msgstr ""
+
+#: inc/default-options.php:137
+msgid "Valid From Date"
+msgstr ""
+
+#: inc/options/penci_new_section_review_section.php:12
+msgid "Enable Stars Review Style"
+msgstr ""
+
+#: inc/options/section.php:20 init.php:40
+msgid "Posts Review Options"
+msgstr ""
+
+#: inc/schema-markup.php:1060
+msgid "Default"
+msgstr ""
+
+#: inc/schema-markup.php:1159
+msgid "Add one director per line"
+msgstr ""
+
+#: inc/schema-markup.php:1167
+msgid "Add one actor per line"
+msgstr ""
+
+#: inc/schema-markup.php:1396
+msgid "Add one cuisine  per line"
+msgstr ""
+
+#: inc/schema-markup.php:1402
+msgid "Add one opening hour per line"
+msgstr ""
+
+#: inc/schema-markup.php:1443
+msgid "For example, \"Windows 7\", \"OSX 10.6\", \"Android 1.6\""
+msgstr ""
+
+#: inc/schema-markup.php:1450
+msgid "For example, \"Game\", \"Multimedia\""
+msgstr ""
+
+#: inc/schema-markup.php:1585 init.php:427 init.php:861
+msgid "No image selected"
+msgstr ""
+
+#: inc/shortcodes.php:346 inc/shortcodes.php:706
+msgid "Average Score"
+msgstr ""
+
+#: inc/shortcodes.php:349 inc/shortcodes.php:709
+msgid "Average Star"
+msgstr ""
+
+#: init.php:74
+msgid "Select an image"
+msgstr ""
+
+#: init.php:75
+msgid "Insert into widget"
+msgstr ""
+
+#: init.php:76
+msgid "Review Title for Point"
+msgstr ""
+
+#: init.php:77
+msgid "Review Number for Point"
+msgstr ""
+
+#: init.php:78
+msgid "Minimum is 1, Maximum is 10. Example: 8"
+msgstr ""
+
+#: init.php:174
+msgid "Add A Review For This Posts"
+msgstr ""
+
+#: init.php:321
+msgid "Featured Image on Reviews Box"
+msgstr ""
+
+#: init.php:322
+msgid "Reviewed Schema Info"
+msgstr ""
+
+#: init.php:323
+msgid "Show Stars Rating"
+msgstr ""
+
+#: init.php:359
+msgid "Add new Review"
+msgstr ""
+
+#: init.php:365 init.php:787
+msgid "You can show this single review into your post by insert shortcode"
+msgstr ""

@@ -1,0 +1,801 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-09-07 21:06+0700\n"
+"PO-Revision-Date: 2023-09-07 21:06+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _;_e;esc__;esc_html__;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: builder/elementor.php:22
+msgid " Post Packages"
+msgstr ""
+
+#: builder/elementor.php:24
+msgid "Penci Post Packages"
+msgstr ""
+
+#: builder/elementor.php:45 builder/elementor.php:294
+msgid "Pricing Table"
+msgstr ""
+
+#: builder/elementor.php:51 inc/getpaid.php:32 inc/woocommerce.php:177
+msgid "Post Package"
+msgstr ""
+
+#: builder/elementor.php:59
+msgid "Choose Style"
+msgstr ""
+
+#: builder/elementor.php:63
+msgid "Style 1"
+msgstr ""
+
+#: builder/elementor.php:64
+msgid "Style 2"
+msgstr ""
+
+#: builder/elementor.php:71
+msgid "Featured Header?"
+msgstr ""
+
+#: builder/elementor.php:73 builder/elementor.php:83 builder/elementor.php:148
+#: builder/elementor.php:189 builder/elementor.php:226
+msgid "Yes"
+msgstr ""
+
+#: builder/elementor.php:74 builder/elementor.php:84 builder/elementor.php:149
+#: builder/elementor.php:190 builder/elementor.php:227
+msgid "No"
+msgstr ""
+
+#: builder/elementor.php:81
+msgid "Add image"
+msgstr ""
+
+#: builder/elementor.php:91 inc/helper.php:289
+msgid "Choose Image"
+msgstr ""
+
+#: builder/elementor.php:108
+msgid "Image Width"
+msgstr ""
+
+#: builder/elementor.php:117
+msgid "Image Height"
+msgstr ""
+
+#: builder/elementor.php:126 builder/jscomposer.php:127
+msgid "Image margin top"
+msgstr ""
+
+#: builder/elementor.php:135 builder/jscomposer.php:138
+msgid "Image margin bottom"
+msgstr ""
+
+#: builder/elementor.php:146
+msgid "Add Icon"
+msgstr ""
+
+#: builder/elementor.php:155
+msgid "Select Icon"
+msgstr ""
+
+#: builder/elementor.php:167
+msgid "Icon margin top"
+msgstr ""
+
+#: builder/elementor.php:177
+msgid "Icon margin bottom"
+msgstr ""
+
+#: builder/elementor.php:187
+msgid "Display Pricing & Pricing Unit in One Line?"
+msgstr ""
+
+#: builder/elementor.php:203 builder/jscomposer.php:156
+msgid "Button Text"
+msgstr ""
+
+#: builder/elementor.php:206
+msgid "Sign Up"
+msgstr ""
+
+#: builder/elementor.php:212
+msgid "Button Position"
+msgstr ""
+
+#: builder/elementor.php:216
+msgid "Below Content"
+msgstr ""
+
+#: builder/elementor.php:217
+msgid "Above Content"
+msgstr ""
+
+#: builder/elementor.php:224 builder/jscomposer.php:162
+msgid "Make this pricing box as featured"
+msgstr ""
+
+#: builder/elementor.php:234
+msgid "Featured Style"
+msgstr ""
+
+#: builder/elementor.php:238
+msgid "Highlight Height"
+msgstr ""
+
+#: builder/elementor.php:239
+msgid "Scale Up"
+msgstr ""
+
+#: builder/elementor.php:249
+msgid "Add Ribbon?"
+msgstr ""
+
+#: builder/elementor.php:253
+msgid "None"
+msgstr ""
+
+#: builder/elementor.php:254
+msgid "Ribbon Icon"
+msgstr ""
+
+#: builder/elementor.php:255
+msgid "Ribbon Text"
+msgstr ""
+
+#: builder/elementor.php:262
+msgid "Custom Ribbon Icon"
+msgstr ""
+
+#: builder/elementor.php:274
+msgid "Custom Ribbon Text"
+msgstr ""
+
+#: builder/elementor.php:276
+msgid "Best Value"
+msgstr ""
+
+#: builder/elementor.php:283 builder/jscomposer.php:169
+msgid "Minimum height for pricing item"
+msgstr ""
+
+#: builder/elementor.php:301
+msgid "Background Color for Pricing Table"
+msgstr ""
+
+#: builder/elementor.php:308
+msgid "Border Color for Pricing Table"
+msgstr ""
+
+#: builder/elementor.php:316
+msgid "Featured Header Background Color"
+msgstr ""
+
+#: builder/elementor.php:326
+msgid "Icon"
+msgstr ""
+
+#: builder/elementor.php:334
+msgid "Icon Color"
+msgstr ""
+
+#: builder/elementor.php:343
+msgid "Icon Font Size"
+msgstr ""
+
+#: builder/elementor.php:354 builder/jscomposer.php:281
+msgid "Title"
+msgstr ""
+
+#: builder/elementor.php:361 builder/elementor.php:392
+msgid "Color"
+msgstr ""
+
+#: builder/elementor.php:369 builder/elementor.php:400
+#: builder/elementor.php:431 builder/elementor.php:462
+#: builder/elementor.php:493 builder/elementor.php:607
+msgid "Typography"
+msgstr ""
+
+#: builder/elementor.php:375 builder/elementor.php:406
+#: builder/elementor.php:437 builder/elementor.php:468
+#: builder/elementor.php:499
+msgid "Margin Bottom"
+msgstr ""
+
+#: builder/elementor.php:386
+msgid "Subtitle"
+msgstr ""
+
+#: builder/elementor.php:417 builder/jscomposer.php:366
+msgid "Price"
+msgstr ""
+
+#: builder/elementor.php:423
+msgid "Price Color"
+msgstr ""
+
+#: builder/elementor.php:448 builder/jscomposer.php:400
+msgid "Price Unit"
+msgstr ""
+
+#: builder/elementor.php:454
+msgid "Price Unit Color"
+msgstr ""
+
+#: builder/elementor.php:479 builder/jscomposer.php:149
+#: builder/jscomposer.php:433
+msgid "Features"
+msgstr ""
+
+#: builder/elementor.php:485
+msgid "Features Color"
+msgstr ""
+
+#: builder/elementor.php:507 builder/jscomposer.php:239
+msgid "Item of list features margin bottom"
+msgstr ""
+
+#: builder/elementor.php:516
+msgid "Ribbon Background Color"
+msgstr ""
+
+#: builder/elementor.php:527
+msgid "Ribbon Text Color"
+msgstr ""
+
+#: builder/elementor.php:539
+msgid "Ribbon Text Typography"
+msgstr ""
+
+#: builder/elementor.php:551
+msgid "Pricing Table Button"
+msgstr ""
+
+#: builder/elementor.php:558
+msgid "Button Style"
+msgstr ""
+
+#: builder/elementor.php:562
+msgid "Filled"
+msgstr ""
+
+#: builder/elementor.php:563
+msgid "Bordered"
+msgstr ""
+
+#: builder/elementor.php:571
+msgid "Button Text Color"
+msgstr ""
+
+#: builder/elementor.php:580
+msgid "Button Background & Border Color"
+msgstr ""
+
+#: builder/elementor.php:589
+msgid "Button Hover Text Color"
+msgstr ""
+
+#: builder/elementor.php:598
+msgid "Button Background & Border Hover Color"
+msgstr ""
+
+#: builder/elementor.php:614
+msgid "Borders Radius"
+msgstr ""
+
+#: builder/elementor.php:625
+msgid "Borders Width"
+msgstr ""
+
+#: builder/elementor.php:636 builder/jscomposer.php:249
+msgid "Button margin top"
+msgstr ""
+
+#: builder/elementor.php:644
+msgid "Button margin bottom"
+msgstr ""
+
+#: builder/elementor.php:653 builder/jscomposer.php:259
+msgid "Button width"
+msgstr ""
+
+#: builder/elementor.php:662 builder/jscomposer.php:269
+msgid "Button Height"
+msgstr ""
+
+#: builder/jscomposer.php:56 inc/helper.php:243
+msgid "No Post Package Found"
+msgstr ""
+
+#: builder/jscomposer.php:76
+msgid "Package"
+msgstr ""
+
+#: builder/jscomposer.php:77
+msgid "Penci Front End Submission Package"
+msgstr ""
+
+#: builder/jscomposer.php:82
+msgid "Select Package Item"
+msgstr ""
+
+#: builder/jscomposer.php:88
+msgid "Use image"
+msgstr ""
+
+#: builder/jscomposer.php:97
+msgid "Image"
+msgstr ""
+
+#: builder/jscomposer.php:105
+msgid "Image width"
+msgstr ""
+
+#: builder/jscomposer.php:116
+msgid "Image height"
+msgstr ""
+
+#: builder/jscomposer.php:152
+msgid "Create the features list using un-ordered list elements."
+msgstr ""
+
+#: builder/jscomposer.php:158
+msgid "Enter call to action button text"
+msgstr ""
+
+#: builder/jscomposer.php:179
+msgid "Pricing title margin bottom"
+msgstr ""
+
+#: builder/jscomposer.php:189
+msgid "Pricing subtitle margin bottom"
+msgstr ""
+
+#: builder/jscomposer.php:199
+msgid "Pricing margin bottom"
+msgstr ""
+
+#: builder/jscomposer.php:209
+msgid "Price unit margin bottom"
+msgstr ""
+
+#: builder/jscomposer.php:219
+msgid "Features margin top"
+msgstr ""
+
+#: builder/jscomposer.php:229
+msgid "Features margin bottom"
+msgstr ""
+
+#: builder/jscomposer.php:288
+msgid "Title color"
+msgstr ""
+
+#: builder/jscomposer.php:296 builder/jscomposer.php:347
+msgid "Font Size for Pricing Title"
+msgstr ""
+
+#: builder/jscomposer.php:314
+msgid "Background color for pricing item"
+msgstr ""
+
+#: builder/jscomposer.php:321
+msgid "Border color for pricing item"
+msgstr ""
+
+#: builder/jscomposer.php:332 builder/jscomposer.php:339
+msgid "Pricing Subtitle"
+msgstr ""
+
+#: builder/jscomposer.php:373
+msgid "Price color"
+msgstr ""
+
+#: builder/jscomposer.php:381 builder/jscomposer.php:448
+#: builder/jscomposer.php:517
+msgid "Font Size for Pricing"
+msgstr ""
+
+#: builder/jscomposer.php:407
+msgid "Price Unit color"
+msgstr ""
+
+#: builder/jscomposer.php:415
+msgid "Font Size for Price Unit"
+msgstr ""
+
+#: builder/jscomposer.php:440
+msgid "Features color"
+msgstr ""
+
+#: builder/jscomposer.php:467
+msgid "Button"
+msgstr ""
+
+#: builder/jscomposer.php:474
+msgid "Button background color"
+msgstr ""
+
+#: builder/jscomposer.php:481
+msgid "Button border color"
+msgstr ""
+
+#: builder/jscomposer.php:488
+msgid "Button text color"
+msgstr ""
+
+#: builder/jscomposer.php:495
+msgid "Button background hover color"
+msgstr ""
+
+#: builder/jscomposer.php:502
+msgid "Button border hover color"
+msgstr ""
+
+#: builder/jscomposer.php:509
+msgid "Button text hover color"
+msgstr ""
+
+#: customizer/panel.php:23 penci-frontend-submission.php:79
+msgid "Front End Submission"
+msgstr ""
+
+#: customizer/panel.php:24 penci-frontend-submission.php:80
+msgid ""
+"Please check <a target=\"_blank\" href=\"https://soledad.pencidesign.net/"
+"soledad-document/#text-to-speech\">this video tutorial</a> to know how to "
+"setup this feature."
+msgstr ""
+
+#: customizer/panel.php:30 penci-frontend-submission.php:82
+msgid "General"
+msgstr ""
+
+#: customizer/panel.php:31 penci-frontend-submission.php:83
+msgid "Advanced Settings"
+msgstr ""
+
+#: customizer/panel.php:32 penci-frontend-submission.php:84
+msgid "Text Translations"
+msgstr ""
+
+#: customizer/penci_frontend_submission_advanced_section.php:6
+msgid "Page URL Settings"
+msgstr ""
+
+#: customizer/penci_frontend_submission_advanced_section.php:14
+msgid "Post Listing URL Slug"
+msgstr ""
+
+#: customizer/penci_frontend_submission_advanced_section.php:15
+#: customizer/penci_frontend_submission_advanced_section.php:24
+msgid "Default: "
+msgstr ""
+
+#: customizer/penci_frontend_submission_advanced_section.php:23
+msgid "Post Submit URL Slug"
+msgstr ""
+
+#: customizer/penci_frontend_submission_general_section.php:7
+msgid "General Option"
+msgstr ""
+
+#: customizer/penci_frontend_submission_general_section.php:14
+msgid "Enable Support in Post Types"
+msgstr ""
+
+#: customizer/penci_frontend_submission_general_section.php:51
+msgid "Default Submit Status"
+msgstr ""
+
+#: customizer/penci_frontend_submission_general_section.php:54
+msgid "Draft"
+msgstr ""
+
+#: customizer/penci_frontend_submission_general_section.php:55
+msgid "Pending"
+msgstr ""
+
+#: customizer/penci_frontend_submission_general_section.php:56
+msgid "Publish"
+msgstr ""
+
+#: customizer/penci_frontend_submission_general_section.php:66
+msgid "Enable Add Media"
+msgstr ""
+
+#: customizer/penci_frontend_submission_general_section.php:67
+msgid "Enable add media button on frontend post editor."
+msgstr ""
+
+#: customizer/penci_frontend_submission_general_section.php:75
+msgid "Maxupload Size"
+msgstr ""
+
+#: customizer/penci_frontend_submission_general_section.php:76
+msgid "Set maxupload file size."
+msgstr ""
+
+#: customizer/penci_frontend_submission_general_section.php:87
+msgid "Premium Subscription Option"
+msgstr ""
+
+#: customizer/penci_frontend_submission_general_section.php:95
+msgid "Enable Premium Submission Mode"
+msgstr ""
+
+#: customizer/penci_frontend_submission_general_section.php:96
+msgid ""
+"By enabling this option, the site user will need to buy post package before "
+"they can submit their post using frontend submit."
+msgstr ""
+
+#: customizer/penci_frontend_submission_general_section.php:104
+msgid "Subscribe Page"
+msgstr ""
+
+#: customizer/penci_frontend_submission_general_section.php:107
+msgid "-Select Page-"
+msgstr ""
+
+#: customizer/penci_frontend_submission_translations_section.php:9
+msgid "Text: "
+msgstr ""
+
+#: inc/getpaid.php:79
+msgid "Post Package - Post Limit"
+msgstr ""
+
+#: inc/helper.php:253
+msgid "First Name"
+msgstr ""
+
+#: inc/helper.php:254
+msgid "Insert your first name"
+msgstr ""
+
+#: inc/helper.php:255
+msgid "Last Name"
+msgstr ""
+
+#: inc/helper.php:256
+msgid "Insert your last name"
+msgstr ""
+
+#: inc/helper.php:257
+msgid "Display Name"
+msgstr ""
+
+#: inc/helper.php:258
+msgid "Contact Info"
+msgstr ""
+
+#: inc/helper.php:259
+msgid "About Yourself"
+msgstr ""
+
+#: inc/helper.php:260
+msgid "Biographical Info"
+msgstr ""
+
+#: inc/helper.php:261
+msgid "Profile Picture"
+msgstr ""
+
+#: inc/helper.php:262 inc/helper.php:295
+msgid "Edit Account"
+msgstr ""
+
+#: inc/helper.php:263
+msgid "Old Password"
+msgstr ""
+
+#: inc/helper.php:264
+msgid "New Password"
+msgstr ""
+
+#: inc/helper.php:265
+msgid "Confirm Password"
+msgstr ""
+
+#: inc/helper.php:266 inc/helper.php:296
+msgid "Change Password"
+msgstr ""
+
+#: inc/helper.php:267
+msgid "Enter title here"
+msgstr ""
+
+#: inc/helper.php:268
+msgid "Enter subtitle here"
+msgstr ""
+
+#: inc/helper.php:269
+msgid "Post Content"
+msgstr ""
+
+#: inc/helper.php:270
+msgid "Standard"
+msgstr ""
+
+#: inc/helper.php:271
+msgid "Gallery"
+msgstr ""
+
+#: inc/helper.php:272
+msgid "Video"
+msgstr ""
+
+#: inc/helper.php:273
+msgid "Audio"
+msgstr ""
+
+#: inc/helper.php:274
+msgid "Insert video url or embed code"
+msgstr ""
+
+#: inc/helper.php:275
+msgid "Categories"
+msgstr ""
+
+#: inc/helper.php:276
+msgid "Choose categories"
+msgstr ""
+
+#: inc/helper.php:277
+msgid "Tags"
+msgstr ""
+
+#: inc/helper.php:278
+msgid "Choose tags"
+msgstr ""
+
+#: inc/helper.php:279
+msgid "Submit Post"
+msgstr ""
+
+#: inc/helper.php:280
+msgid "Edit Post"
+msgstr ""
+
+#: inc/helper.php:281
+msgid "View Post"
+msgstr ""
+
+#: inc/helper.php:282
+msgid "Update Post"
+msgstr ""
+
+#: inc/helper.php:283
+msgid "Unlimited"
+msgstr ""
+
+#: inc/helper.php:284
+msgid "Remaining Quota"
+msgstr ""
+
+#: inc/helper.php:285
+msgid "Showing {{value}}-{{value}} of {{value}} post results"
+msgstr ""
+
+#: inc/helper.php:286
+msgid "Sort by latest"
+msgstr ""
+
+#: inc/helper.php:287
+msgid "Sort by older"
+msgstr ""
+
+#: inc/helper.php:288
+msgid "No Content Available"
+msgstr ""
+
+#: inc/helper.php:290
+msgid "Add Media"
+msgstr ""
+
+#: inc/helper.php:291
+msgid "Insert"
+msgstr ""
+
+#: inc/helper.php:292 inc/helper.php:297
+msgid "Create New Post"
+msgstr ""
+
+#: inc/helper.php:293
+msgid "My Account"
+msgstr ""
+
+#: inc/helper.php:294
+msgid "Delete Post"
+msgstr ""
+
+#: inc/helper.php:298
+msgid "My Posts"
+msgstr ""
+
+#: inc/helper.php:299
+msgid "You have successfully edited your account details"
+msgstr ""
+
+#: inc/helper.php:300
+msgid "Your old password is not valid"
+msgstr ""
+
+#: inc/helper.php:301
+msgid "Please enter your new password"
+msgstr ""
+
+#: inc/helper.php:302
+msgid "New Password & Confirm Password do not match"
+msgstr ""
+
+#: inc/helper.php:303
+msgid "You have successfully changed your password"
+msgstr ""
+
+#: inc/helper.php:304
+msgid "Please enter your old password"
+msgstr ""
+
+#: inc/helper.php:305
+msgid "Post title cannot be empty"
+msgstr ""
+
+#: inc/helper.php:306
+msgid "Post updated successfully"
+msgstr ""
+
+#: inc/helper.php:307
+msgid "Post created successfully"
+msgstr ""
+
+#: inc/helper.php:308
+msgid "Become an Author"
+msgstr ""
+
+#: inc/helper.php:309
+msgid "Edit Post Type"
+msgstr ""
+
+#: inc/helper.php:310
+msgid "Choose Gallery Images"
+msgstr ""
+
+#: inc/helper.php:311
+msgid "Choose Featured Image"
+msgstr ""
+
+#: inc/helper.php:312
+msgid "Are you sure you want to delete this post?"
+msgstr ""
+
+#: inc/helper.php:313
+msgid "You can't create post at this time. Please purchase a Premium Package"
+msgstr ""
+
+#: inc/init.php:50
+msgid ""
+"<strong>Penci Frontend Submission</strong> required <strong>GetPaid</strong> "
+"or <strong>WooCommerce</strong> plugin to add the payment gateway. Please "
+"install these plugins <a href=\""
+msgstr ""
+
+#: inc/woocommerce.php:64
+msgid "Not a Product"
+msgstr ""
+
+#: inc/woocommerce.php:68
+msgid "Free product only purchasable once"
+msgstr ""

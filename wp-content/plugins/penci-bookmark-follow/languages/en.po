@@ -1,0 +1,1344 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-09-07 21:03+0700\n"
+"PO-Revision-Date: 2023-09-07 21:03+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e;esc__;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: customizer/panel.php:23 penci-bookmark-follow.php:532
+msgid "Bookmark & Follow"
+msgstr ""
+
+#: customizer/panel.php:29 penci-bookmark-follow.php:534
+msgid "General"
+msgstr ""
+
+#: customizer/panel.php:30 penci-bookmark-follow.php:535
+msgid "Notifications Settings"
+msgstr ""
+
+#: customizer/panel.php:31 penci-bookmark-follow.php:536
+msgid "Email Settings"
+msgstr ""
+
+#: customizer/panel.php:32 penci-bookmark-follow.php:537
+msgid "Quick Text Translation"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_email_section.php:8
+msgid "From Email Address"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_email_section.php:9
+#: customizer/penci_bookmark_follow_noti_section.php:9
+msgid ""
+"When enable, Registered users will be sent a confirmation email to "
+"subscribe, and will only be added once they confirmed the subscription"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_email_section.php:16
+msgid "Add Unsubscribe link to email Message"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_email_section.php:24
+msgid "Unsubscribe Message"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_email_section.php:25
+msgid ""
+"Enter the custom Unsubscribe Message. Available template tags for "
+"unsubscribe message are: {unsubscribe_url} - displays the unsubscribe url "
+"for unsubscribe email"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_email_section.php:31
+msgid "Edit Post Subscription Email Template"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_email_section.php:38
+#: customizer/penci_bookmark_follow_email_section.php:66
+msgid "Post {post_name} updated at {site_name}"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_email_section.php:39
+#: customizer/penci_bookmark_follow_email_section.php:67
+#: customizer/penci_bookmark_follow_email_section.php:95
+#: customizer/penci_bookmark_follow_email_section.php:123
+#: customizer/penci_bookmark_follow_email_section.php:151
+#: customizer/penci_bookmark_follow_email_section.php:182
+#: inc/admin/forms/penci-bf-users-logs-list-authors.php:140
+#: inc/admin/forms/penci-bf-users-logs-list.php:140
+msgid "Email Subject"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_email_section.php:40
+#: customizer/penci_bookmark_follow_email_section.php:68
+#: customizer/penci_bookmark_follow_email_section.php:96
+#: customizer/penci_bookmark_follow_email_section.php:124
+msgid ""
+"This is the subject of the email that will be sent to the followers of that "
+"post when post is updated. Available template tags for subject fields are :"
+"{post_name} - displays the title of the post, {site_name} - displays the "
+"name of your site "
+msgstr ""
+
+#: customizer/penci_bookmark_follow_email_section.php:47
+msgid ""
+"Post {post_name} updated If you want to see page click below link "
+"{post_link} for {site_link}"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_email_section.php:48
+#: customizer/penci_bookmark_follow_email_section.php:76
+#: customizer/penci_bookmark_follow_email_section.php:104
+#: customizer/penci_bookmark_follow_email_section.php:132
+#: customizer/penci_bookmark_follow_email_section.php:163
+#: customizer/penci_bookmark_follow_email_section.php:193
+#: inc/admin/forms/penci-bf-users-logs-list-authors.php:141
+#: inc/admin/forms/penci-bf-users-logs-list.php:141
+msgid "Email Body"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_email_section.php:49
+#: customizer/penci_bookmark_follow_email_section.php:77
+#: customizer/penci_bookmark_follow_email_section.php:105
+#: customizer/penci_bookmark_follow_email_section.php:133
+msgid ""
+"This is the body, main content of the email that will be sent to the "
+"followers of that post when post is updated.<br>The available tags are:\n"
+"<code>{post_name}</code> - displays the title of the post<br>\n"
+"<code>{post_link}</code> - displays the post title with link<br>\n"
+"<code>{site_name}</code> - displays the name of your site<br>\n"
+"<code>{site_link}</code> - displays the site name with link"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_email_section.php:59
+msgid "New Post Author Subscription Email Template"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_email_section.php:75
+msgid ""
+"New post added by the author \"{author_name}\": {post_name} "
+"{post_description} If you want to see page click below link {post_link} for "
+"{site_link}"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_email_section.php:87
+msgid "Comment Subscription Email Template"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_email_section.php:94
+msgid "New comment on \"{post_name}\" by {user_name}"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_email_section.php:103
+msgid ""
+"New comment added on the post \"{post_name}\" by {user_name}, see below : "
+"{comment_text}"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_email_section.php:115
+msgid "Posts Confirmation Email Template"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_email_section.php:122
+msgid "Follow {post_name} - {site_name}"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_email_section.php:131
+msgid ""
+"Hello You recently followed below blog post. This means you will receive an "
+"email when post is updated. Blog Post URL: {post_link} To activate, click "
+"confirm below. If you did not request this, please feel free to disregard "
+"this notice! {subscribe_url} Thanks"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_email_section.php:143
+msgid "Author Confirmation Email Template"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_email_section.php:150
+msgid "Follow {author_name} - {site_name}"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_email_section.php:152
+msgid ""
+" \t\n"
+"This is the subject of the email that will be sent to the user for "
+"confirming his email address for subscription of any authors. Available "
+"template tags for subject fields are :\n"
+"{author_name} - displays the name of author\n"
+"{site_name} - displays the name of your site"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_email_section.php:162
+msgid ""
+"Hello You recently followed the author \"{author_name}\". This means you "
+"will receive an email when any new post is published by the author "
+"\"{author_name}\". To activate, click confirm below. If you did not request "
+"this, please feel free to disregard this notice! {subscribe_url} Thanks"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_email_section.php:164
+msgid ""
+"This is the body, main content of the email that will be sent to the user "
+"for confirming his email address for subscription of any authors. The "
+"available tags are:\n"
+"{author_name} - displays the name of the author\n"
+"{site_name} - displays the name of your site\n"
+"{site_link} - displays the site name with link\n"
+"{subscribe_url} - displays the subscribe url for confirm email subscription."
+msgstr ""
+
+#: customizer/penci_bookmark_follow_email_section.php:174
+msgid "Unsubscribe Confirmation Email Template"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_email_section.php:181
+msgid "[{site_name}] Please confirm your unsubscription request"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_email_section.php:183
+msgid ""
+"This is the subject of the email that will be sent to the user for "
+"confirming his email address for unsubscription. Available template tags for "
+"subject fields are :\n"
+"{email} - displays the follower's email\n"
+"{site_name} - displays the name of your site"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_email_section.php:192
+msgid ""
+"{site_name} has received a request to unsubscribe for this email address. To "
+"complete your request please click on the link below: {confirm_url} If you "
+"did not request this, please feel free to disregard this notice!\". To "
+"activate, click confirm below. If you did not request this, please feel free "
+"to disregard this notice! {subscribe_url} Thanks"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_email_section.php:194
+msgid ""
+"This is the body, main content of the email that will be sent to the user "
+"for confirming his email address for unsubscription. The available tags "
+"are:\n"
+"{email} - displays the follower's email\n"
+"{site_name} - displays the name of your site\n"
+"{site_link} - displays the site name with link\n"
+"{confirm_url} - displays the confirm url for confirm email unsubscription."
+msgstr ""
+
+#: customizer/penci_bookmark_follow_general_section.php:8
+msgid "Disable Header Bookmark Icon"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_general_section.php:14
+msgid "Posts Type Follows"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_general_section.php:21
+msgid "Enable Support in Post Types"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_general_section.php:57
+msgid "Disable Guest Followers"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_general_section.php:58
+msgid ""
+"Guests (non-logged-in users) have the permission to follow any post by "
+"default. If you check this option, then Follow button would not be displayed "
+"for Guest users."
+msgstr ""
+
+#: customizer/penci_bookmark_follow_general_section.php:65
+msgid "Auto Send Email Notification for Followers"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_general_section.php:66
+msgid ""
+"If this option is checked, whenever the post is edited or receives new "
+"comments, the followers will receive an email notification."
+msgstr ""
+
+#: customizer/penci_bookmark_follow_general_section.php:73
+msgid "Disable Email Notify When Comment Added"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_general_section.php:74
+msgid ""
+"This option allows you to disable email notifications when a post receives a "
+"new comment. It applies when you have checked the \"Auto Send Email "
+"Notification for Followers\" option mentioned above."
+msgstr ""
+
+#: customizer/penci_bookmark_follow_general_section.php:81
+msgid ""
+"After selecting a custom bookmark page, you need to insert the shortcodes "
+"<strong>[pencibf_follow_post_list]</strong> and "
+"<strong>[pencibf_follow_author_list]</strong> into the page to display the "
+"bookmarked content."
+msgstr ""
+
+#: customizer/penci_bookmark_follow_general_section.php:95
+msgid "Custom Bookmark Page"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_general_section.php:102
+msgid ""
+"After selecting a custom Unsubscribe page, you need to insert the shortcodes "
+"<strong>[pencibf_unsubscribe]</strong> into the page to display the "
+"Unsubscribe Form."
+msgstr ""
+
+#: customizer/penci_bookmark_follow_general_section.php:116
+msgid "Custom Unsubscribe Email Bookmark Page"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_general_section.php:123
+msgid "Select the page that you've inserted the Category Listing element."
+msgstr ""
+
+#: customizer/penci_bookmark_follow_general_section.php:137
+msgid "Custom Category Listing Page"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_general_section.php:144
+msgid "Bookmark Page Settings"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_general_section.php:152
+msgid "Number of Bookmark Items Per Page"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_general_section.php:160
+msgid "Show Post Date"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_general_section.php:168
+msgid "Show Post Author"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_general_section.php:176
+msgid "Show Post Comment Count"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_general_section.php:184
+msgid "Show Post Views"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_general_section.php:192
+msgid "Show Post Reading Time"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_general_section.php:198
+msgid "Colors"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_noti_section.php:8
+msgid "Require Email Confirmation"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_noti_section.php:15
+msgid "Posts Notification Events"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_noti_section.php:22
+#: customizer/penci_bookmark_follow_noti_section.php:49
+msgid "Email: When post / page updated"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_noti_section.php:29
+#: customizer/penci_bookmark_follow_noti_section.php:56
+msgid "Email: When new comment added"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_noti_section.php:35
+msgid "Author Notification Events"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_noti_section.php:42
+msgid "Email: When post / page published"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_noti_section.php:62
+msgid "Popup Notifications"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_noti_section.php:70
+msgid "Enable Popup Notify"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_noti_section.php:77
+msgid "Popup Text Color"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_noti_section.php:84
+msgid "Popup Background Color"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_noti_section.php:92
+msgid "Popup Timeout"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_noti_section.php:100
+msgid "Popup Position"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:7
+msgid "Posts Follows"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:14
+#: penci-bookmark-follow.php:290
+msgid "Bookmark"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:15
+msgid "Text: Bookmark"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:22
+#: penci-bookmark-follow.php:291
+msgid "Bookmarked"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:23
+msgid "Text: Bookmarked"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:30
+msgid "Un-bookmark"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:31
+msgid "Text: Un-bookmark"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:37
+msgid "Author Follows"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:44
+#: inc/admin/class-penci-bf-admin.php:231
+#: inc/admin/forms/penci-bf-add-follower.php:250 penci-bookmark-follow.php:325
+#: penci-bookmark-follow.php:333 penci-bookmark-follow.php:335
+msgid "Follow"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:45
+msgid "Text: Follow"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:52
+#: inc/admin/class-penci-bf-admin.php:232
+msgid "Following"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:53
+msgid "Text: Following"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:60
+#: inc/admin/class-penci-bf-admin.php:233
+msgid "Unfollow"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:61
+msgid "Text: Unfollow"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:68
+msgid "Post Popup Content"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:74
+#: customizer/penci_bookmark_follow_translate_section.php:113
+#: customizer/penci_bookmark_follow_translate_section.php:153
+#: inc/class-penci-bf-scripts.php:178 inc/class-penci-bf-scripts.php:183
+#: inc/class-penci-bf-scripts.php:188
+msgid "Success"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:76
+#: customizer/penci_bookmark_follow_translate_section.php:115
+#: customizer/penci_bookmark_follow_translate_section.php:155
+msgid "Success Heading Title"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:82
+msgid "Post added to Bookmark"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:84
+msgid "Success Message"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:90
+#: customizer/penci_bookmark_follow_translate_section.php:129
+#: customizer/penci_bookmark_follow_translate_section.php:169
+#: inc/class-penci-bf-scripts.php:180 inc/class-penci-bf-scripts.php:185
+#: inc/class-penci-bf-scripts.php:190
+msgid "Removed"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:92
+msgid "Post Remove Heading Title"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:98
+#: inc/class-penci-bf-scripts.php:181
+msgid "Post remove from Bookmark list"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:100
+msgid "Post Remove Message"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:107
+msgid "Author Popup Content"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:121
+#: inc/class-penci-bf-scripts.php:184
+msgid "Successfully add author from the favorite list"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:123
+#: customizer/penci_bookmark_follow_translate_section.php:163
+msgid "Success Content"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:131
+#: customizer/penci_bookmark_follow_translate_section.php:171
+msgid "Author Remove Title"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:137
+#: inc/class-penci-bf-scripts.php:186
+msgid "Successfully remove author from the favorite list"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:139
+#: customizer/penci_bookmark_follow_translate_section.php:179
+msgid "Author Remove Message"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:147
+msgid "Term Popup Content"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:161
+#: inc/class-penci-bf-scripts.php:189
+msgid "Successfully add category from the favorite list"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:177
+#: inc/class-penci-bf-scripts.php:191
+msgid "Successfully remove category from the favorite list"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:185
+msgid "Other Texts"
+msgstr ""
+
+#: customizer/penci_bookmark_follow_translate_section.php:195
+msgid "Text:"
+msgstr ""
+
+#: inc/admin/class-penci-bf-admin.php:46
+msgid "Penci Bookmark & Follow "
+msgstr ""
+
+#: inc/admin/class-penci-bf-admin.php:46 inc/admin/class-penci-bf-admin.php:53
+#: inc/class-penci-bf-scripts.php:32 inc/class-penci-bf-scripts.php:67
+#: inc/class-penci-bf-scripts.php:138
+msgid "Penci Bookmark & Follow"
+msgstr ""
+
+#: inc/admin/class-penci-bf-admin.php:58
+msgid "Penci Bookmark & Follow - Followed Posts"
+msgstr ""
+
+#: inc/admin/class-penci-bf-admin.php:58
+msgid "Followed Posts"
+msgstr ""
+
+#: inc/admin/class-penci-bf-admin.php:64
+msgid "Penci Bookmark & Follow - Followed Authors"
+msgstr ""
+
+#: inc/admin/class-penci-bf-admin.php:64
+msgid "Followed Authors"
+msgstr ""
+
+#: inc/admin/class-penci-bf-admin.php:70
+msgid "Penci Bookmark & Follow - Send Emails"
+msgstr ""
+
+#: inc/admin/class-penci-bf-admin.php:70
+#: inc/admin/forms/penci-bf-send-email.php:46
+#: inc/admin/forms/penci-bf-send-email.php:65
+msgid "Send Emails"
+msgstr ""
+
+#: inc/admin/class-penci-bf-admin.php:76
+msgid "Penci Bookmark & Follow - Add Followers"
+msgstr ""
+
+#: inc/admin/class-penci-bf-admin.php:76
+msgid "Add Followers"
+msgstr ""
+
+#: inc/admin/class-penci-bf-admin.php:236
+msgid "Follow {term_name}"
+msgstr ""
+
+#: inc/admin/class-penci-bf-admin.php:237
+msgid "Following {term_name}"
+msgstr ""
+
+#: inc/admin/class-penci-bf-admin.php:238
+msgid "Unfollow {term_name}"
+msgstr ""
+
+#: inc/admin/class-penci-bf-admin.php:661
+msgid "Email successfully sent to all followers."
+msgstr ""
+
+#: inc/admin/class-penci-bf-admin.php:764
+msgid "Notify followers for this update:"
+msgstr ""
+
+#: inc/admin/class-penci-bf-admin.php:809
+msgid "Penci Bookmark & Follow - Notification"
+msgstr ""
+
+#: inc/admin/class-penci-bf-admin.php:892
+#: inc/admin/forms/penci-bf-users-list-authors.php:181
+#: inc/admin/forms/penci-bf-users-list-authors.php:267
+#: inc/admin/forms/penci-bf-users-list.php:185
+#: inc/admin/forms/penci-bf-users-list.php:270
+#: inc/penci-bf-misc-functions.php:155 inc/penci-bf-misc-functions.php:202
+msgid "Unsubscribe"
+msgstr ""
+
+#: inc/admin/class-penci-bf-admin.php:969
+#: inc/admin/class-penci-bf-admin.php:1025
+#: inc/templates/subscribe-manage/follow-posts-listing/follow-posts-listing.php:145
+#: penci-bookmark-follow.php:423
+msgid "(no title)"
+msgstr ""
+
+#: inc/admin/class-penci-bf-admin.php:1147
+#, php-format
+msgid "Mail sent successfully to %s followers."
+msgstr ""
+
+#: inc/admin/class-penci-bf-admin.php:1402
+#: inc/admin/class-penci-bf-admin.php:1504
+#: inc/admin/forms/penci-bf-users-list-authors.php:145
+#: inc/admin/forms/penci-bf-users-list.php:112
+msgid "Registered User"
+msgstr ""
+
+#: inc/admin/class-penci-bf-admin.php:1404
+#: inc/admin/class-penci-bf-admin.php:1506
+#: inc/admin/forms/penci-bf-users-list-authors.php:113
+#: inc/admin/forms/penci-bf-users-list.php:116
+msgid "guest"
+msgstr ""
+
+#: inc/admin/class-penci-bf-admin.php:1405
+#: inc/admin/class-penci-bf-admin.php:1507
+#: inc/admin/forms/penci-bf-users-list-authors.php:145
+#: inc/admin/forms/penci-bf-users-list.php:117
+msgid "Guest"
+msgstr ""
+
+#: inc/admin/class-penci-bf-admin.php:1408
+#: inc/admin/class-penci-bf-admin.php:1510
+#: inc/admin/forms/penci-bf-users-list-authors.php:155
+#: inc/admin/forms/penci-bf-users-list.php:159
+msgid "Yes"
+msgstr ""
+
+#: inc/admin/class-penci-bf-admin.php:1408
+#: inc/admin/class-penci-bf-admin.php:1510
+#: inc/admin/forms/penci-bf-users-list-authors.php:158
+#: inc/admin/forms/penci-bf-users-list.php:162
+msgid "No"
+msgstr ""
+
+#: inc/admin/forms/penci-bf-list-authors.php:78
+#: inc/admin/forms/penci-bf-list-authors.php:163
+#: inc/admin/forms/penci-bf-list.php:84 inc/admin/forms/penci-bf-list.php:196
+msgid "View Followers"
+msgstr ""
+
+#: inc/admin/forms/penci-bf-list-authors.php:132
+#: inc/admin/forms/penci-bf-list-authors.php:201
+#: inc/admin/forms/penci-bf-list.php:165 inc/admin/forms/penci-bf-list.php:238
+#: inc/admin/forms/penci-bf-users-list-authors.php:186
+#: inc/admin/forms/penci-bf-users-list-authors.php:268
+#: inc/admin/forms/penci-bf-users-list.php:190
+#: inc/admin/forms/penci-bf-users-list.php:271
+#: inc/admin/forms/penci-bf-users-logs-list-authors.php:110
+#: inc/admin/forms/penci-bf-users-logs-list-authors.php:181
+#: inc/admin/forms/penci-bf-users-logs-list.php:110
+#: inc/admin/forms/penci-bf-users-logs-list.php:181
+msgid "Delete"
+msgstr ""
+
+#: inc/admin/forms/penci-bf-list-authors.php:162 penci-bookmark-follow.php:425
+msgid "Author Name"
+msgstr ""
+
+#: inc/admin/forms/penci-bf-list-authors.php:215
+#: inc/admin/forms/penci-bf-list.php:293
+msgid "Export All Followers"
+msgstr ""
+
+#: inc/admin/forms/penci-bf-list-authors.php:299
+#: inc/admin/forms/penci-bf-list.php:381
+#: inc/admin/forms/penci-bf-users-list-authors.php:428
+#: inc/admin/forms/penci-bf-users-list.php:433
+#: inc/admin/forms/penci-bf-users-logs-list-authors.php:331
+#: inc/admin/forms/penci-bf-users-logs-list.php:330
+msgid "Record (s) deleted successfully."
+msgstr ""
+
+#: inc/admin/forms/penci-bf-list-authors.php:314
+#: inc/admin/forms/penci-bf-list.php:396
+#: inc/admin/forms/penci-bf-users-logs-list-authors.php:357
+#: inc/admin/forms/penci-bf-users-logs-list.php:356
+msgid "Search"
+msgstr ""
+
+#: inc/admin/forms/penci-bf-list.php:195
+msgid "Post Name"
+msgstr ""
+
+#: inc/admin/forms/penci-bf-list.php:197
+msgid "Post Type"
+msgstr ""
+
+#: inc/admin/forms/penci-bf-list.php:268 inc/admin/forms/penci-bf-list.php:270
+msgid "Select a Post Type"
+msgstr ""
+
+#: inc/admin/forms/penci-bf-list.php:292
+#: inc/admin/forms/penci-bf-users-list-authors.php:327
+#: inc/admin/forms/penci-bf-users-list.php:330
+msgid "Filter"
+msgstr ""
+
+#: inc/admin/forms/penci-bf-send-email.php:202
+msgid "Send Email"
+msgstr ""
+
+#: inc/admin/forms/penci-bf-users-list-authors.php:94
+#: inc/admin/forms/penci-bf-users-list.php:95
+msgid "View Log"
+msgstr ""
+
+#: inc/admin/forms/penci-bf-users-list-authors.php:183
+#: inc/admin/forms/penci-bf-users-list-authors.php:266
+#: inc/admin/forms/penci-bf-users-list.php:187
+#: inc/admin/forms/penci-bf-users-list.php:269
+msgid "Subscribe"
+msgstr ""
+
+#: inc/admin/forms/penci-bf-users-list-authors.php:218
+#: inc/admin/forms/penci-bf-users-list.php:222
+msgid "User Email"
+msgstr ""
+
+#: inc/admin/forms/penci-bf-users-list-authors.php:219
+#: inc/admin/forms/penci-bf-users-list.php:223
+msgid "User Type"
+msgstr ""
+
+#: inc/admin/forms/penci-bf-users-list-authors.php:220
+#: inc/admin/forms/penci-bf-users-list.php:225
+msgid "User"
+msgstr ""
+
+#: inc/admin/forms/penci-bf-users-list-authors.php:221
+#: inc/admin/forms/penci-bf-users-list-authors.php:288
+#: inc/admin/forms/penci-bf-users-list.php:224
+#: inc/admin/forms/penci-bf-users-list.php:291
+msgid "Subscribed"
+msgstr ""
+
+#: inc/admin/forms/penci-bf-users-list-authors.php:224
+#: inc/admin/forms/penci-bf-users-list.php:228
+msgid "View Logs"
+msgstr ""
+
+#: inc/admin/forms/penci-bf-users-list-authors.php:289
+#: inc/admin/forms/penci-bf-users-list.php:292
+msgid "Unsubscribed"
+msgstr ""
+
+#: inc/admin/forms/penci-bf-users-list-authors.php:294
+#: inc/admin/forms/penci-bf-users-list-authors.php:296
+#: inc/admin/forms/penci-bf-users-list.php:297
+#: inc/admin/forms/penci-bf-users-list.php:299
+msgid "All"
+msgstr ""
+
+#: inc/admin/forms/penci-bf-users-list-authors.php:328
+#: inc/admin/forms/penci-bf-users-list.php:331
+msgid "Export Followers"
+msgstr ""
+
+#: inc/admin/forms/penci-bf-users-list-authors.php:414
+#: inc/admin/forms/penci-bf-users-list.php:418
+#, php-format
+msgid "Followers For %s"
+msgstr ""
+
+#: inc/admin/forms/penci-bf-users-logs-list-authors.php:142
+#: inc/admin/forms/penci-bf-users-logs-list.php:142
+msgid "Post Date"
+msgstr ""
+
+#: inc/class-penci-bf-model.php:549
+msgid "Hello world!"
+msgstr ""
+
+#: inc/class-penci-bf-model.php:1823 inc/class-penci-bf-model.php:1895
+#: inc/class-penci-bf-model.php:1990
+msgid "Confirm Follow"
+msgstr ""
+
+#: inc/class-penci-bf-model.php:2074
+msgid "Confirm Unsubscription"
+msgstr ""
+
+#: inc/class-penci-bf-model.php:2601
+msgid "HTML Template"
+msgstr ""
+
+#: inc/class-penci-bf-model.php:2602
+msgid "No template, plain text only"
+msgstr ""
+
+#: inc/class-penci-bf-pagination-public.php:28
+msgid "Next"
+msgstr ""
+
+#: inc/class-penci-bf-pagination-public.php:29
+msgid "Previous"
+msgstr ""
+
+#: inc/class-penci-bf-public.php:178 inc/class-penci-bf-public.php:211
+msgid "Your email is unsubscribed successfully."
+msgstr ""
+
+#: inc/class-penci-bf-public.php:216 inc/class-penci-bf-public.php:1056
+msgid "Sorry, This email id does not exist in our system."
+msgstr ""
+
+#: inc/class-penci-bf-public.php:301 inc/class-penci-bf-public.php:401
+#: inc/class-penci-bf-public.php:492 inc/class-penci-bf-public.php:704
+#: inc/class-penci-bf-public.php:745 inc/class-penci-bf-public.php:900
+#: inc/class-penci-bf-public.php:939 inc/class-penci-bf-public.php:1590
+#: inc/class-penci-bf-public.php:1636
+msgid "Your email is subscribed successfully."
+msgstr ""
+
+#: inc/class-penci-bf-public.php:313 inc/class-penci-bf-public.php:725
+#: inc/class-penci-bf-public.php:727
+msgid "Your email is already subscribed for this post."
+msgstr ""
+
+#: inc/class-penci-bf-public.php:419 inc/class-penci-bf-public.php:1617
+msgid "Your email is already subscribed for this term."
+msgstr ""
+
+#: inc/class-penci-bf-public.php:504 inc/class-penci-bf-public.php:921
+#: inc/class-penci-bf-public.php:923
+msgid "Your email is already subscribed for this author."
+msgstr ""
+
+#: inc/class-penci-bf-public.php:614 inc/class-penci-bf-public.php:802
+#: inc/class-penci-bf-public.php:1128 inc/class-penci-bf-public.php:1165
+msgid "Nonce verification fails."
+msgstr ""
+
+#: inc/class-penci-bf-public.php:657 inc/class-penci-bf-public.php:853
+#: inc/class-penci-bf-public.php:1548
+msgid "Please check your email inbox to confirm subscription."
+msgstr ""
+
+#: inc/class-penci-bf-public.php:732
+#, php-format
+msgid "%s This Email is already subscribed for this post. %s"
+msgstr ""
+
+#: inc/class-penci-bf-public.php:749 inc/class-penci-bf-public.php:943
+#: inc/class-penci-bf-public.php:1640
+msgid "Email is subscribed successfully."
+msgstr ""
+
+#: inc/class-penci-bf-public.php:927
+#, php-format
+msgid "%s Your email is already subscribed for this author. %s"
+msgstr ""
+
+#: inc/class-penci-bf-public.php:1049
+msgid "Please check your email inbox to confirm unsubscription."
+msgstr ""
+
+#: inc/class-penci-bf-public.php:1051
+msgid "Mail sent error."
+msgstr ""
+
+#: inc/class-penci-bf-public.php:1063 inc/class-penci-bf-scripts.php:170
+msgid "Please enter valid email."
+msgstr ""
+
+#: inc/class-penci-bf-public.php:1069 inc/class-penci-bf-scripts.php:169
+msgid "Please enter email."
+msgstr ""
+
+#: inc/class-penci-bf-public.php:1092 penci-bookmark-follow.php:432
+msgid "You have not follow any posts yet."
+msgstr ""
+
+#: inc/class-penci-bf-public.php:1113 penci-bookmark-follow.php:433
+msgid "You have not follow any authors yet."
+msgstr ""
+
+#: inc/class-penci-bf-public.php:1260
+#, php-format
+msgid "Followers %s"
+msgstr ""
+
+#: inc/class-penci-bf-public.php:1272
+#, php-format
+msgid "Following %s"
+msgstr ""
+
+#: inc/class-penci-bf-public.php:1310
+#, php-format
+msgid ""
+"%s NOTE: %s Guest users who have followed the @%s have not been listed here."
+msgstr ""
+
+#: inc/class-penci-bf-public.php:1404
+msgid "Followers "
+msgstr ""
+
+#: inc/class-penci-bf-public.php:1412
+msgid "Following "
+msgstr ""
+
+#: inc/class-penci-bf-public.php:1436
+msgid "Notify followers for this update"
+msgstr ""
+
+#: inc/class-penci-bf-public.php:1461
+msgid "You have not follow any terms yet."
+msgstr ""
+
+#: inc/class-penci-bf-public.php:1619
+msgid "Your email is already subscribed for this item."
+msgstr ""
+
+#: inc/class-penci-bf-public.php:1624
+#, php-format
+msgid "%s This Email is already subscribed for this term. %s"
+msgstr ""
+
+#: inc/class-penci-bf-scripts.php:95
+msgid "Click OK to reset all options. All settings will be lost!"
+msgstr ""
+
+#: inc/class-penci-bf-scripts.php:96
+msgid "Test email has been sent successfully."
+msgstr ""
+
+#: inc/class-penci-bf-scripts.php:97
+msgid "Test email could not sent."
+msgstr ""
+
+#: inc/class-penci-bf-scripts.php:172
+msgid "Processing"
+msgstr ""
+
+#: inc/class-penci-bf-scripts.php:179
+msgid "Success add to the Bookmark list"
+msgstr ""
+
+#: inc/class-penci-bf-shortcodes.php:50
+msgid "Please enter post id."
+msgstr ""
+
+#: inc/penci-bf-post-types.php:30 inc/penci-bf-post-types.php:31
+msgid "Follow Post"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:32 inc/penci-bf-post-types.php:61
+#: inc/penci-bf-post-types.php:90 inc/penci-bf-post-types.php:119
+msgid "Add New"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:33
+msgid "Add New Follow Post"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:34
+msgid "Edit Follow Post"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:35
+msgid "New Follow Post"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:36
+msgid "All Follow Posts"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:37
+msgid "View Follow Post"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:38
+msgid "Search Follow Post"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:39
+msgid "No follow posts found"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:40
+msgid "No follow posts found in Trash"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:42
+msgid "Follow Posts"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:59 inc/penci-bf-post-types.php:71
+msgid "Follow Post Logs"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:60
+msgid "Follow Post Log"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:62
+msgid "Add New Follow Post Log"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:63
+msgid "Edit Follow Post Log"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:64
+msgid "New Follow Post Log"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:65
+msgid "All Follow Post Logs"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:66
+msgid "View Follow Post Log"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:67
+msgid "Search Follow Post Log"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:68
+msgid "No follow post logs found"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:69
+msgid "No follow post logs found in Trash"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:88 inc/penci-bf-post-types.php:89
+#: penci-bookmark-follow.php:298
+msgid "Follow Author"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:91
+msgid "Add New Follow Author"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:92
+msgid "Edit Follow Author"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:93
+msgid "New Follow Author"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:94
+msgid "All Follow Authors"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:95
+msgid "View Follow Author"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:96
+msgid "Search Follow Author"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:97
+msgid "No follow authors found"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:98
+msgid "No follow authors found in Trash"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:100
+msgid "Follow Authors"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:117 inc/penci-bf-post-types.php:129
+msgid "Follow Author Logs"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:118
+msgid "Follow Author Log"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:120
+msgid "Add New Follow Author Log"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:121
+msgid "Edit Follow Author Log"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:122
+msgid "New Follow Author Log"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:123
+msgid "All Follow Author Logs"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:124
+msgid "View Follow Author Log"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:125
+msgid "Search Follow Author Log"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:126
+msgid "No follow author logs found"
+msgstr ""
+
+#: inc/penci-bf-post-types.php:127
+msgid "No follow author logs found in Trash"
+msgstr ""
+
+#: inc/templates/author-followers/author-followers-listing.php:61
+msgid " ( guest )"
+msgstr ""
+
+#: penci-bookmark-follow.php:87
+msgid "Bookmark Subscription Management"
+msgstr ""
+
+#: penci-bookmark-follow.php:101
+msgid "Unsubscribe Email Bookmark Notifications"
+msgstr ""
+
+#: penci-bookmark-follow.php:292
+msgid "Un-Bookmark"
+msgstr ""
+
+#: penci-bookmark-follow.php:294 penci-bookmark-follow.php:296
+#: penci-bookmark-follow.php:302
+msgid "Followers"
+msgstr ""
+
+#: penci-bookmark-follow.php:299
+msgid "Following Author"
+msgstr ""
+
+#: penci-bookmark-follow.php:300
+msgid "Unfollow Author"
+msgstr ""
+
+#: penci-bookmark-follow.php:322
+msgid "If you want to unsubscribe, click on"
+msgstr ""
+
+#: penci-bookmark-follow.php:323
+#, php-format
+msgid "Post %1$s updated at %2$s"
+msgstr ""
+
+#: penci-bookmark-follow.php:324
+#, php-format
+msgid "Post %s updated"
+msgstr ""
+
+#: penci-bookmark-follow.php:324 penci-bookmark-follow.php:330
+#: penci-bookmark-follow.php:332
+msgid "If you want to see page click below link"
+msgstr ""
+
+#: penci-bookmark-follow.php:324 penci-bookmark-follow.php:330
+#: penci-bookmark-follow.php:332
+msgid "for"
+msgstr ""
+
+#: penci-bookmark-follow.php:326 penci-bookmark-follow.php:334
+#: penci-bookmark-follow.php:336
+msgid "Hello"
+msgstr ""
+
+#: penci-bookmark-follow.php:326
+msgid ""
+"You recently followed below blog post. This means you will receive an email "
+"when post is updated."
+msgstr ""
+
+#: penci-bookmark-follow.php:326
+msgid "Blog Post URL"
+msgstr ""
+
+#: penci-bookmark-follow.php:326 penci-bookmark-follow.php:334
+#: penci-bookmark-follow.php:336
+msgid ""
+"To activate, click confirm below. If you did not request this, please feel "
+"free to disregard this notice!"
+msgstr ""
+
+#: penci-bookmark-follow.php:326 penci-bookmark-follow.php:334
+#: penci-bookmark-follow.php:336
+msgid "Thanks"
+msgstr ""
+
+#: penci-bookmark-follow.php:327
+#, php-format
+msgid "New comment on %1$s by %2$s"
+msgstr ""
+
+#: penci-bookmark-follow.php:328
+#, php-format
+msgid "New comment added on the post %1$s by %2$s, see below :"
+msgstr ""
+
+#: penci-bookmark-follow.php:329 penci-bookmark-follow.php:331
+msgid "[New Post]"
+msgstr ""
+
+#: penci-bookmark-follow.php:330
+msgid "New post added under the"
+msgstr ""
+
+#: penci-bookmark-follow.php:332
+msgid "New post added by the author"
+msgstr ""
+
+#: penci-bookmark-follow.php:334
+msgid "You recently followed the"
+msgstr ""
+
+#: penci-bookmark-follow.php:334
+msgid ""
+"This means you will receive an email when any new post is published under the"
+msgstr ""
+
+#: penci-bookmark-follow.php:336
+msgid "You recently followed the author"
+msgstr ""
+
+#: penci-bookmark-follow.php:336
+msgid ""
+"This means you will receive an email when any new post is published by the "
+"author"
+msgstr ""
+
+#: penci-bookmark-follow.php:337
+msgid "Please confirm your unsubscription request"
+msgstr ""
+
+#: penci-bookmark-follow.php:338
+#, php-format
+msgid ""
+"%s has received a request to unsubscribe for this email address. To complete "
+"your request please click on the link below:"
+msgstr ""
+
+#: penci-bookmark-follow.php:338
+msgid "If you did not request this, please feel free to disregard this notice!"
+msgstr ""
+
+#: penci-bookmark-follow.php:418
+msgid "Posts Being Followed"
+msgstr ""
+
+#: penci-bookmark-follow.php:419
+msgid "Authors Being Followed"
+msgstr ""
+
+#: penci-bookmark-follow.php:420
+msgid "Categories Being Followed"
+msgstr ""
+
+#: penci-bookmark-follow.php:421
+msgid "This post has been deleted."
+msgstr ""
+
+#: penci-bookmark-follow.php:422
+msgid "This user has been deleted."
+msgstr ""
+
+#: penci-bookmark-follow.php:424
+msgid "Avatar"
+msgstr ""
+
+#: penci-bookmark-follow.php:426
+msgid "Followed Date"
+msgstr ""
+
+#: penci-bookmark-follow.php:427
+msgid "Action"
+msgstr ""
+
+#: penci-bookmark-follow.php:428
+msgid "Load More Authors"
+msgstr ""
+
+#: penci-bookmark-follow.php:429
+msgid "Sorry, No More Authors"
+msgstr ""
+
+#: penci-bookmark-follow.php:430
+msgid "Load More Items"
+msgstr ""
+
+#: penci-bookmark-follow.php:431
+msgid "Sorry, No More Items"
+msgstr ""
+
+#: penci-bookmark-follow.php:434
+#, php-format
+msgid ""
+"You can find more categories to follow by clicking on <a target=\"_blank\" "
+"href=\"%s\">this link</a>"
+msgstr ""

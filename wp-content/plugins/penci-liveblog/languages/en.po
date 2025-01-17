@@ -1,0 +1,268 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-09-07 21:07+0700\n"
+"PO-Revision-Date: 2023-09-07 21:07+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _e;__;esc_html__;esc__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: customizer/panel.php:23 penci-liveblog.php:43
+msgid "Live Blog"
+msgstr ""
+
+#: customizer/panel.php:29 penci-liveblog.php:46
+msgid "General"
+msgstr ""
+
+#: customizer/panel.php:30 penci-liveblog.php:47
+msgid "Font Size & Colors"
+msgstr ""
+
+#: customizer/panel.php:31 penci-liveblog.php:48
+msgid "Text Translations"
+msgstr ""
+
+#: customizer/penci_liveblog_general_section.php:7
+msgid "General Option"
+msgstr ""
+
+#: customizer/penci_liveblog_general_section.php:15
+msgid "Auto Get New Content After:"
+msgstr ""
+
+#: customizer/penci_liveblog_general_section.php:16
+msgid "Enter the timeout in the seconds."
+msgstr ""
+
+#: customizer/penci_liveblog_general_section.php:23
+msgid "Custom Data/Time Format"
+msgstr ""
+
+#: customizer/penci_liveblog_general_section.php:24
+msgid ""
+"Please fill in the datetime format string for this field - you can find more "
+"information <a target=\"_blank\" href=\"https://wordpress.org/documentation/"
+"article/customize-date-and-time-format/\">here</a>"
+msgstr ""
+
+#: customizer/penci_liveblog_general_section.php:32
+msgid "Disable Event Social Share"
+msgstr ""
+
+#: customizer/penci_liveblog_general_section.php:40
+msgid "Hide Event Message Notice"
+msgstr ""
+
+#: customizer/penci_liveblog_general_section.php:48
+msgid "Changing Browser Tab Title after Receiving a New Update?"
+msgstr ""
+
+#: customizer/penci_liveblog_general_section.php:56
+msgid "Add \"Live\" Label Highlight to Post Title"
+msgstr ""
+
+#: customizer/penci_liveblog_general_section.php:65
+msgid "Before Post Title"
+msgstr ""
+
+#: customizer/penci_liveblog_general_section.php:66
+msgid "After Post Title"
+msgstr ""
+
+#: customizer/penci_liveblog_general_section.php:68
+msgid "Live Label Position"
+msgstr ""
+
+#: customizer/penci_liveblog_general_section.php:76
+msgid "Hide Update Now Section"
+msgstr ""
+
+#: customizer/penci_liveblog_general_section.php:80
+msgid "In-Feed Ads"
+msgstr ""
+
+#: customizer/penci_liveblog_general_section.php:86
+msgid "Insert In-feed Ads Code After Every How Many Events?"
+msgstr ""
+
+#: customizer/penci_liveblog_general_section.php:106
+msgid "In-feed Ads Code/HTML"
+msgstr ""
+
+#: customizer/penci_liveblog_general_section.php:107
+msgid ""
+"Please use normal responsive ads here to get the best results. In-feed ads "
+"cannot work with auto-ads because auto-ads will randomly place your ads in "
+"random places on the pages."
+msgstr ""
+
+#: customizer/penci_liveblog_styles_section.php:6
+msgid "Colors"
+msgstr ""
+
+#: customizer/penci_liveblog_styles_section.php:13
+msgid "Date/Time Color"
+msgstr ""
+
+#: customizer/penci_liveblog_styles_section.php:21
+msgid "Title Color"
+msgstr ""
+
+#: customizer/penci_liveblog_styles_section.php:29
+msgid "Content Color"
+msgstr ""
+
+#: customizer/penci_liveblog_styles_section.php:37
+msgid "Content Link Color"
+msgstr ""
+
+#: customizer/penci_liveblog_styles_section.php:45
+msgid "Content Link Hover Color"
+msgstr ""
+
+#: customizer/penci_liveblog_styles_section.php:53
+msgid "Social Share Color"
+msgstr ""
+
+#: customizer/penci_liveblog_styles_section.php:61
+msgid "Social Share Hover Color"
+msgstr ""
+
+#: customizer/penci_liveblog_styles_section.php:69
+msgid "Event Border Color"
+msgstr ""
+
+#: customizer/penci_liveblog_styles_section.php:77
+msgid "Top Status Background Color"
+msgstr ""
+
+#: customizer/penci_liveblog_styles_section.php:85
+msgid "Top Status Text Color"
+msgstr ""
+
+#: customizer/penci_liveblog_styles_section.php:92
+msgid "Font Sizes"
+msgstr ""
+
+#: customizer/penci_liveblog_translations_section.php:9
+msgid "Text: "
+msgstr ""
+
+#: inc/metabox.php:23
+msgid "Live Blog Events"
+msgstr ""
+
+#: inc/metabox.php:48
+msgid "Event Status"
+msgstr ""
+
+#: inc/metabox.php:55
+msgid ""
+"Please remember to select the \"the event has ended\" option when the live "
+"event ends."
+msgstr ""
+
+#: inc/metabox.php:85
+msgid "Edit"
+msgstr ""
+
+#: inc/metabox.php:87
+msgid "Delete"
+msgstr ""
+
+#: inc/metabox.php:98
+msgid "Custom Update Time"
+msgstr ""
+
+#: inc/metabox.php:99
+msgid "If you leave it empty it will be showing the real time"
+msgstr ""
+
+#: inc/metabox.php:104
+msgid "Title of Update"
+msgstr ""
+
+#: inc/metabox.php:110
+msgid "Content of Update"
+msgstr ""
+
+#: inc/metabox.php:119
+msgid "Add new Update"
+msgstr ""
+
+#: penci-liveblog.php:233 penci-liveblog.php:281
+msgid "No update"
+msgstr ""
+
+#: penci-liveblog.php:427
+msgid "Facebook"
+msgstr ""
+
+#: penci-liveblog.php:428
+msgid "Twitter"
+msgstr ""
+
+#: penci-liveblog.php:460
+msgid "Live"
+msgstr ""
+
+#: penci-liveblog.php:461
+msgid "Live Updates"
+msgstr ""
+
+#: penci-liveblog.php:462
+msgid "This event has ended."
+msgstr ""
+
+#: penci-liveblog.php:463
+msgid "Update Now"
+msgstr ""
+
+#: penci-liveblog.php:464
+msgid "The content will auto-update after {{value}} seconds"
+msgstr ""
+
+#: penci-liveblog.php:465
+msgid "Copy Link"
+msgstr ""
+
+#: penci-liveblog.php:466
+msgid "Copied!"
+msgstr ""
+
+#: penci-liveblog.php:467
+msgid "New Update"
+msgstr ""
+
+#: penci-liveblog.php:468
+msgid "Newest"
+msgstr ""
+
+#: penci-liveblog.php:469
+msgid "Oldest"
+msgstr ""
+
+#: penci-liveblog.php:470
+msgid "Update"
+msgstr ""
+
+#: penci-liveblog.php:471
+msgid "Cancel"
+msgstr ""
+
+#: penci-liveblog.php:472
+msgid "Share on Facebook"
+msgstr ""
+
+#: penci-liveblog.php:473
+msgid "Share on Twitter"
+msgstr ""

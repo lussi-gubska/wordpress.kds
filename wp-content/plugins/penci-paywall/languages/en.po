@@ -1,0 +1,1304 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-09-07 21:09+0700\n"
+"PO-Revision-Date: 2023-09-07 21:09+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _e;esc__;esc_html__;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: account/my-subscription.php:31 inc/helper.php:293
+msgid "days"
+msgstr ""
+
+#: account/my-subscription.php:31
+msgid "hours"
+msgstr ""
+
+#: builder/elementor.php:22
+msgid " PayWall"
+msgstr ""
+
+#: builder/elementor.php:24
+msgid "Penci PayWall"
+msgstr ""
+
+#: builder/elementor.php:45 builder/elementor.php:295
+msgid "Pricing Table"
+msgstr ""
+
+#: builder/elementor.php:51
+msgid "Post Subscription"
+msgstr ""
+
+#: builder/elementor.php:52
+msgid "Select post subscription package."
+msgstr ""
+
+#: builder/elementor.php:60
+msgid "Choose Style"
+msgstr ""
+
+#: builder/elementor.php:64
+msgid "Style 1"
+msgstr ""
+
+#: builder/elementor.php:65
+msgid "Style 2"
+msgstr ""
+
+#: builder/elementor.php:72
+msgid "Featured Header?"
+msgstr ""
+
+#: builder/elementor.php:74 builder/elementor.php:84 builder/elementor.php:149
+#: builder/elementor.php:190 builder/elementor.php:227 inc/helper.php:255
+msgid "Yes"
+msgstr ""
+
+#: builder/elementor.php:75 builder/elementor.php:85 builder/elementor.php:150
+#: builder/elementor.php:191 builder/elementor.php:228 inc/helper.php:256
+msgid "No"
+msgstr ""
+
+#: builder/elementor.php:82
+msgid "Add image"
+msgstr ""
+
+#: builder/elementor.php:92
+msgid "Choose Image"
+msgstr ""
+
+#: builder/elementor.php:109
+msgid "Image Width"
+msgstr ""
+
+#: builder/elementor.php:118
+msgid "Image Height"
+msgstr ""
+
+#: builder/elementor.php:127 builder/jscomposer.php:127
+msgid "Image margin top"
+msgstr ""
+
+#: builder/elementor.php:136 builder/jscomposer.php:138
+msgid "Image margin bottom"
+msgstr ""
+
+#: builder/elementor.php:147
+msgid "Add Icon"
+msgstr ""
+
+#: builder/elementor.php:156
+msgid "Select Icon"
+msgstr ""
+
+#: builder/elementor.php:168
+msgid "Icon margin top"
+msgstr ""
+
+#: builder/elementor.php:178
+msgid "Icon margin bottom"
+msgstr ""
+
+#: builder/elementor.php:188
+msgid "Display Pricing & Pricing Unit in One Line?"
+msgstr ""
+
+#: builder/elementor.php:204 builder/jscomposer.php:156
+msgid "Button Text"
+msgstr ""
+
+#: builder/elementor.php:207
+msgid "Sign Up"
+msgstr ""
+
+#: builder/elementor.php:213
+msgid "Button Position"
+msgstr ""
+
+#: builder/elementor.php:217
+msgid "Below Content"
+msgstr ""
+
+#: builder/elementor.php:218
+msgid "Above Content"
+msgstr ""
+
+#: builder/elementor.php:225 builder/jscomposer.php:162
+msgid "Make this pricing box as featured"
+msgstr ""
+
+#: builder/elementor.php:235
+msgid "Featured Style"
+msgstr ""
+
+#: builder/elementor.php:239
+msgid "Highlight Height"
+msgstr ""
+
+#: builder/elementor.php:240
+msgid "Scale Up"
+msgstr ""
+
+#: builder/elementor.php:250
+msgid "Add Ribbon?"
+msgstr ""
+
+#: builder/elementor.php:254
+msgid "None"
+msgstr ""
+
+#: builder/elementor.php:255
+msgid "Ribbon Icon"
+msgstr ""
+
+#: builder/elementor.php:256
+msgid "Ribbon Text"
+msgstr ""
+
+#: builder/elementor.php:263
+msgid "Custom Ribbon Icon"
+msgstr ""
+
+#: builder/elementor.php:275
+msgid "Custom Ribbon Text"
+msgstr ""
+
+#: builder/elementor.php:277
+msgid "Best Value"
+msgstr ""
+
+#: builder/elementor.php:284 builder/jscomposer.php:169
+msgid "Minimum height for pricing item"
+msgstr ""
+
+#: builder/elementor.php:302
+msgid "Background Color for Pricing Table"
+msgstr ""
+
+#: builder/elementor.php:309
+msgid "Border Color for Pricing Table"
+msgstr ""
+
+#: builder/elementor.php:317
+msgid "Featured Header Background Color"
+msgstr ""
+
+#: builder/elementor.php:327
+msgid "Icon"
+msgstr ""
+
+#: builder/elementor.php:335
+msgid "Icon Color"
+msgstr ""
+
+#: builder/elementor.php:344
+msgid "Icon Font Size"
+msgstr ""
+
+#: builder/elementor.php:355 builder/jscomposer.php:281
+msgid "Title"
+msgstr ""
+
+#: builder/elementor.php:362 builder/elementor.php:393
+msgid "Color"
+msgstr ""
+
+#: builder/elementor.php:370 builder/elementor.php:401
+#: builder/elementor.php:432 builder/elementor.php:463
+#: builder/elementor.php:494 builder/elementor.php:608
+msgid "Typography"
+msgstr ""
+
+#: builder/elementor.php:376 builder/elementor.php:407
+#: builder/elementor.php:438 builder/elementor.php:469
+#: builder/elementor.php:500
+msgid "Margin Bottom"
+msgstr ""
+
+#: builder/elementor.php:387
+msgid "Subtitle"
+msgstr ""
+
+#: builder/elementor.php:418 builder/jscomposer.php:366
+msgid "Price"
+msgstr ""
+
+#: builder/elementor.php:424
+msgid "Price Color"
+msgstr ""
+
+#: builder/elementor.php:449 builder/jscomposer.php:400
+msgid "Price Unit"
+msgstr ""
+
+#: builder/elementor.php:455
+msgid "Price Unit Color"
+msgstr ""
+
+#: builder/elementor.php:480 builder/jscomposer.php:149
+#: builder/jscomposer.php:433
+msgid "Features"
+msgstr ""
+
+#: builder/elementor.php:486
+msgid "Features Color"
+msgstr ""
+
+#: builder/elementor.php:508 builder/jscomposer.php:239
+msgid "Item of list features margin bottom"
+msgstr ""
+
+#: builder/elementor.php:517
+msgid "Ribbon Background Color"
+msgstr ""
+
+#: builder/elementor.php:528
+msgid "Ribbon Text Color"
+msgstr ""
+
+#: builder/elementor.php:540
+msgid "Ribbon Text Typography"
+msgstr ""
+
+#: builder/elementor.php:552
+msgid "Pricing Table Button"
+msgstr ""
+
+#: builder/elementor.php:559
+msgid "Button Style"
+msgstr ""
+
+#: builder/elementor.php:563
+msgid "Filled"
+msgstr ""
+
+#: builder/elementor.php:564
+msgid "Bordered"
+msgstr ""
+
+#: builder/elementor.php:572
+msgid "Button Text Color"
+msgstr ""
+
+#: builder/elementor.php:581
+msgid "Button Background & Border Color"
+msgstr ""
+
+#: builder/elementor.php:590
+msgid "Button Hover Text Color"
+msgstr ""
+
+#: builder/elementor.php:599
+msgid "Button Background & Border Hover Color"
+msgstr ""
+
+#: builder/elementor.php:615
+msgid "Borders Radius"
+msgstr ""
+
+#: builder/elementor.php:626
+msgid "Borders Width"
+msgstr ""
+
+#: builder/elementor.php:637 builder/jscomposer.php:249
+msgid "Button margin top"
+msgstr ""
+
+#: builder/elementor.php:645
+msgid "Button margin bottom"
+msgstr ""
+
+#: builder/elementor.php:654 builder/jscomposer.php:259
+msgid "Button width"
+msgstr ""
+
+#: builder/elementor.php:663 builder/jscomposer.php:269
+msgid "Button Height"
+msgstr ""
+
+#: builder/elementor.php:721 builder/jscomposer.php:56
+msgid "No Post Package Found"
+msgstr ""
+
+#: builder/elementor.php:770 builder/template.php:60 inc/helper.php:272
+msgid "posts"
+msgstr ""
+
+#: builder/jscomposer.php:76
+msgid "Paywall"
+msgstr ""
+
+#: builder/jscomposer.php:77 inc/metabox.php:21
+msgid "Penci Paywall"
+msgstr ""
+
+#: builder/jscomposer.php:82
+msgid "Select Paywall Item"
+msgstr ""
+
+#: builder/jscomposer.php:88
+msgid "Use image"
+msgstr ""
+
+#: builder/jscomposer.php:97
+msgid "Image"
+msgstr ""
+
+#: builder/jscomposer.php:105
+msgid "Image width"
+msgstr ""
+
+#: builder/jscomposer.php:116
+msgid "Image height"
+msgstr ""
+
+#: builder/jscomposer.php:152
+msgid "Create the features list using un-ordered list elements."
+msgstr ""
+
+#: builder/jscomposer.php:158
+msgid "Enter call to action button text"
+msgstr ""
+
+#: builder/jscomposer.php:179
+msgid "Pricing title margin bottom"
+msgstr ""
+
+#: builder/jscomposer.php:189
+msgid "Pricing subtitle margin bottom"
+msgstr ""
+
+#: builder/jscomposer.php:199
+msgid "Pricing margin bottom"
+msgstr ""
+
+#: builder/jscomposer.php:209
+msgid "Price unit margin bottom"
+msgstr ""
+
+#: builder/jscomposer.php:219
+msgid "Features margin top"
+msgstr ""
+
+#: builder/jscomposer.php:229
+msgid "Features margin bottom"
+msgstr ""
+
+#: builder/jscomposer.php:288
+msgid "Title color"
+msgstr ""
+
+#: builder/jscomposer.php:296 builder/jscomposer.php:347
+msgid "Font Size for Pricing Title"
+msgstr ""
+
+#: builder/jscomposer.php:314
+msgid "Background color for pricing item"
+msgstr ""
+
+#: builder/jscomposer.php:321
+msgid "Border color for pricing item"
+msgstr ""
+
+#: builder/jscomposer.php:332 builder/jscomposer.php:339
+msgid "Pricing Subtitle"
+msgstr ""
+
+#: builder/jscomposer.php:373
+msgid "Price color"
+msgstr ""
+
+#: builder/jscomposer.php:381 builder/jscomposer.php:448
+#: builder/jscomposer.php:517
+msgid "Font Size for Pricing"
+msgstr ""
+
+#: builder/jscomposer.php:407
+msgid "Price Unit color"
+msgstr ""
+
+#: builder/jscomposer.php:415
+msgid "Font Size for Price Unit"
+msgstr ""
+
+#: builder/jscomposer.php:440
+msgid "Features color"
+msgstr ""
+
+#: builder/jscomposer.php:467
+msgid "Button"
+msgstr ""
+
+#: builder/jscomposer.php:474
+msgid "Button background color"
+msgstr ""
+
+#: builder/jscomposer.php:481
+msgid "Button border color"
+msgstr ""
+
+#: builder/jscomposer.php:488
+msgid "Button text color"
+msgstr ""
+
+#: builder/jscomposer.php:495
+msgid "Button background hover color"
+msgstr ""
+
+#: builder/jscomposer.php:502
+msgid "Button border hover color"
+msgstr ""
+
+#: builder/jscomposer.php:509
+msgid "Button text hover color"
+msgstr ""
+
+#: customizer/panel.php:23 penci-paywall.php:61
+msgid "Content Paywall"
+msgstr ""
+
+#: customizer/panel.php:29 penci-paywall.php:64
+msgid "General"
+msgstr ""
+
+#: customizer/panel.php:30 penci-paywall.php:65
+msgid "Advanced Settings"
+msgstr ""
+
+#: customizer/panel.php:31 penci-paywall.php:66
+msgid "Texts Translation"
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:8
+msgid "Content Restriction"
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:16
+msgid "Block All Posts"
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:17
+msgid ""
+"Block all posts for free user. If enabled, this option will override premium "
+"option in individual post. If you want to pay to unlock some specific posts, "
+"please check the option for it on the edit post screen."
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:24
+msgid "Paragraph Limit"
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:25
+msgid "Choose how much paragraphs to show for non-subscriber users."
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:39
+msgid "Hide Comment"
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:40
+msgid "Hide comments for non-subscriber users."
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:47
+msgid "Advertisement Option"
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:55
+msgid "Hide Ads for Subscriber"
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:56
+msgid ""
+"Remove all Soledad ads from being displayed for user who has an active "
+"subscription."
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:64
+msgid "Hide Ads for Unlocked Posts"
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:65
+msgid ""
+"Remove all Soledad ads from being displayed for posts that has been unlocked."
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:72
+msgid "Article Buttons"
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:80
+msgid "Show Header Text"
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:81
+msgid "Show header text above the button."
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:89
+msgid "Header Title"
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:97
+msgid "Header Description"
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:105
+msgid "Show Button"
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:106
+msgid "Choose which button will be showed on truncated articles"
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:119
+msgid "Subscribe Redirect"
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:120
+msgid ""
+"Choose where your non-subscriber will be redirected when click subscribe "
+"button on article"
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:129
+msgid "Unlock Redirect"
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:130
+msgid ""
+"Choose where your user will be redirected if they dont have unlock quota"
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:139
+msgid "Subscribe Title"
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:147
+msgid "Subscribe Description"
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:155
+msgid "Subscribe Button Text"
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:163
+msgid "Unlock Title"
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:171
+msgid "Unlock Description"
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:179
+msgid "Unlock Button Text"
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:186
+msgid "Premium Posts Heading Style"
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:194
+msgid "Premium Post Heading Text"
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:195
+msgid "The text display before the post title."
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:203
+msgid "Heading Style"
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:214
+msgid "Premium Post Heading Text Color"
+msgstr ""
+
+#: customizer/penci_paywall_general_section.php:221
+msgid "Premium Post Heading Text Background Color (Apply for Button Style)"
+msgstr ""
+
+#: customizer/penci_paywall_translations_section.php:9
+msgid "Text: "
+msgstr ""
+
+#: inc/ajax-handle.php:63
+msgid "This is not a product"
+msgstr ""
+
+#: inc/ajax-handle.php:71
+msgid "added"
+msgstr ""
+
+#: inc/ajax-handle.php:77
+msgid "Error adding product"
+msgstr ""
+
+#: inc/ajax-handle.php:107
+msgid "paywall ajax sent"
+msgstr ""
+
+#: inc/ajax-handle.php:160
+msgid "cancel subscription"
+msgstr ""
+
+#: inc/ajax-handle.php:182
+msgid "default source"
+msgstr ""
+
+#: inc/content_filter/content-filter.php:313
+#, php-format
+msgid "<a href=\"%s\">Login</a> if you have purchased"
+msgstr ""
+
+#: inc/getpaid.php:36 woocommerce/class-product.php:87
+#: woocommerce/class-product.php:223
+msgid "Soledad Post Subscribe"
+msgstr ""
+
+#: inc/getpaid.php:37 woocommerce/class-product.php:224
+msgid "Soledad Post Unlock"
+msgstr ""
+
+#: inc/getpaid.php:133
+msgid "Post Unlock - Total Post"
+msgstr ""
+
+#: inc/helper.php:5
+msgid "-Select Page-"
+msgstr ""
+
+#: inc/helper.php:253
+msgid "Are you sure want to unlock this post?"
+msgstr ""
+
+#: inc/helper.php:254
+msgid "Unlock left"
+msgstr ""
+
+#: inc/helper.php:257
+msgid "Are you sure want to cancel subscription?"
+msgstr ""
+
+#: inc/helper.php:258
+msgid "Subscription"
+msgstr ""
+
+#: inc/helper.php:259
+msgid "Unlocked Posts"
+msgstr ""
+
+#: inc/helper.php:260
+msgid "Subscription ID"
+msgstr ""
+
+#: inc/helper.php:261
+msgid "Subscription Status"
+msgstr ""
+
+#: inc/helper.php:262
+msgid "Remaining Time"
+msgstr ""
+
+#: inc/helper.php:263
+msgid "Next Payment Due"
+msgstr ""
+
+#: inc/helper.php:264
+msgid "Payment Type"
+msgstr ""
+
+#: inc/helper.php:265
+msgid "ACTIVE"
+msgstr ""
+
+#: inc/helper.php:266
+msgid "Cancel Subscription"
+msgstr ""
+
+#: inc/helper.php:267
+msgid "You are not subscribed"
+msgstr ""
+
+#: inc/helper.php:268
+msgid "Subscribe Now"
+msgstr ""
+
+#: inc/helper.php:269
+msgid "Quotas Left"
+msgstr ""
+
+#: inc/helper.php:270
+msgid "Posts Owned"
+msgstr ""
+
+#: inc/helper.php:271
+msgid "unlocks"
+msgstr ""
+
+#: inc/helper.php:273
+msgid "Unlocked Posts Collection"
+msgstr ""
+
+#: inc/helper.php:274
+msgid "No Post Found !"
+msgstr ""
+
+#: inc/helper.php:298
+msgid "weeks"
+msgstr ""
+
+#: inc/helper.php:303
+msgid "months"
+msgstr ""
+
+#: inc/helper.php:308
+msgid "years"
+msgstr ""
+
+#: inc/init.php:89
+msgid ""
+"<strong>Penci Paywall</strong> required <strong>GetPaid</strong> or "
+"<strong>WooCommerce</strong> plugin to add the payment gateway. Please "
+"install these plugins <a href=\""
+msgstr ""
+
+#: inc/metabox.php:109
+msgid "Set as Premium Post"
+msgstr ""
+
+#: inc/metabox.php:128
+msgid "Set as Free Post"
+msgstr ""
+
+#: inc/metabox.php:144
+msgid "Custom paragraph limit for free users."
+msgstr ""
+
+#: inc/metabox.php:145
+msgid "Total number of paragraphs that will be shown to free users."
+msgstr ""
+
+#: inc/metabox.php:158
+msgid "Custom Content Preview."
+msgstr ""
+
+#: inc/metabox.php:159
+msgid "Text preview that will be shown to free users."
+msgstr ""
+
+#: inc/metabox.php:172
+msgid "Video Preview URL"
+msgstr ""
+
+#: inc/metabox.php:173
+msgid ""
+"Please enter the URL of the video preview that will be shown to free users."
+msgstr ""
+
+#: payments/init.php:234
+msgid "Paywall Payment Methods"
+msgstr ""
+
+#: payments/paypal/class-paypal-api.php:111
+#: payments/stripe/class-stripe-api.php:581
+msgid "You still have an active subscription"
+msgstr ""
+
+#: payments/paypal/class-penci-paypal.php:45
+msgid "Paypal Recurring Subscription settings for Penci Paywall"
+msgstr ""
+
+#: payments/paypal/class-penci-paypal.php:47
+msgid "Proceed to Paypal"
+msgstr ""
+
+#: payments/paypal/class-penci-paypal.php:59
+msgid "Paypal Subscription"
+msgstr ""
+
+#: payments/paypal/class-penci-paypal.php:61
+msgid ""
+"(SANDBOX MODE). You will be redirected to paypal for subscription billing "
+"agreement."
+msgstr ""
+
+#: payments/paypal/class-penci-paypal.php:63
+msgid "You will be redirected to paypal for subscription billing agreement."
+msgstr ""
+
+#: payments/paypal/class-penci-paypal.php:164
+#, php-format
+msgid "Universal time is %s."
+msgstr ""
+
+#: payments/paypal/class-penci-paypal.php:173
+#, php-format
+msgid "Local time is %s."
+msgstr ""
+
+#: payments/paypal/class-penci-paypal.php:193
+msgid "Sandbox Mode"
+msgstr ""
+
+#: payments/paypal/class-penci-paypal.php:195
+msgid ""
+"Are you using Paypal APP Sandbox? Check this option if you using Sandbox APP "
+"credentials."
+msgstr ""
+
+#: payments/paypal/class-penci-paypal.php:199
+msgid "PayPal APP Client ID"
+msgstr ""
+
+#: payments/paypal/class-penci-paypal.php:201
+msgid "Your PayPal app Client ID."
+msgstr ""
+
+#: payments/paypal/class-penci-paypal.php:205
+msgid "PayPal APP Client Secret"
+msgstr ""
+
+#: payments/paypal/class-penci-paypal.php:207
+msgid "Your PayPal app Client Secret."
+msgstr ""
+
+#: payments/paypal/class-penci-paypal.php:211
+msgid "Receiver email"
+msgstr ""
+
+#: payments/paypal/class-penci-paypal.php:213
+#, php-format
+msgid ""
+"Input your main receiver email for your PayPal account here. This is used to "
+"validate IPN requests. You must add the following webhook endpoint <strong "
+"style=\"background-color:#ddd;\">&nbsp;%s&nbsp;</strong> to your <a "
+"href=\"https://www.paypal.com/cgi-bin/customerprofileweb?cmd=_profile-ipn-"
+"notify\" target=\"_blank\">Instant Payment Notifications settings</a>"
+msgstr ""
+
+#: payments/paypal/class-penci-paypal.php:218
+msgid "Payment Timezone"
+msgstr ""
+
+#: payments/paypal/class-penci-paypal.php:222
+#, php-format
+msgid ""
+"Choose the Time zone to match the one set in your PayPal account. (PayPal > "
+"My Profile > My settings > Time zone) %s"
+msgstr ""
+
+#: payments/stripe/class-penci-stripe-sepa.php:27
+msgid "Stripe Recurring Subscription settings for Penci Paywall"
+msgstr ""
+
+#: payments/stripe/class-penci-stripe-sepa.php:28
+#, php-format
+msgid ""
+"All other general Stripe Subscription settings can be adjusted <a "
+"href=\"%s\">here</a>."
+msgstr ""
+
+#: payments/stripe/class-penci-stripe-sepa.php:29
+#: payments/stripe/class-penci-stripe.php:30
+msgid "Place Order"
+msgstr ""
+
+#: payments/stripe/class-penci-stripe-sepa.php:38
+msgid "Stripe Subscription (SEPA Direct Debit)"
+msgstr ""
+
+#: payments/stripe/class-penci-stripe-sepa.php:42
+#, php-format
+msgid ""
+"(TEST MODE) Pay with your SEPA Direct Debit via Stripe. In test mode, you "
+"can use the card number DE89370400440532013000 or check the <a href=\"%s\" "
+"target=\"_blank\">Testing Stripe documentation</a> for more card numbers."
+msgstr ""
+
+#: payments/stripe/class-penci-stripe-sepa.php:46
+msgid "Pay with your SEPA Direct Debit via Stripe."
+msgstr ""
+
+#: payments/stripe/class-penci-stripe-sepa.php:76
+msgid "Enable/Disable"
+msgstr ""
+
+#: payments/stripe/class-penci-stripe-sepa.php:77
+msgid "Enable Stripe Subscribe (SEPA Direct Debit)"
+msgstr ""
+
+#: payments/stripe/class-penci-stripe-sepa.php:148
+msgid "IBAN."
+msgstr ""
+
+#: payments/stripe/class-penci-stripe-sepa.php:162
+#, php-format
+msgid ""
+"By providing your IBAN, you are authorizing %1$s and Stripe,\n"
+"\t\t\tour payment service provider, to send instructions to your bank to "
+"debit\n"
+"\t\t\tyour account in accordance with those instructions. Subsequent "
+"payments are\n"
+"\t\t\tentitled to a refund from your bank under the terms and conditions of "
+"your\n"
+"\t\t\tagreement with your bank. A refund must be claimed within eight weeks\n"
+"\t\t\tstarting from the date on which your account was debited."
+msgstr ""
+
+#: payments/stripe/class-penci-stripe.php:29
+msgid "Stripe Payment settings for Penci Paywall"
+msgstr ""
+
+#: payments/stripe/class-penci-stripe.php:43
+msgid "Stripe (Credit Card)"
+msgstr ""
+
+#: payments/stripe/class-penci-stripe.php:48
+#, php-format
+msgid ""
+"(TEST MODE) Pay with your credit card via Stripe. In test mode, you can use "
+"the card number 4242424242424242 with any CVC and a valid expiration date or "
+"check the <a href=\"%s\" target=\"_blank\">Testing Stripe documentation</a> "
+"for more card numbers."
+msgstr ""
+
+#: payments/stripe/class-penci-stripe.php:52
+msgid "Pay with your credit card via Stripe."
+msgstr ""
+
+#: payments/stripe/class-penci-stripe.php:92
+msgid "Test Mode"
+msgstr ""
+
+#: payments/stripe/class-penci-stripe.php:94
+msgid ""
+"Are you using Stripe Test Mode? Check this option if you using Stripe Test "
+"Mode."
+msgstr ""
+
+#: payments/stripe/class-penci-stripe.php:98
+msgid "Test Publishable Key"
+msgstr ""
+
+#: payments/stripe/class-penci-stripe.php:100
+msgid "Your Test Mode Publishable Key."
+msgstr ""
+
+#: payments/stripe/class-penci-stripe.php:104
+msgid "Test Secret Key"
+msgstr ""
+
+#: payments/stripe/class-penci-stripe.php:106
+msgid "Your Test Mode Secret Key."
+msgstr ""
+
+#: payments/stripe/class-penci-stripe.php:110
+msgid "Live Publishable Key"
+msgstr ""
+
+#: payments/stripe/class-penci-stripe.php:112
+msgid "Your Live Mode Publishable Key."
+msgstr ""
+
+#: payments/stripe/class-penci-stripe.php:116
+msgid "Live Secret Key"
+msgstr ""
+
+#: payments/stripe/class-penci-stripe.php:118
+msgid "Your Live Mode Secret Key."
+msgstr ""
+
+#: payments/stripe/class-penci-stripe.php:122
+msgid "Webhook Key"
+msgstr ""
+
+#: payments/stripe/class-penci-stripe.php:124
+#, php-format
+msgid ""
+"Your Webhook Key. You must add the following webhook endpoint <strong "
+"style=\"background-color:#ddd;\">&nbsp;%s&nbsp;</strong> to your <a "
+"href=\"https://dashboard.stripe.com/account/webhooks\" "
+"target=\"_blank\">Stripe account settings</a>."
+msgstr ""
+
+#: payments/stripe/class-penci-stripe.php:128
+msgid "Statement Descriptor"
+msgstr ""
+
+#: payments/stripe/class-penci-stripe.php:130
+msgid ""
+"Your Statement Descriptor. Statement descriptors are limited to 22 "
+"characters, cannot use the special characters >, <, \", \\, ', *, and must "
+"not consist solely of numbers. This will appear on your customer's statement "
+"in capital letters."
+msgstr ""
+
+#: payments/stripe/class-penci-stripe.php:465
+#, php-format
+msgid "%s ending in %s"
+msgstr ""
+
+#: payments/stripe/class-penci-stripe.php:471
+msgid "Use a new payment method."
+msgstr ""
+
+#: payments/stripe/class-penci-stripe.php:487
+msgid "Save payment information to my account for future purchases."
+msgstr ""
+
+#: payments/stripe/class-penci-stripe.php:493
+msgid "Your card will be saved for future subscription payment."
+msgstr ""
+
+#: payments/stripe/class-penci-stripe.php:519
+#: payments/stripe/class-penci-stripe.php:571
+msgid "Payment failed. Please try again later or use another card"
+msgstr ""
+
+#: payments/stripe/class-penci-stripe.php:549
+msgid "Invalid payment gateway"
+msgstr ""
+
+#: payments/stripe/class-penci-stripe.php:575
+#, php-format
+msgid "Stripe charge awaiting payment: %s."
+msgstr ""
+
+#: payments/stripe/class-stripe-api.php:792
+#: payments/stripe/class-stripe-api.php:815
+#: payments/stripe/class-stripe-api.php:837
+#, php-format
+msgid "Paywall Customer, Name: %s"
+msgstr ""
+
+#: payments/stripe/class-stripe-api.php:899
+#, php-format
+msgid "%s - Unlock %s"
+msgstr ""
+
+#: payments/stripe/class-stripe-api.php:917
+#, php-format
+msgid "%s - Subscription %s"
+msgstr ""
+
+#: payments/stripe/class-stripe-helper.php:18
+msgid "Please try to re-input your card or use another card"
+msgstr ""
+
+#: payments/stripe/class-stripe-helper.php:23
+msgid "Unable to process your payment, please try again later"
+msgstr ""
+
+#: payments/stripe/class-stripe-helper.php:40
+msgid "The card number is not a valid credit card number."
+msgstr ""
+
+#: payments/stripe/class-stripe-helper.php:41
+msgid "The card's expiration month is invalid."
+msgstr ""
+
+#: payments/stripe/class-stripe-helper.php:42
+msgid "The card's expiration year is invalid."
+msgstr ""
+
+#: payments/stripe/class-stripe-helper.php:43
+msgid "The card's security code is invalid."
+msgstr ""
+
+#: payments/stripe/class-stripe-helper.php:44
+msgid "The card number is incorrect."
+msgstr ""
+
+#: payments/stripe/class-stripe-helper.php:45
+msgid "The card number is incomplete."
+msgstr ""
+
+#: payments/stripe/class-stripe-helper.php:46
+msgid "The card's security code is incomplete."
+msgstr ""
+
+#: payments/stripe/class-stripe-helper.php:47
+msgid "The card's expiration date is incomplete."
+msgstr ""
+
+#: payments/stripe/class-stripe-helper.php:48
+msgid "The card has expired."
+msgstr ""
+
+#: payments/stripe/class-stripe-helper.php:49
+msgid "The card's security code is incorrect."
+msgstr ""
+
+#: payments/stripe/class-stripe-helper.php:50
+msgid "The card's zip code failed validation."
+msgstr ""
+
+#: payments/stripe/class-stripe-helper.php:51
+msgid "The card's expiration year is in the past"
+msgstr ""
+
+#: payments/stripe/class-stripe-helper.php:52
+msgid "The card was declined."
+msgstr ""
+
+#: payments/stripe/class-stripe-helper.php:53
+msgid "There is no card on a customer that is being charged."
+msgstr ""
+
+#: payments/stripe/class-stripe-helper.php:54
+msgid "An error occurred while processing the card."
+msgstr ""
+
+#: payments/stripe/class-stripe-helper.php:55
+msgid ""
+"Unable to process this payment, please try again or use alternative method."
+msgstr ""
+
+#: payments/stripe/class-stripe-helper.php:56
+msgid ""
+"The billing country is not accepted by SOFORT. Please try another country."
+msgstr ""
+
+#: payments/stripe/class-stripe-helper.php:57
+msgid "Invalid email address, please correct and try again."
+msgstr ""
+
+#: payments/stripe/class-stripe-helper.php:58
+msgid ""
+"We are unable to authenticate your payment method. Please choose a different "
+"payment method and try again."
+msgstr ""
+
+#: payments/stripe/class-stripe-helper.php:59
+msgid "Please make sure you have inputted billing detail required fields."
+msgstr ""
+
+#: payments/stripe/class-stripe-webhook.php:109
+msgid "Could not find order id in metadata"
+msgstr ""
+
+#: payments/stripe/class-stripe-webhook.php:117
+msgid "Could not find order id: $d"
+msgstr ""
+
+#: payments/stripe/class-stripe-webhook.php:124
+#, php-format
+msgid "Could not find user via order id %d"
+msgstr ""
+
+#: payments/stripe/class-stripe-webhook.php:150
+#: payments/stripe/class-stripe-webhook.php:185
+#, php-format
+msgid "Could not find subscription %d in user %s"
+msgstr ""
+
+#: payments/stripe/class-stripe-webhook.php:161
+#, php-format
+msgid "Subscription for %s by %s has been canceled"
+msgstr ""
+
+#: payments/stripe/class-stripe-webhook.php:204
+#, php-format
+msgid "Subscription for %s by %s has been activated"
+msgstr ""
+
+#: payments/stripe/class-stripe-webhook.php:236
+#, php-format
+msgid "Order by %s has completed"
+msgstr ""
+
+#: payments/stripe/class-stripe-webhook.php:263
+#, php-format
+msgid "Order by %s has failed"
+msgstr ""
+
+#: payments/stripe/class-stripe-webhook.php:296
+#, php-format
+msgid "Payment for order by %s has refunded"
+msgstr ""
+
+#: woocommerce/class-product.php:88
+msgid ""
+"Enable this option to use Product Subscription as Soledad Post Subscribe"
+msgstr ""
+
+#: woocommerce/class-wc-order.php:256
+#, php-format
+msgid ""
+"<span class=\"penci-notice-heading\">Penci Paywall</span>\n"
+"                            <span style=\"display: block;\">Please install "
+"and active WooCommerce plugin. Click the button below to manage your plugin :"
+"</span>\n"
+"                            <span class=\"penci-notice-button\">\n"
+"                                <a href=\"%s\" class=\"button-"
+"primary\">Manage plugin</a>\n"
+"                            </span>\n"
+"                            "
+msgstr ""
+
+#: woocommerce/options/subscribe-option.php:7
+msgid "Billing Time"
+msgstr ""
+
+#: woocommerce/options/subscribe-option.php:8
+msgid "Choose the billing interval, and period"
+msgstr ""
+
+#: woocommerce/options/subscribe-option.php:15
+msgid "every"
+msgstr ""
+
+#: woocommerce/options/subscribe-option.php:16
+msgid "every 2nd"
+msgstr ""
+
+#: woocommerce/options/subscribe-option.php:17
+msgid "every 3rd"
+msgstr ""
+
+#: woocommerce/options/subscribe-option.php:18
+msgid "every 4th"
+msgstr ""
+
+#: woocommerce/options/subscribe-option.php:19
+msgid "every 5th"
+msgstr ""
+
+#: woocommerce/options/subscribe-option.php:20
+msgid "every 6th"
+msgstr ""
+
+#: woocommerce/options/subscribe-option.php:27
+msgid "Days"
+msgstr ""
+
+#: woocommerce/options/subscribe-option.php:28
+msgid "Weeks"
+msgstr ""
+
+#: woocommerce/options/subscribe-option.php:29
+msgid "Months"
+msgstr ""
+
+#: woocommerce/options/subscribe-option.php:30
+msgid "Years"
+msgstr ""
+
+#: woocommerce/options/unlock-option.php:9
+msgid "Number of Post Unlock"
+msgstr ""
+
+#: woocommerce/options/unlock-option.php:10
+msgid "The number of posts that the user could buy/unlock."
+msgstr ""

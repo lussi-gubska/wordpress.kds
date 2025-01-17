@@ -1,0 +1,1536 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-09-07 21:09+0700\n"
+"PO-Revision-Date: 2023-09-07 21:09+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _e;__;esc__;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: builder/elementor/podcast_categories.php:14
+msgid "Penci Podcast - Categories"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:40
+#: builder/elementor/podcast_listing.php:40
+#: builder/elementor/podcast_series.php:40
+msgid "General"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:45
+#: builder/elementor/podcast_listing.php:53
+#: inc/importer/app/Helper/FeedForm.php:106 inc/init.php:131
+msgid "Categories"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:57
+#: builder/elementor/podcast_listing.php:75
+#: builder/elementor/podcast_series.php:65
+msgid "Layout"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:63
+#: builder/elementor/podcast_listing.php:81
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_AdminView.php:139
+msgid "Columns"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:67
+#: builder/elementor/podcast_categories.php:82
+#: builder/elementor/podcast_categories.php:95
+#: builder/elementor/podcast_listing.php:85
+#: builder/elementor/podcast_listing.php:99
+#: builder/elementor/podcast_listing.php:113
+msgid "2 Columns"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:68
+#: builder/elementor/podcast_categories.php:83
+#: builder/elementor/podcast_categories.php:96
+#: builder/elementor/podcast_listing.php:86
+#: builder/elementor/podcast_listing.php:100
+#: builder/elementor/podcast_listing.php:114
+msgid "3 Columns"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:69
+#: builder/elementor/podcast_listing.php:87
+#: builder/elementor/podcast_listing.php:101
+msgid "4 Columns"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:70
+#: builder/elementor/podcast_listing.php:88
+msgid "5 Columns"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:77
+#: builder/elementor/podcast_listing.php:95
+msgid "Tablet Columns"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:81
+#: builder/elementor/podcast_categories.php:94
+msgid "1 Columns"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:90
+#: builder/elementor/podcast_listing.php:108
+msgid "Mobile Columns"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:103
+#: builder/elementor/podcast_listing.php:121
+msgid "Items Gap"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:114
+#: builder/elementor/podcast_listing.php:144
+#: builder/elementor/podcast_series.php:83
+msgid "Featured Image Size"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:122
+#: builder/elementor/podcast_listing.php:162
+#: builder/elementor/podcast_series.php:91
+msgid "Featured Image Ratio"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:131
+msgid "Items Boder Radius"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:140
+#: builder/elementor/podcast_listing.php:180
+#: builder/elementor/podcast_series.php:119
+msgid "Podcast Meta"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:146
+#: builder/elementor/podcast_listing.php:194
+#: builder/elementor/podcast_series.php:133
+msgid "Show Episode Count"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:154
+#: builder/elementor/podcast_listing.php:202
+#: builder/elementor/podcast_series.php:141
+msgid "Show Description"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:165
+msgid "Content Style"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:171
+#: builder/elementor/podcast_listing.php:227
+#: builder/elementor/podcast_series.php:166
+#: inc/importer/templates/importer-scheduled.php:15
+msgid "Title"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:179
+#: builder/elementor/podcast_listing.php:235
+#: builder/elementor/podcast_series.php:174
+msgid "Title Typography"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:186
+#: builder/elementor/podcast_listing.php:242
+#: builder/elementor/podcast_series.php:181
+msgid "Title Color"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:195
+#: builder/elementor/podcast_listing.php:259
+#: builder/elementor/podcast_series.php:221
+msgid "Meta"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:204
+#: builder/elementor/podcast_listing.php:267
+#: builder/elementor/podcast_series.php:229
+#: builder/elementor/podcast_series.php:296
+msgid "Meta Typography"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:212
+#: builder/elementor/podcast_listing.php:274
+#: builder/elementor/podcast_series.php:236
+#: builder/elementor/podcast_series.php:303
+msgid "Meta Color"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:222
+#: builder/elementor/podcast_listing.php:299
+#: builder/elementor/podcast_series.php:261
+msgid "Description"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:231
+#: builder/elementor/podcast_listing.php:307
+#: builder/elementor/podcast_series.php:270
+msgid "Description Typography"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:239
+#: builder/elementor/podcast_listing.php:314
+#: builder/elementor/podcast_series.php:278
+msgid "Description Color"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:249
+msgid "Overlay"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:256
+msgid "Overlay Background Color"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:264
+msgid "Hover Overlay Background Color"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:328
+#: builder/elementor/podcast_listing.php:548
+#: builder/elementor/podcast_series.php:585
+msgid "Default"
+msgstr ""
+
+#: builder/elementor/podcast_categories.php:340
+#: builder/elementor/podcast_listing.php:560
+#: builder/elementor/podcast_series.php:597
+msgid "Full"
+msgstr ""
+
+#: builder/elementor/podcast_listing.php:14
+msgid "Penci Podcast - Listing"
+msgstr ""
+
+#: builder/elementor/podcast_listing.php:46
+#: builder/elementor/podcast_series.php:46
+msgid "Number of Posts"
+msgstr ""
+
+#: builder/elementor/podcast_listing.php:63
+#: builder/elementor/podcast_series.php:53
+#: inc/importer/app/Helper/FeedForm.php:117 inc/init.php:159
+msgid "Series"
+msgstr ""
+
+#: builder/elementor/podcast_listing.php:112
+msgid "1 Column"
+msgstr ""
+
+#: builder/elementor/podcast_listing.php:132
+#: builder/elementor/podcast_series.php:71
+msgid "Image Position"
+msgstr ""
+
+#: builder/elementor/podcast_listing.php:136
+#: builder/elementor/podcast_series.php:75
+msgid "Top"
+msgstr ""
+
+#: builder/elementor/podcast_listing.php:137
+#: builder/elementor/podcast_series.php:76
+msgid "Left"
+msgstr ""
+
+#: builder/elementor/podcast_listing.php:152
+#: builder/elementor/podcast_series.php:100
+msgid "Featured Image Width"
+msgstr ""
+
+#: builder/elementor/podcast_listing.php:171
+#: builder/elementor/podcast_series.php:110
+msgid "Featured Boder Radius"
+msgstr ""
+
+#: builder/elementor/podcast_listing.php:186
+#: builder/elementor/podcast_series.php:125
+msgid "Show Author"
+msgstr ""
+
+#: builder/elementor/podcast_listing.php:210
+msgid "Show Media Options"
+msgstr ""
+
+#: builder/elementor/podcast_listing.php:221
+#: builder/elementor/podcast_series.php:160
+msgid "Podcast Style"
+msgstr ""
+
+#: builder/elementor/podcast_listing.php:250
+msgid "Title Hover Color"
+msgstr ""
+
+#: builder/elementor/podcast_listing.php:282
+#: builder/elementor/podcast_series.php:244
+#: builder/elementor/podcast_series.php:311
+msgid "Meta Link Color"
+msgstr ""
+
+#: builder/elementor/podcast_listing.php:290
+#: builder/elementor/podcast_series.php:252
+#: builder/elementor/podcast_series.php:319
+msgid "Meta Link Hover Color"
+msgstr ""
+
+#: builder/elementor/podcast_listing.php:323
+#: builder/elementor/podcast_series.php:399
+msgid "Play Button"
+msgstr ""
+
+#: builder/elementor/podcast_listing.php:331
+#: builder/elementor/podcast_listing.php:395
+#: builder/elementor/podcast_series.php:337
+#: builder/elementor/podcast_series.php:407
+#: builder/elementor/podcast_series.php:471
+msgid "Buttons Typography"
+msgstr ""
+
+#: builder/elementor/podcast_listing.php:338
+#: builder/elementor/podcast_listing.php:402
+#: builder/elementor/podcast_series.php:345
+#: builder/elementor/podcast_series.php:414
+#: builder/elementor/podcast_series.php:478
+msgid "Button Color"
+msgstr ""
+
+#: builder/elementor/podcast_listing.php:346
+#: builder/elementor/podcast_listing.php:410
+#: builder/elementor/podcast_series.php:354
+#: builder/elementor/podcast_series.php:422
+#: builder/elementor/podcast_series.php:486
+msgid "Button Hover Color"
+msgstr ""
+
+#: builder/elementor/podcast_listing.php:354
+#: builder/elementor/podcast_listing.php:418
+#: builder/elementor/podcast_series.php:362
+#: builder/elementor/podcast_series.php:430
+#: builder/elementor/podcast_series.php:494
+msgid "Button Background Color"
+msgstr ""
+
+#: builder/elementor/podcast_listing.php:362
+#: builder/elementor/podcast_listing.php:426
+#: builder/elementor/podcast_series.php:371
+#: builder/elementor/podcast_series.php:438
+#: builder/elementor/podcast_series.php:502
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: builder/elementor/podcast_listing.php:370
+#: builder/elementor/podcast_listing.php:434
+#: builder/elementor/podcast_series.php:380
+#: builder/elementor/podcast_series.php:446
+#: builder/elementor/podcast_series.php:510
+msgid "Button Border Color"
+msgstr ""
+
+#: builder/elementor/podcast_listing.php:378
+#: builder/elementor/podcast_listing.php:442
+#: builder/elementor/podcast_series.php:389
+#: builder/elementor/podcast_series.php:454
+#: builder/elementor/podcast_series.php:518
+msgid "Button Border Hover Color"
+msgstr ""
+
+#: builder/elementor/podcast_listing.php:387
+#: builder/elementor/podcast_series.php:463
+msgid "More Button"
+msgstr ""
+
+#: builder/elementor/podcast_series.php:14
+msgid "Penci Podcast - Series"
+msgstr ""
+
+#: builder/elementor/podcast_series.php:149
+#: customizer/penci_podcast_category_section.php:100
+#: customizer/penci_podcast_series_section.php:43
+msgid "Show Subscribe Button"
+msgstr ""
+
+#: builder/elementor/podcast_series.php:189
+msgid "Listing Title"
+msgstr ""
+
+#: builder/elementor/podcast_series.php:197
+msgid "Listing Title Typography"
+msgstr ""
+
+#: builder/elementor/podcast_series.php:204
+msgid "Listing Title Color"
+msgstr ""
+
+#: builder/elementor/podcast_series.php:212
+msgid "Listing Title Hover Color"
+msgstr ""
+
+#: builder/elementor/podcast_series.php:288
+msgid "Item Meta"
+msgstr ""
+
+#: builder/elementor/podcast_series.php:328
+msgid "Subscribe Button"
+msgstr ""
+
+#: builder/elementor/podcast_series.php:527
+msgid "Borders"
+msgstr ""
+
+#: builder/elementor/podcast_series.php:534
+msgid "General Border Color"
+msgstr ""
+
+#: builder/elementor/podcast_series.php:542
+msgid "Listing Spacing"
+msgstr ""
+
+#: customizer/panel.php:23 inc/widget.php:39 inc/widget.php:41
+#: penci-podcast.php:38
+msgid "Podcast"
+msgstr ""
+
+#: customizer/panel.php:29 penci-podcast.php:41
+msgid "General Settings"
+msgstr ""
+
+#: customizer/panel.php:30 penci-podcast.php:42
+msgid "Categories Layout"
+msgstr ""
+
+#: customizer/panel.php:31 penci-podcast.php:43
+msgid "Series Layout"
+msgstr ""
+
+#: customizer/panel.php:32 penci-podcast.php:44
+msgid "Colors"
+msgstr ""
+
+#: customizer/panel.php:33 penci-podcast.php:45
+msgid "Text Translation"
+msgstr ""
+
+#: customizer/penci_podcast_category_section.php:7
+msgid "Template & Layout Settings"
+msgstr ""
+
+#: customizer/penci_podcast_category_section.php:15
+msgid "Featured Image Position"
+msgstr ""
+
+#: customizer/penci_podcast_category_section.php:27
+msgid "Podcast Template"
+msgstr ""
+
+#: customizer/penci_podcast_category_section.php:28
+msgid "Choose your single podcast template."
+msgstr ""
+
+#: customizer/penci_podcast_category_section.php:42
+msgid "Podcast Layout"
+msgstr ""
+
+#: customizer/penci_podcast_category_section.php:43
+msgid "Choose your single podcast layout"
+msgstr ""
+
+#: customizer/penci_podcast_category_section.php:56
+#: customizer/penci_podcast_series_section.php:8
+msgid "Podcast Elements"
+msgstr ""
+
+#: customizer/penci_podcast_category_section.php:64
+#: customizer/penci_podcast_series_section.php:16
+msgid "Show Featured Image"
+msgstr ""
+
+#: customizer/penci_podcast_category_section.php:65
+#: customizer/penci_podcast_series_section.php:17
+msgid "Show featured image single podcast."
+msgstr ""
+
+#: customizer/penci_podcast_category_section.php:73
+#: customizer/penci_podcast_series_section.php:25
+msgid "Show Podcast Author"
+msgstr ""
+
+#: customizer/penci_podcast_category_section.php:74
+#: customizer/penci_podcast_series_section.php:26
+msgid "Show podcast author on podcast meta container."
+msgstr ""
+
+#: customizer/penci_podcast_category_section.php:82
+#: customizer/penci_podcast_series_section.php:34
+msgid "Show Episode Counter"
+msgstr ""
+
+#: customizer/penci_podcast_category_section.php:83
+#: customizer/penci_podcast_series_section.php:35
+msgid "Show or hide episode counter"
+msgstr ""
+
+#: customizer/penci_podcast_category_section.php:91
+msgid "Show Podcast Meta Option"
+msgstr ""
+
+#: customizer/penci_podcast_category_section.php:92
+msgid "Show Podcast meta option on podcast aside."
+msgstr ""
+
+#: customizer/penci_podcast_category_section.php:108
+#: customizer/penci_podcast_series_section.php:51
+msgid "Enable Post Excerpt"
+msgstr ""
+
+#: customizer/penci_podcast_category_section.php:109
+#: customizer/penci_podcast_series_section.php:52
+msgid "Show post excerpt on this block."
+msgstr ""
+
+#: customizer/penci_podcast_category_section.php:117
+msgid "Excerpt Length"
+msgstr ""
+
+#: customizer/penci_podcast_category_section.php:118
+msgid "Set the word length of excerpt on post."
+msgstr ""
+
+#: customizer/penci_podcast_category_section.php:131
+msgid "Excerpt Ellipsis"
+msgstr ""
+
+#: customizer/penci_podcast_category_section.php:132
+msgid "Define excerpt ellipsis"
+msgstr ""
+
+#: customizer/penci_podcast_colors_section.php:8
+msgid "Player Background Color"
+msgstr ""
+
+#: customizer/penci_podcast_colors_section.php:15
+msgid "Player Text Color"
+msgstr ""
+
+#: customizer/penci_podcast_colors_section.php:22
+msgid "Player Text Active Color"
+msgstr ""
+
+#: customizer/penci_podcast_colors_section.php:29
+msgid "Player Borders Color"
+msgstr ""
+
+#: customizer/penci_podcast_colors_section.php:36
+msgid "Audio Tracking Background Color"
+msgstr ""
+
+#: customizer/penci_podcast_general_section.php:8
+msgid "General Setting"
+msgstr ""
+
+#: customizer/penci_podcast_general_section.php:16
+msgid "Enable Podcast Player"
+msgstr ""
+
+#: customizer/penci_podcast_general_section.php:17
+msgid "Enable this feature will show podcast player."
+msgstr ""
+
+#: customizer/penci_podcast_general_section.php:25
+msgid "Enable Global Player"
+msgstr ""
+
+#: customizer/penci_podcast_general_section.php:26
+msgid "Enable this feature will show podcast player globaly."
+msgstr ""
+
+#: inc/helper.php:415
+msgid "Previous"
+msgstr ""
+
+#: inc/helper.php:416
+msgid "Play"
+msgstr ""
+
+#: inc/helper.php:417
+msgid "Pause"
+msgstr ""
+
+#: inc/helper.php:418
+msgid "Next"
+msgstr ""
+
+#: inc/helper.php:419
+msgid "Shuffle"
+msgstr ""
+
+#: inc/helper.php:420
+msgid "Repeat"
+msgstr ""
+
+#: inc/helper.php:421
+msgid "Toggle Player"
+msgstr ""
+
+#: inc/helper.php:422
+msgid "Toggle PlayList"
+msgstr ""
+
+#: inc/helper.php:423
+msgid "Queue"
+msgstr ""
+
+#: inc/helper.php:424
+msgid "Mute"
+msgstr ""
+
+#: inc/helper.php:425
+msgid "Unmute"
+msgstr ""
+
+#: inc/helper.php:426
+msgid "Volume"
+msgstr ""
+
+#: inc/helper.php:427 templates/playlist.php:56
+msgid "Subscribe"
+msgstr ""
+
+#: inc/helper.php:428
+msgid "Add to Queue"
+msgstr ""
+
+#: inc/helper.php:429
+msgid "There's something wrong"
+msgstr ""
+
+#: inc/helper.php:430
+msgid "min"
+msgstr ""
+
+#: inc/helper.php:431
+msgid "sec"
+msgstr ""
+
+#: inc/importer/app/AdminAssets.php:42
+#, php-format
+msgid "Processed %s episodes out of %s"
+msgstr ""
+
+#: inc/importer/app/AdminAssets.php:43
+#, php-format
+msgid "Success! Re-synced %s previously imported episodes."
+msgstr ""
+
+#: inc/importer/app/AdminAssets.php:44
+#, php-format
+msgid ""
+"Success! Re-synced %s previously imported episodes, and skipped %s based on "
+"rules."
+msgstr ""
+
+#: inc/importer/app/AdminAssets.php:45
+#, php-format
+msgid "Skipped %s episode imports, based on rules."
+msgstr ""
+
+#: inc/importer/app/AdminAssets.php:46
+msgid "No new episodes imported - all episodes already existing in WordPress!"
+msgstr ""
+
+#: inc/importer/app/AdminAssets.php:47
+msgid ""
+"If you have existing draft, private or trashed posts with the same title as "
+"your episodes, delete those and run the importer again."
+msgstr ""
+
+#: inc/importer/app/AdminAssets.php:48
+msgid "Error! Your feed does not contain any episodes."
+msgstr ""
+
+#: inc/importer/app/AdminAssets.php:49
+#, php-format
+msgid "Success! Imported %s out of %s episodes"
+msgstr ""
+
+#: inc/importer/app/AdminAssets.php:50
+#, php-format
+msgid "%s previously imported episodes re-synced"
+msgstr ""
+
+#: inc/importer/app/Helper/FeedForm.php:64
+msgid "Podcast Feed URL"
+msgstr ""
+
+#: inc/importer/app/Helper/FeedForm.php:82
+msgid "Podcast Status"
+msgstr ""
+
+#: inc/importer/app/Helper/FeedForm.php:86
+msgid "Publish"
+msgstr ""
+
+#: inc/importer/app/Helper/FeedForm.php:87
+msgid "Save as Draft"
+msgstr ""
+
+#: inc/importer/app/Helper/FeedForm.php:96
+msgid "Podcast Author"
+msgstr ""
+
+#: inc/importer/app/Helper/FeedForm.php:130
+msgid "Ongoing Import (Enable to continuously import future episodes)"
+msgstr ""
+
+#: inc/importer/app/Helper/FeedForm.php:145
+msgid "Import Episode Featured Images"
+msgstr ""
+
+#: inc/importer/app/Helper/FeedForm.php:157
+msgid ""
+"Use an embed audio player instead of the default Penci Podcast Player "
+"(depending on your podcast host)"
+msgstr ""
+
+#: inc/importer/app/Helper/FeedForm.php:169
+msgid "Date Limit"
+msgstr ""
+
+#: inc/importer/app/Helper/FeedForm.php:172
+msgid "01-01-2019"
+msgstr ""
+
+#: inc/importer/app/Helper/FeedForm.php:173
+msgid "Optional: only import episodes after a certain date."
+msgstr ""
+
+#: inc/importer/app/Helper/FeedForm.php:181
+msgid "Imported Content Tag"
+msgstr ""
+
+#: inc/importer/app/Helper/FeedForm.php:196
+msgid "Truncate Post Content"
+msgstr ""
+
+#: inc/importer/app/Helper/FeedForm.php:199
+msgid ""
+"Optional: Will trim the post content when imported to the character amount "
+"below."
+msgstr ""
+
+#: inc/importer/app/Helper/FeedForm.php:200
+msgid "Leave empty to skip trimming, set to 0 to skip content import."
+msgstr ""
+
+#: inc/importer/app/Helper/FeedForm.php:208
+msgid "Append episode number to post title"
+msgstr ""
+
+#: inc/importer/app/Helper/FeedForm.php:220
+msgid "Append custom text to post title"
+msgstr ""
+
+#: inc/importer/app/Helper/FeedForm.php:223
+msgid "Ex: My Podcast"
+msgstr ""
+
+#: inc/importer/app/Helper/FeedForm.php:224
+#, php-format
+msgid "Optional: Add %s to display the show name."
+msgstr ""
+
+#: inc/importer/app/PostTypes.php:27
+msgid "Podcast Imports"
+msgstr ""
+
+#: inc/importer/app/PostTypes.php:28
+msgid "Podcast Import"
+msgstr ""
+
+#: inc/importer/app/RestAPI/ACL.php:33
+#, php-format
+msgid "You are not allowed to %s."
+msgstr ""
+
+#: inc/importer/app/RestAPI/Response.php:46
+msgid "Updated settings."
+msgstr ""
+
+#: inc/importer/app/RestAPI/Response.php:68
+msgid "Saved podcast feed for continuous import."
+msgstr ""
+
+#: inc/importer/app/RestAPI/Response.php:73
+msgid ""
+"This podcast is already scheduled for import. Delete the previous schedule "
+"to create a new one."
+msgstr ""
+
+#: inc/importer/app/SiteHealth.php:26
+#, php-format
+msgid "%s - Scheduled Imports"
+msgstr ""
+
+#: inc/importer/app/SiteHealth.php:35
+#, php-format
+msgid "%s runs the imports using the action scheduler."
+msgstr ""
+
+#: inc/importer/app/SiteHealth.php:41
+#, php-format
+msgid "%s - All Actions Scheduled."
+msgstr ""
+
+#: inc/importer/app/SiteHealth.php:44 inc/importer/app/SiteHealth.php:53
+msgid "Performance"
+msgstr ""
+
+#: inc/importer/app/SiteHealth.php:50
+#, php-format
+msgid "%s - Missing Actions in schedule."
+msgstr ""
+
+#: inc/importer/app/SiteHealth.php:59
+msgid "Reset Schedules"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_ActionFactory.php:161
+msgid "Invalid action - must be a recurring action."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_AdminView.php:60
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_AdminView.php:75
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_AdminView.php:76
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_ListTable.php:89
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:19
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:30
+msgid "Scheduled Actions"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_AdminView.php:127
+msgid "About"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_AdminView.php:129
+#, php-format
+msgid "About Action Scheduler %s"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_AdminView.php:131
+msgid ""
+"Action Scheduler is a scalable, traceable job queue for background "
+"processing large sets of actions. Action Scheduler works by triggering an "
+"action hook to run at some time in the future. Scheduled actions can also be "
+"scheduled to run on a recurring schedule."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_AdminView.php:141
+msgid "Scheduled Action Columns"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_AdminView.php:143
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_ListTable.php:96
+msgid "Hook"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_AdminView.php:143
+msgid "Name of the action hook that will be triggered."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_AdminView.php:144
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_ListTable.php:97
+msgid "Status"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_AdminView.php:144
+msgid "Action statuses are Pending, Complete, Canceled, Failed"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_AdminView.php:145
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_ListTable.php:98
+msgid "Arguments"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_AdminView.php:145
+msgid "Optional data array passed to the action hook."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_AdminView.php:146
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_ListTable.php:99
+msgid "Group"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_AdminView.php:146
+msgid "Optional action group."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_AdminView.php:147
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_ListTable.php:100
+msgid "Recurrence"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_AdminView.php:147
+msgid "The action's schedule frequency."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_AdminView.php:148
+msgid "Scheduled"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_AdminView.php:148
+msgid "The date/time the action is/was scheduled to run."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_AdminView.php:149
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_ListTable.php:102
+msgid "Log"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_AdminView.php:149
+msgid "Activity log for the action."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_DataController.php:137
+msgid "Attempting to reduce used memory..."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_InvalidActionException.php:21
+#, php-format
+msgid "Action [%1$s] has an invalid schedule: %2$s"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_InvalidActionException.php:40
+#, php-format
+msgid ""
+"Action [%1$s] has invalid arguments. It cannot be JSON decoded to an array. "
+"$args = %2$s"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_ListTable.php:92
+msgid "Delete"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_ListTable.php:101
+msgid "Scheduled Date"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_ListTable.php:122
+msgid "Claim ID"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_ListTable.php:129
+msgid "Run"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_ListTable.php:130
+msgid "Process the action now as if it were run as part of a queue"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_ListTable.php:133
+msgid "Cancel"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_ListTable.php:134
+msgid "Cancel the action now to avoid it being run in future"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_ListTable.php:201
+msgid "Now!"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_ListTable.php:237
+#, php-format
+msgid "Every %s"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_ListTable.php:243
+msgid "Non-repeating"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_ListTable.php:341
+msgid ""
+"It appears one or more database tables were missing. Attempting to re-create "
+"the missing table(s)."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_ListTable.php:374
+#, php-format
+msgid ""
+"A new queue has begun processing. <a href=\"%s\">View actions in-progress "
+"&raquo;</a>"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_ListTable.php:377
+#, php-format
+msgid "The next queue will begin processing in approximately %d seconds."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_ListTable.php:398
+#, php-format
+msgid "Successfully executed action: %s"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_ListTable.php:402
+#, php-format
+msgid "Successfully canceled action: %s"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_ListTable.php:406
+#, php-format
+msgid "Successfully processed change for action: %s"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_ListTable.php:412
+#, php-format
+msgid "Could not process change for action: \"%1$s\" (ID: %2$d). Error: %3$s"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_ListTable.php:458
+#, php-format
+msgid " (%s ago)"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_ListTable.php:461
+#, php-format
+msgid " (%s)"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_ListTable.php:610
+msgid "Search hook, args and claim ID"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_QueueRunner.php:192
+msgid "Every minute"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_WPCommentCleaner.php:103
+#, php-format
+msgid "This data will be deleted in %s."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_WPCommentCleaner.php:108
+#, php-format
+msgid ""
+"Action Scheduler has migrated data to custom tables; however, orphaned log "
+"entries exist in the WordPress Comments table. %1$s <a href=\"%2$s\">Learn "
+"more &raquo;</a>"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/ActionScheduler_wcSystemStatus.php:102
+msgid "This section shows details of Action Scheduler."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:33
+#: inc/importer/lib/action-scheduler/classes/WP_CLI/ProgressBar.php:47
+#, php-format
+msgid "The %s class can only be run within WP CLI."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:59
+msgid ""
+"There are too many concurrent batches, but the run is forced to continue."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:61
+msgid "There are too many concurrent batches."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:113
+msgid "The claim has been lost. Aborting current batch."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:138
+#, php-format
+msgid "Started processing action %s"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:155
+#, php-format
+msgid "Completed processing action %1$s with hook: %2$s"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:170
+#, php-format
+msgid "Error processing action %1$s: %2$s"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:136
+#, php-format
+msgid "There was an error running the action scheduler: %s"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/abstracts/ActionScheduler.php:195
+#, php-format
+msgid "%s() was called before the Action Scheduler data store was initialized"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php:467
+msgid "Filter"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php:567
+#, php-format
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php:672
+msgid "Search"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:72
+msgid "action created"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:76
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_DBLogger.php:138
+msgid "action canceled"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:82
+#, php-format
+msgid "action started via %s"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:84
+msgid "action started"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:92
+#, php-format
+msgid "action complete via %s"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:94
+msgid "action complete"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:102
+#, php-format
+msgid "action failed via %1$s: %2$s"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:105
+#, php-format
+msgid "action failed: %s"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:112
+#, php-format
+msgid "action timed out after %s seconds"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:118
+#, php-format
+msgid "unexpected shutdown: PHP Fatal error %1$s in %2$s on line %3$s"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:123
+msgid "action reset"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:129
+#, php-format
+msgid "action ignored via %s"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:131
+msgid "action ignored"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:146
+#, php-format
+msgid "There was a failure fetching this action: %s"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:148
+msgid "There was a failure fetching this action"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:156
+#, php-format
+msgid "There was a failure scheduling the next instance of this action: %s"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/abstracts/ActionScheduler_Store.php:301
+#, php-format
+msgid ""
+"ActionScheduler_Action::$args too long. To ensure the args column can be "
+"indexed, action args should not be more than %d characters when encoded as "
+"JSON."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/abstracts/ActionScheduler_Store.php:377
+msgid "Complete"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/abstracts/ActionScheduler_Store.php:378
+msgid "Pending"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/abstracts/ActionScheduler_Store.php:379
+msgid "In-progress"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/abstracts/ActionScheduler_Store.php:380
+msgid "Failed"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/abstracts/ActionScheduler_Store.php:381
+msgid "Canceled"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:78
+msgid "Database error."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:86
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:35
+#: inc/importer/lib/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+#, php-format
+msgid "Error saving action: %s"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:243
+msgid "Invalid value for select or count parameter. Cannot query actions."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:444
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:535
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:567
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:777
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:819
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:421
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:432
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:459
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:752
+#, php-format
+msgid "Unidentified action %s"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:651
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:593
+#, php-format
+msgid "The group \"%s\" does not exist."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:665
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:573
+msgid "Unable to claim actions. Database error."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:838
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:719
+msgid "Invalid action ID. No status found."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:840
+msgid "Unknown status found for action."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:72
+msgid "Unable to save action."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:238
+msgid "Invalid schedule. Cannot save action."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:668
+#, php-format
+msgid "Unable to unlock claim %s. Database error."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:683
+#, php-format
+msgid "Unable to unlock claim on action %s. Database error."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:695
+#, php-format
+msgid "Unable to mark failure on action %s. Database error."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:819
+#, php-format
+msgid ""
+"%s Support for strings longer than this will be removed in a future version."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:20
+msgid "Scheduled actions are hooks triggered on a cetain date and time."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:31
+msgid "Scheduled Action"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:33
+msgid "Add"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:34
+msgid "Add New Scheduled Action"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:35
+msgid "Edit"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:36
+msgid "Edit Scheduled Action"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:37
+msgid "New Scheduled Action"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:38
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:39
+msgid "View Action"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:40
+msgid "Search Scheduled Actions"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:41
+msgid "No actions found"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:42
+msgid "No actions found in trash"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_TaxonomyRegistrar.php:14
+msgid "Action Group"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/migration/ActionMigrator.php:95
+#, php-format
+msgid "Unable to remove source migrated action %s"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/migration/Config.php:52
+msgid "Source store must be configured before running a migration"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/migration/Config.php:74
+msgid "Source logger must be configured before running a migration"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/migration/Config.php:96
+msgid "Destination store must be configured before running a migration"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/migration/Config.php:118
+msgid "Destination logger must be configured before running a migration"
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/migration/Controller.php:162
+msgid ""
+"Action Scheduler migration in progress. The list of scheduled actions may be "
+"incomplete."
+msgstr ""
+
+#: inc/importer/lib/action-scheduler/classes/migration/Runner.php:107
+#, php-format
+msgid "Migrated action with ID %1$d in %2$s to ID %3$d in %4$s"
+msgstr ""
+
+#: inc/importer/templates/_form-field.php:63
+msgid "Set Image"
+msgstr ""
+
+#: inc/importer/templates/_form-field.php:65
+msgid "Remove Image"
+msgstr ""
+
+#: inc/importer/templates/importer-form.php:24
+msgid "Advanced Options"
+msgstr ""
+
+#: inc/importer/templates/importer-form.php:38
+msgid "Update"
+msgstr ""
+
+#: inc/importer/templates/importer-form.php:40
+msgid "Import"
+msgstr ""
+
+#: inc/importer/templates/importer-scheduled.php:9
+msgid "Scheduled imports are set for sync once every hour by default."
+msgstr ""
+
+#: inc/importer/templates/importer-scheduled.php:16
+msgid "Feed Link"
+msgstr ""
+
+#: inc/importer/templates/importer-scheduled.php:28
+msgid "Edit Import"
+msgstr ""
+
+#: inc/importer/templates/importer-scheduled.php:31
+msgid "Delete Import"
+msgstr ""
+
+#: inc/importer/templates/tools.php:5
+msgid "Import Feed"
+msgstr ""
+
+#: inc/importer/templates/tools.php:9
+msgid "Scheduled Imports"
+msgstr ""
+
+#: inc/importer/templates/tools.php:16
+#, php-format
+msgid "Edit Feed %s"
+msgstr ""
+
+#: inc/importer/templates/tools.php:31
+msgid "Import a Podcast"
+msgstr ""
+
+#: inc/init.php:87
+msgid "Add New"
+msgstr ""
+
+#: inc/init.php:88
+msgid "Add New Podcast"
+msgstr ""
+
+#: inc/init.php:89
+msgid "Edit Podcast"
+msgstr ""
+
+#: inc/init.php:90
+msgid "New Podcast"
+msgstr ""
+
+#: inc/init.php:91
+msgid "All Podcasts"
+msgstr ""
+
+#: inc/init.php:92
+msgid "View Podcast"
+msgstr ""
+
+#: inc/init.php:93
+msgid "Search Podcast"
+msgstr ""
+
+#: inc/init.php:94
+msgid "No podcast found"
+msgstr ""
+
+#: inc/init.php:95
+msgid "No podcast found in Trash"
+msgstr ""
+
+#: inc/init.php:123
+msgid "Search Podcast Categories"
+msgstr ""
+
+#: inc/init.php:124
+msgid "All Podcast Categories"
+msgstr ""
+
+#: inc/init.php:125
+msgid "Parent Podcast Category"
+msgstr ""
+
+#: inc/init.php:126
+msgid "Parent Podcast Category:"
+msgstr ""
+
+#: inc/init.php:127
+msgid "Edit Podcast Category"
+msgstr ""
+
+#: inc/init.php:128
+msgid "Update Podcast Category"
+msgstr ""
+
+#: inc/init.php:129
+msgid "Add New Podcast Category"
+msgstr ""
+
+#: inc/init.php:130
+msgid "New Podcast Category Name"
+msgstr ""
+
+#: inc/init.php:151
+msgid "Search Podcast Series"
+msgstr ""
+
+#: inc/init.php:152
+msgid "All Podcast Series"
+msgstr ""
+
+#: inc/init.php:153
+msgid "Parent Podcast Series"
+msgstr ""
+
+#: inc/init.php:154
+msgid "Parent Podcast Series:"
+msgstr ""
+
+#: inc/init.php:155
+msgid "Edit Podcast Series"
+msgstr ""
+
+#: inc/init.php:156
+msgid "Update Podcast Series"
+msgstr ""
+
+#: inc/init.php:157
+msgid "Add New Podcast Series"
+msgstr ""
+
+#: inc/init.php:158
+msgid "New Podcast Series Name"
+msgstr ""
+
+#: inc/metabox.php:21
+msgid "Penci Podcast"
+msgstr ""
+
+#: inc/metabox.php:99
+msgid "Media Duration"
+msgstr ""
+
+#: inc/metabox.php:100
+msgid "Human-read time value, ex. mm:ss."
+msgstr ""
+
+#: inc/metabox.php:113
+msgid "Media URL"
+msgstr ""
+
+#: inc/metabox.php:114
+msgid "Fill this option with the media url."
+msgstr ""
+
+#: inc/taxonomy-meta.php:29
+msgid "Upload Image"
+msgstr ""
+
+#: inc/widget.php:25
+msgid "A widget that displays an podcast series content"
+msgstr ""
+
+#: templates/archive-podcast.php:103 templates/archive-podcast.php:110
+#: templates/archive-podcast.php:117 templates/archive-podcast.php:122
+#, php-format
+msgid "<h1 class=\"page-title\">%s</h1>"
+msgstr ""

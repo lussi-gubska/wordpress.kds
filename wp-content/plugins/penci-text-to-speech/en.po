@@ -1,0 +1,540 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-09-07 21:12+0700\n"
+"PO-Revision-Date: 2023-09-07 21:12+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _e;__;esc_html__;esc__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: customizer/panel.php:23
+#: inc/PenciDesign/Elementor/text_to_speech.elementor.php:44
+#: penci-text-to-speech.php:213
+msgid "Text To Speech"
+msgstr ""
+
+#: customizer/panel.php:24 penci-text-to-speech.php:214
+msgid ""
+"Please check <a target=\"_blank\" href=\"https://soledad.pencidesign.net/"
+"soledad-document/#text-to-speech\">this video tutorial</a> to know how to "
+"setup this feature."
+msgstr ""
+
+#: customizer/panel.php:30 penci-text-to-speech.php:217
+msgid "General"
+msgstr ""
+
+#: customizer/panel.php:31 penci-text-to-speech.php:218
+msgid "Player Settings"
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:5
+msgid "JSON API File"
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:6
+msgid ""
+"This plugin uses the Google Cloud Text-to-Speech API Key File. Set up your "
+"<a target=\"_blank\" href=\"https://console.cloud.google.com/cloud-resource-"
+"manager\">Google Cloud Platform</a> project before the start."
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:14
+msgid "Enable Support in Post Types"
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:48
+msgid "Voices"
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:49
+msgid ""
+"The list includes Standard, WaveNet and Neural2 voice types <a "
+"href=\"https://cloud.google.com/text-to-speech/docs/wavenet\" "
+"target=\"_blank\" title=\"voice types\">voice types</a>. WaveNet and Neural2 "
+"voices are higher quality voices at a different <a href=\"https://cloud."
+"google.com/text-to-speech/pricing\" target=\"_blank\" "
+"title=\"pricing\">pricing</a>."
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:416
+msgid "Audio Profile"
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:417
+msgid ""
+"Optimize the synthetic speech for playback on different types of hardware."
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:422
+msgid "Smart watches and other wearables"
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:423
+msgid "Smartphones"
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:424
+msgid "Earbuds or headphones"
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:425
+msgid "Small home speakers"
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:426
+msgid "Smart home speakers"
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:427
+msgid "Home entertainment systems"
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:428
+msgid "Car speakers"
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:429
+msgid "Interactive Voice Response"
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:435
+msgid "Audio Format"
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:436
+msgid ""
+"Select the format in which the audio will be sent. All recordings in other "
+"formats will become unavailable."
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:441
+msgid "MP3"
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:442
+msgid "WAV"
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:448
+msgid "Speaking Rate"
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:461
+msgid "Pitch"
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:473
+msgid "Add Schema Markup on Header"
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:481
+msgid "Add Custom Content Before Audio"
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:489
+msgid "Add Custom Content After Audio"
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:497
+msgid "Read the Post Title & Sub Title"
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:505
+msgid "Read Image Caption"
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:513
+msgid "Show Audio File on RSS Feed"
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:521
+msgid "Exclude Custom Selectors"
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:522
+msgid ""
+"Enter the div wrapper of the text area you want to excluded on the audio "
+"file. Example: .related-posts, .shorcode-output"
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:530
+msgid "Ignore Shortcodes"
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:531
+msgid ""
+"Enter the shortcode you want to ignore on the audio file. Example: "
+"shortcode-1, shortcode-2, ..."
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:539
+msgid "RegEx Peplacements"
+msgstr ""
+
+#: customizer/penci_texttospeech_general_section.php:540
+msgid ""
+"Enter the regular expression to be replaced and on a new line write the term "
+"or SSML tag to be replaced."
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:5
+msgid "Player Position"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:10
+msgid "Before Post Content"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:11
+msgid "After Post Content"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:12
+msgid "Before Post Categories"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:13
+msgid "After Post Meta"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:14
+msgid "Top Fixed"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:15
+msgid "Bottom Fixed"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:16
+msgid "Shortcode [penci-texttospeech]"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:22
+#: inc/PenciDesign/Elementor/text_to_speech.elementor.php:117
+#: inc/PenciDesign/WPBakery/text-to-speech.wpbakery.php:117
+msgid "Player Style"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:27
+msgid "Round Player"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:28
+msgid "Rounded Player"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:29
+msgid "Squared Player"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:30
+msgid "WordPress Default Player"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:31
+msgid "Chrome Style Player"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:32
+msgid "Browser Default Player"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:38
+#: inc/PenciDesign/Elementor/text_to_speech.elementor.php:131
+#: inc/PenciDesign/WPBakery/text-to-speech.wpbakery.php:131
+msgid "Download Link"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:43
+#: inc/PenciDesign/Elementor/text_to_speech.elementor.php:135
+#: inc/PenciDesign/WPBakery/text-to-speech.wpbakery.php:134
+msgid "Do not show"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:44
+msgid "Backend Only"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:45
+msgid "Frontend Only"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:46
+msgid "Backend and Frontend"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:51
+msgid "Description Before Audio Player"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:52
+msgid "Add a text or HTML markup before the player"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:60
+msgid "Description After Audio Player"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:61
+msgid "Add a text or HTML markup after the player"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:69
+#: inc/PenciDesign/Elementor/text_to_speech.elementor.php:141
+msgid "Autoplay"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:70
+#: inc/PenciDesign/Elementor/text_to_speech.elementor.php:142
+msgid ""
+"Autoplay the audio after page load. May not work in some browsers due to "
+"Browser Autoplay Policy. More details for <a href=\"https://developers."
+"google.com/web/updates/2017/09/autoplay-policy-changes\" target=\"_blank\" "
+"rel=\"noreferrer\">WebKit Browsers</a> and <a href=\"https://hacks.mozilla."
+"org/2019/02/firefox-66-to-block-automatically-playing-audible-video-and-"
+"audio/\" target=\"_blank\" rel=\"noreferrer\">Firefox</a>"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:78
+#: inc/PenciDesign/Elementor/text_to_speech.elementor.php:147
+#: inc/PenciDesign/WPBakery/text-to-speech.wpbakery.php:151
+msgid "Loop"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:79
+#: inc/PenciDesign/Elementor/text_to_speech.elementor.php:148
+msgid "Loop the audio playback"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:87
+msgid "Speed Controls"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:88
+#: inc/PenciDesign/Elementor/text_to_speech.elementor.php:153
+msgid "Speed controls for the audio player the audio after page load"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:96
+#: inc/PenciDesign/Elementor/text_to_speech.elementor.php:157
+#: inc/PenciDesign/WPBakery/text-to-speech.wpbakery.php:171
+msgid "Speed Block Title"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:97
+#: inc/PenciDesign/Elementor/text_to_speech.elementor.php:158
+msgid "Specify the title for speeds section"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:107
+#: inc/PenciDesign/Elementor/text_to_speech.elementor.php:162
+#: inc/PenciDesign/WPBakery/text-to-speech.wpbakery.php:177
+msgid "Available Speed"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:114
+msgid "Synthesize Audio on Save"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:115
+msgid "Auto re-generate the audio file when you updating post content"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:123
+msgid "Add Custom Fields"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:124
+msgid "Add audio meta-data to the post Custom Fields"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:132
+msgid "Visible in the Media Library"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:133
+msgid "Make the audio visible and available in the Media Library"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:142
+#: inc/PenciDesign/Elementor/text_to_speech.elementor.php:167
+#: inc/PenciDesign/WPBakery/text-to-speech.wpbakery.php:183
+msgid "Audio Preload"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:143
+#: inc/PenciDesign/Elementor/text_to_speech.elementor.php:168
+msgid ""
+"The preload attribute specifies if and how the audio file should be loaded "
+"when the page loads."
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:148
+#: inc/PenciDesign/Elementor/text_to_speech.elementor.php:172
+msgid "None"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:149
+#: inc/PenciDesign/Elementor/text_to_speech.elementor.php:173
+msgid "Metadata"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:150
+#: inc/PenciDesign/Elementor/text_to_speech.elementor.php:174
+msgid "Auto"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:151
+#: inc/PenciDesign/Elementor/text_to_speech.elementor.php:175
+msgid "Backend"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:172
+msgid "Custom Top Spacing for Media Player"
+msgstr ""
+
+#: customizer/penci_texttospeech_voice_section.php:209
+msgid "Custom Bottom Spacing for Media Player"
+msgstr ""
+
+#: helper.php:572
+msgid "Create Audio"
+msgstr ""
+
+#: inc/PenciDesign/Elementor/text_to_speech.elementor.php:97
+msgid "Content"
+msgstr ""
+
+#: inc/PenciDesign/Elementor/text_to_speech.elementor.php:101
+msgid "To configure plugin appearance go to "
+msgstr ""
+
+#: inc/PenciDesign/Elementor/text_to_speech.elementor.php:103
+msgid "Penci Text To Speech Settings"
+msgstr ""
+
+#: inc/PenciDesign/Elementor/text_to_speech.elementor.php:105
+msgid " page"
+msgstr ""
+
+#: inc/PenciDesign/Elementor/text_to_speech.elementor.php:121
+#: inc/PenciDesign/WPBakery/text-to-speech.wpbakery.php:120
+msgid "Round player"
+msgstr ""
+
+#: inc/PenciDesign/Elementor/text_to_speech.elementor.php:122
+#: inc/PenciDesign/WPBakery/text-to-speech.wpbakery.php:121
+msgid "Rounded player"
+msgstr ""
+
+#: inc/PenciDesign/Elementor/text_to_speech.elementor.php:123
+#: inc/PenciDesign/WPBakery/text-to-speech.wpbakery.php:122
+msgid "Squared player"
+msgstr ""
+
+#: inc/PenciDesign/Elementor/text_to_speech.elementor.php:124
+#: inc/PenciDesign/WPBakery/text-to-speech.wpbakery.php:123
+msgid "WordPress default player"
+msgstr ""
+
+#: inc/PenciDesign/Elementor/text_to_speech.elementor.php:125
+#: inc/PenciDesign/WPBakery/text-to-speech.wpbakery.php:124
+msgid "Chrome Style player"
+msgstr ""
+
+#: inc/PenciDesign/Elementor/text_to_speech.elementor.php:126
+#: inc/PenciDesign/WPBakery/text-to-speech.wpbakery.php:125
+msgid "Browser default player"
+msgstr ""
+
+#: inc/PenciDesign/Elementor/text_to_speech.elementor.php:136
+#: inc/PenciDesign/WPBakery/text-to-speech.wpbakery.php:135
+msgid "Showing"
+msgstr ""
+
+#: inc/PenciDesign/Elementor/text_to_speech.elementor.php:152
+#: inc/PenciDesign/WPBakery/text-to-speech.wpbakery.php:161
+msgid "Speed controls"
+msgstr ""
+
+#: inc/PenciDesign/Elementor/text_to_speech.elementor.php:182
+msgid "Color & Styles"
+msgstr ""
+
+#: inc/PenciDesign/SpeechCaster.php:436
+msgid "Error connecting to"
+msgstr ""
+
+#: inc/PenciDesign/SpeechCaster.php:449
+msgid "Failed to get content due to an error:"
+msgstr ""
+
+#: inc/PenciDesign/SpeechCaster.php:650
+msgid "Download:"
+msgstr ""
+
+#: inc/PenciDesign/SpeechCaster.php:919
+msgid "Date of Creation"
+msgstr ""
+
+#: inc/PenciDesign/SpeechCaster.php:1024
+msgid "Audio Generated Successfully"
+msgstr ""
+
+#: inc/PenciDesign/SpeechCaster.php:1031
+msgid "An error occurred while generating the audio."
+msgstr ""
+
+#: inc/PenciDesign/SpeechCaster.php:1079
+msgid "Caught exception: "
+msgstr ""
+
+#: inc/PenciDesign/WPBakery/text-to-speech.wpbakery.php:107
+msgid " Text To Speech"
+msgstr ""
+
+#: inc/PenciDesign/WPBakery/text-to-speech.wpbakery.php:108
+msgid ""
+"Create an audio version of your posts, with a selection of more than 275 "
+"voices across 45+ languages and variants."
+msgstr ""
+
+#: inc/PenciDesign/WPBakery/text-to-speech.wpbakery.php:141
+msgid "Auto Play"
+msgstr ""
+
+#: inc/PenciDesign/WPBakery/text-to-speech.wpbakery.php:144
+#: inc/PenciDesign/WPBakery/text-to-speech.wpbakery.php:154
+#: inc/PenciDesign/WPBakery/text-to-speech.wpbakery.php:164
+#: inc/PenciDesign/WPBakery/text-to-speech.wpbakery.php:186
+msgid "Disable"
+msgstr ""
+
+#: inc/PenciDesign/WPBakery/text-to-speech.wpbakery.php:145
+#: inc/PenciDesign/WPBakery/text-to-speech.wpbakery.php:155
+#: inc/PenciDesign/WPBakery/text-to-speech.wpbakery.php:165
+#: inc/PenciDesign/WPBakery/text-to-speech.wpbakery.php:187
+msgid "Enable"
+msgstr ""
+
+#: inc/PenciDesign/WPBakery/text-to-speech.wpbakery.php:194
+msgid "Player Background Color"
+msgstr ""
+
+#: inc/PenciDesign/WPBakery/text-to-speech.wpbakery.php:195
+#: inc/PenciDesign/WPBakery/text-to-speech.wpbakery.php:201
+msgid "Design Options"
+msgstr ""
+
+#: inc/PenciDesign/WPBakery/text-to-speech.wpbakery.php:200
+msgid "CSS"
+msgstr ""

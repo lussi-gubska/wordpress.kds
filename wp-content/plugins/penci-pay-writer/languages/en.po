@@ -1,0 +1,1095 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-09-07 21:08+0700\n"
+"PO-Revision-Date: 2023-09-07 21:08+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _e;__;esc_html__;esc__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: customizer/panel.php:23 elements/jscomposer.php:74 penci-pay-writer.php:224
+msgid "Pay Writer"
+msgstr ""
+
+#: customizer/panel.php:29 penci-pay-writer.php:227
+msgid "Donation Settings"
+msgstr ""
+
+#: customizer/panel.php:30 penci-pay-writer.php:228
+msgid "Pay Per Posts"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:10
+msgid "Donation on All Posts"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:11
+msgid "Enable donation on all posts"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:19
+msgid "Donation Currency"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:20
+msgid "Currency allowed for post donation"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:22
+#: customizer/penci_pay_writer_posts_section.php:46 elements/elementor.php:80
+#: elements/jscomposer.php:95
+msgid "Australian dollar - AUD"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:23
+#: customizer/penci_pay_writer_posts_section.php:47 elements/elementor.php:81
+#: elements/jscomposer.php:96
+msgid "Brazilian real - BRL"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:24
+#: customizer/penci_pay_writer_posts_section.php:48 elements/elementor.php:82
+#: elements/jscomposer.php:97
+msgid "Canadian dollar - CAD"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:25
+#: customizer/penci_pay_writer_posts_section.php:49 elements/elementor.php:83
+#: elements/jscomposer.php:98
+msgid "Chinese Renmenbi - CNY"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:26
+#: customizer/penci_pay_writer_posts_section.php:50 elements/elementor.php:84
+#: elements/jscomposer.php:99
+msgid "Czech koruna - CZK"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:27
+#: customizer/penci_pay_writer_posts_section.php:51 elements/elementor.php:85
+#: elements/jscomposer.php:100
+msgid "Danish krone - DKK"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:28
+#: customizer/penci_pay_writer_posts_section.php:52 elements/elementor.php:86
+#: elements/jscomposer.php:101
+msgid "Euro - EUR"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:29
+#: customizer/penci_pay_writer_posts_section.php:53 elements/elementor.php:87
+#: elements/jscomposer.php:102
+msgid "Hong Kong dollar - HKD"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:30
+#: customizer/penci_pay_writer_posts_section.php:54 elements/elementor.php:88
+#: elements/jscomposer.php:103
+msgid "Hungarian forint - HUF"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:31
+#: customizer/penci_pay_writer_posts_section.php:55 elements/elementor.php:89
+#: elements/jscomposer.php:104
+msgid "Israeli new shekel - ILS"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:32
+#: customizer/penci_pay_writer_posts_section.php:56 elements/elementor.php:90
+#: elements/jscomposer.php:105
+msgid "Japanese yen - JPY"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:33
+#: customizer/penci_pay_writer_posts_section.php:57 elements/elementor.php:91
+#: elements/jscomposer.php:106
+msgid "Malaysian ringgit - MYR"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:34
+#: customizer/penci_pay_writer_posts_section.php:58 elements/elementor.php:92
+#: elements/jscomposer.php:107
+msgid "Mexican peso - MXN"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:35
+#: customizer/penci_pay_writer_posts_section.php:59 elements/elementor.php:93
+#: elements/jscomposer.php:108
+msgid "New Taiwan dollar - TWD"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:36
+#: customizer/penci_pay_writer_posts_section.php:60 elements/elementor.php:94
+#: elements/jscomposer.php:109
+msgid "New Zealand dollar - NZD"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:37
+#: customizer/penci_pay_writer_posts_section.php:61 elements/elementor.php:95
+#: elements/jscomposer.php:110
+msgid "Norwegian krone - NOK"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:38
+#: customizer/penci_pay_writer_posts_section.php:62 elements/elementor.php:96
+#: elements/jscomposer.php:111
+msgid "Philippine peso - PHP"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:39
+#: customizer/penci_pay_writer_posts_section.php:63 elements/elementor.php:97
+#: elements/jscomposer.php:112
+msgid "Polish złoty - PLN"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:40
+#: customizer/penci_pay_writer_posts_section.php:64 elements/elementor.php:98
+#: elements/jscomposer.php:113
+msgid "Pound sterling - GBP"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:41
+#: customizer/penci_pay_writer_posts_section.php:65 elements/elementor.php:99
+#: elements/jscomposer.php:114
+msgid "Russian ruble - RUB"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:42
+#: customizer/penci_pay_writer_posts_section.php:66 elements/elementor.php:100
+#: elements/jscomposer.php:115
+msgid "Singapore dollar - SGD"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:43
+#: customizer/penci_pay_writer_posts_section.php:67 elements/elementor.php:101
+#: elements/jscomposer.php:116
+msgid "Swedish krona - SEK"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:44
+#: customizer/penci_pay_writer_posts_section.php:68 elements/elementor.php:102
+#: elements/jscomposer.php:117
+msgid "Swiss franc - CHF"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:45
+#: customizer/penci_pay_writer_posts_section.php:69 elements/elementor.php:103
+#: elements/jscomposer.php:118
+msgid "Thai baht - THB"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:46
+#: customizer/penci_pay_writer_posts_section.php:70 elements/elementor.php:104
+#: elements/jscomposer.php:119
+msgid "United States dollar - USD"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:55
+msgid "Donate to one Paypal email instead of for Post Author"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:56
+msgid ""
+"By default, the donation will be donated to the Paypal email of the Author "
+"of posts. This option will make the donation to only one email address "
+"assigned."
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:64
+msgid "Donation Element Text"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:65
+msgid "Configure text displayed in the donation element"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:74
+msgid "Donation Button Position"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:75
+msgid "Choose how the donation display on the post"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:89
+msgid "Donation Icon Color"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:90
+msgid "Choose color for donation icon color"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:98
+msgid "Donation Title"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:99
+msgid "Configure title displayed in the donation widget"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:107
+msgid "Donation Description"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:108
+msgid "Displays description text at the donation widget"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:116
+msgid "Checkout Description"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:117
+msgid "Displays description text at the donation checkout page"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:125
+msgid "Fixed Donation"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:126
+msgid ""
+"Enabling this option will strict donors to donate the predetermined amount"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:133
+msgid "Fixed Donation amount"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:147
+msgid "Paypal URL Settings"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:155
+msgid "Return URL from PayPal"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:156
+msgid ""
+"Enter a return URL (could be a Thank You page). PayPal will redirect "
+"visitors to this page after Payment."
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:164
+msgid "Cancel URL from PayPal"
+msgstr ""
+
+#: customizer/penci_pay_writer_general_section.php:165
+msgid ""
+"Enter a cancel URL. PayPal will redirect visitors to this page if they click "
+"on the cancel link."
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:12
+msgid "PayPal Settings"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:20
+msgid "Sandbox Mode"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:21
+msgid "Check this option if you are using Sandbox APP credentials"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:28
+msgid "Forward IPN Url (Options)"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:29
+msgid "Please provide the valid IPN request URL"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:35
+msgid "General Settings"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:43
+msgid "Payout Currency"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:44
+msgid "Choose the currency of the payout"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:79
+msgid "Currency Character"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:87
+msgid "Payout Currency Position"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:89
+msgid "After Number"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:90
+msgid "Before Number"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:99
+msgid "Payout Limit"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:100
+msgid "Set the maximum payout amount for the receiver (0 means unlimited)"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:111
+msgid "Standard Payout Option"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:119
+msgid "Minimum Post Payout"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:120
+msgid ""
+"Adjust minimum payout amount for each post. Each post will cost at least the "
+"value configured."
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:131
+msgid "View Count Payout Option"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:139
+msgid "Enable View Payout"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:147
+msgid "View Payout"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:148
+msgid "Adjust the payout amount for each view"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:160
+msgid "Minimum View Count"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:161
+msgid "Set the minimum views needed to be eligible for view payout"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:172
+msgid "Image Count Payout Option"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:180
+msgid "Enable Images Payout"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:188
+msgid "Image Payout"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:189
+msgid "Adjust the payout amount for each image"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:201
+msgid "Minimum Images Per Posts"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:212
+msgid "Word Payout Option"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:220
+msgid "Enable Word Payout"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:229
+msgid "Word Payout Rate"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:230
+msgid ""
+"Set the word rate. The rate would be applied if the if the minimum word "
+"requirement is achieved."
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:242
+msgid "Minimum Word Count"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:243
+msgid ""
+"Set the minimum word count that need to be achieved before the rate can be "
+"applied"
+msgstr ""
+
+#: customizer/penci_pay_writer_posts_section.php:255
+msgid "Use Legacy Word Counter"
+msgstr ""
+
+#: dashboard/classes/pencipwt_ajax_functions_class.php:17
+msgid ""
+"Error: Seems like AJAX request was not recognised as coming from the right "
+"page. Maybe hacking around..?"
+msgstr ""
+
+#: dashboard/classes/pencipwt_ajax_functions_class.php:60
+msgid "No users found."
+msgstr ""
+
+#: dashboard/classes/pencipwt_ajax_functions_class.php:147
+#: dashboard/classes/pencipwt_html_functions_class.php:805
+#: dashboard/classes/pencipwt_html_functions_class.php:825
+msgid "Any"
+msgstr ""
+
+#: dashboard/classes/pencipwt_ajax_functions_class.php:180
+msgid "Payment history for post ID:"
+msgstr ""
+
+#: dashboard/classes/pencipwt_ajax_functions_class.php:183
+#: dashboard/classes/pencipwt_ajax_functions_class.php:219
+#: dashboard/classes/pencipwt_ajax_functions_class.php:253
+msgid "No payment records are available."
+msgstr ""
+
+#: dashboard/classes/pencipwt_ajax_functions_class.php:216
+msgid "Payment history for author ID"
+msgstr ""
+
+#: dashboard/classes/pencipwt_ajax_functions_class.php:216
+msgid "Name"
+msgstr ""
+
+#: dashboard/classes/pencipwt_ajax_functions_class.php:250
+msgid "Transaction details for tracking id:"
+msgstr ""
+
+#: dashboard/classes/pencipwt_ajax_functions_class.php:276
+#: dashboard/classes/pencipwt_ajax_functions_class.php:324
+#: dashboard/classes/pencipwt_ajax_functions_class.php:351
+#: dashboard/classes/pencipwt_ajax_functions_class.php:380
+#: dashboard/classes/pencipwt_ajax_functions_class.php:490
+#: dashboard/classes/pencipwt_paypal_class.php:16
+msgid "Error: you do not have the permissions to do this."
+msgstr ""
+
+#: dashboard/classes/pencipwt_counting_types_class.php:227
+msgid "Basic"
+msgstr ""
+
+#: dashboard/classes/pencipwt_counting_types_class.php:238
+msgid "Words"
+msgstr ""
+
+#: dashboard/classes/pencipwt_counting_types_class.php:250
+msgid "Visits"
+msgstr ""
+
+#: dashboard/classes/pencipwt_counting_types_class.php:261
+msgid "Images"
+msgstr ""
+
+#: dashboard/classes/pencipwt_counting_types_class.php:272
+msgid "Comments"
+msgstr ""
+
+#: dashboard/classes/pencipwt_generate_stats_class.php:359
+msgid "ID"
+msgstr ""
+
+#: dashboard/classes/pencipwt_generate_stats_class.php:360
+msgid "Title"
+msgstr ""
+
+#: dashboard/classes/pencipwt_generate_stats_class.php:361
+#: dashboard/classes/pencipwt_html_functions_class.php:290
+#: dashboard/classes/pencipwt_html_functions_class.php:365
+#: dashboard/dashboard.php:349
+msgid "Type"
+msgstr ""
+
+#: dashboard/classes/pencipwt_generate_stats_class.php:362
+msgid "Status"
+msgstr ""
+
+#: dashboard/classes/pencipwt_generate_stats_class.php:363
+msgid "Pub. Date"
+msgstr ""
+
+#: dashboard/classes/pencipwt_generate_stats_class.php:436
+#: dashboard/classes/pencipwt_generate_stats_class.php:527
+msgid "Paid"
+msgstr ""
+
+#: dashboard/classes/pencipwt_generate_stats_class.php:509
+msgid "Author ID"
+msgstr ""
+
+#: dashboard/classes/pencipwt_generate_stats_class.php:510
+msgid "Author Name"
+msgstr ""
+
+#: dashboard/classes/pencipwt_generate_stats_class.php:511
+msgid "Total Posts"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:23
+msgid "Pay"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:27
+msgid "Pay History"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:140
+#: dashboard/classes/pencipwt_html_functions_class.php:184
+#: dashboard/classes/pencipwt_html_functions_class.php:632
+msgid "See payment history"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:207
+#, php-format
+msgid ""
+"Here you can see past payments. These records are used to compute due "
+"payments, so cast an eye on them sometimes. Moreover, %1$sremember%2$s that "
+"deleting an author's history record will delete all their posts history "
+"records that belong to the same transaction."
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:209
+#: dashboard/classes/pencipwt_html_functions_class.php:432
+#: dashboard/dashboard.php:1095
+msgid "Loading"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:228
+#: dashboard/classes/pencipwt_html_functions_class.php:488
+msgid "View transaction details"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:239
+#: dashboard/classes/pencipwt_html_functions_class.php:247
+msgid "PayPal Verified"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:241
+msgid "PayPal Unverified"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:261
+#: dashboard/classes/pencipwt_html_functions_class.php:439
+msgid "Delete this record"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:266
+msgid "Export transaction details"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:271
+msgid "Nothing special"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:277
+msgid "Method:"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:284
+#: dashboard/classes/pencipwt_html_functions_class.php:445
+msgid "Payment note"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:291
+#: dashboard/classes/pencipwt_html_functions_class.php:366
+msgid "Count"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:292
+#: dashboard/classes/pencipwt_html_functions_class.php:367
+#: dashboard/dashboard.php:922 dashboard/dashboard.php:934
+msgid "Payment"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:356
+msgid "Here you can see the sum of all past payments."
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:359
+msgid "Paid total"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:429
+msgid "None"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:434
+msgid "Transaction deleted successfully!"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:442
+msgid "Transaction details"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:444
+msgid "Date"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:451
+msgid "Mark as paid"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:454
+msgid "Payment method"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:457
+msgid "Authors and posts"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:458
+msgid ""
+"Below you can see all authors involved in this transaction (user id - "
+"username), with a summary of the posts you paid for each of them (post id - "
+"post title). Clicking on an author/post will lead you to its payment history."
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:492
+#: dashboard/classes/pencipwt_html_functions_class.php:506
+msgid "View payment history"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:533
+msgid "Mark selected users' posts as paid"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:539
+msgid "Pay selected users' posts with PayPal"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:566
+msgid "Mark selected posts as paid"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:572
+msgid "Pay selected posts with PayPal"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:599
+msgid "Export to csv"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:684
+msgid "Total Paid:"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:690
+msgid "Total Unpaid:"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:711
+#: dashboard/dashboard.php:1097
+msgid "Selected items have been marked as paid successfully."
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:715
+#, php-format
+msgid ""
+"The PayPal payment was %2$ssuccessfully executed%3$s. A new record has been "
+"added for each post's payment history, and in a while PayPal will verify the "
+"payment. As soon as the payment will be notified as valid, the related "
+"record in the payment history will gain a %1$s badge."
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:715
+msgid "Verified"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:723
+#, php-format
+msgid ""
+"The PayPal payment was %2$ssuccessfully canceled%3$s. No money has been "
+"moved. However, %2$sa new record has been added%3$s for each post's payment "
+"history. They will show up as %1$s, but you may want to delete those records "
+"to prevent them from interfering in the due payment computing."
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:723
+msgid "Unverified"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:750
+msgid "Showing Posts for"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:752
+msgid "This Month"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:753
+msgid "Last Month"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:754
+msgid "This Year"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:755
+msgid "This Week"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:756
+msgid "All Time"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:757
+msgid "Custom"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:797
+#, php-format
+msgid "From %1$s to %2$s"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:803
+msgid "Filter by User Role"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:823
+#: dashboard/dashboard.php:940
+msgid "User"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:861
+msgid "Show Data"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:874
+#: dashboard/classes/pencipwt_html_functions_class.php:879
+msgid "Back to general"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:888
+msgid "Get Current View URL"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:1062
+#: dashboard/classes/pencipwt_wp_list_table_posts_class.php:122
+#, php-format
+msgid "Total is %1$s. %2$s Displayed is what you'll be paid for."
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:1070
+#: dashboard/classes/pencipwt_wp_list_table_posts_class.php:130
+msgid "Publish"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:1072
+#: dashboard/classes/pencipwt_wp_list_table_posts_class.php:132
+msgid "Pending"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:1074
+#: dashboard/classes/pencipwt_wp_list_table_posts_class.php:134
+msgid "Future"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:1121
+#: dashboard/classes/pencipwt_wp_list_table_authors_class.php:90
+msgid "Go to detailed view"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:1146
+#: dashboard/classes/pencipwt_wp_list_table_authors_class.php:104
+msgid "Displayed is what you'll be paid for."
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:1194
+msgid "Total Posts:"
+msgstr ""
+
+#: dashboard/classes/pencipwt_html_functions_class.php:1207
+msgid "Totals"
+msgstr ""
+
+#: dashboard/classes/pencipwt_payment_bonus_class.php:19
+msgid "Bonus"
+msgstr ""
+
+#: dashboard/classes/pencipwt_payment_class.php:140
+msgid "Dear"
+msgstr ""
+
+#: dashboard/classes/pencipwt_payment_class.php:141
+msgid ""
+"Guess what? You've just been paid! See the details of your payment below"
+msgstr ""
+
+#: dashboard/classes/pencipwt_payment_class.php:173
+msgid "Total amount:"
+msgstr ""
+
+#: dashboard/classes/pencipwt_payment_history_class.php:877
+msgid ""
+"There was an issue deleting the transaction. Data hasn't been damaged though."
+msgstr ""
+
+#: dashboard/classes/pencipwt_paypal_class.php:185
+msgid "Error: could not determine PayPal sandbox settings."
+msgstr ""
+
+#: dashboard/classes/pencipwt_paypal_class.php:212
+msgid "Error: could not determine PayPal IPN endpoint."
+msgstr ""
+
+#: dashboard/classes/pencipwt_paypal_class.php:234
+msgid "Error: could not determine PayPal fees payer settings."
+msgstr ""
+
+#: dashboard/classes/pencipwt_paypal_class.php:251
+msgid ""
+"PayPal is not properly set. Please head to the Options page and check that "
+"everything is fine."
+msgstr ""
+
+#: dashboard/classes/pencipwt_paypal_class.php:331
+msgid ""
+"Error: no authors were selected for the payment. Notice that authors that "
+"don't have a PayPal email address are skipped."
+msgstr ""
+
+#: dashboard/classes/pencipwt_paypal_class.php:336
+msgid ""
+"Error: due to PayPal Adaptive Payments limitations, no more than 6 authors "
+"can be paid at a time."
+msgstr ""
+
+#: dashboard/classes/pencipwt_stats_class.php:281
+#: dashboard/classes/pencipwt_stats_class.php:318
+msgid "Unpaid"
+msgstr ""
+
+#: dashboard/dashboard.php:254
+msgid "You are being redirected to PayPal, wait..."
+msgstr ""
+
+#: dashboard/dashboard.php:272 dashboard/dashboard.php:303
+#: dashboard/dashboard.php:671
+msgid "Stats"
+msgstr ""
+
+#: dashboard/dashboard.php:276 dashboard/dashboard.php:898
+#: dashboard/dashboard.php:1092
+msgid "Confirm payment"
+msgstr ""
+
+#: dashboard/dashboard.php:343 inc/metabox.php:21
+msgid "Penci Pay Writer"
+msgstr ""
+
+#: dashboard/dashboard.php:350
+msgid "Cnt."
+msgstr ""
+
+#: dashboard/dashboard.php:351
+msgid "Due pay"
+msgstr ""
+
+#: dashboard/dashboard.php:396
+msgid ""
+"Displayed data is cached. You may have to wait 24 hours for updated data."
+msgstr ""
+
+#: dashboard/dashboard.php:480
+msgid "You must select at least one item."
+msgstr ""
+
+#: dashboard/dashboard.php:489 dashboard/dashboard.php:490
+msgid "This record will be permanently deleted. Sure?"
+msgstr ""
+
+#: dashboard/dashboard.php:490
+msgid ""
+"This includes the transaction details and all posts and authors payment "
+"history records."
+msgstr ""
+
+#: dashboard/dashboard.php:511
+msgid "The requested user does not exist."
+msgstr ""
+
+#: dashboard/dashboard.php:606
+msgid "You do not have sufficient permissions to access this page"
+msgstr ""
+
+#: dashboard/dashboard.php:742 elements/elementor.php:47
+msgid "General"
+msgstr ""
+
+#: dashboard/dashboard.php:820
+msgid "Error: you are not allowed to see this page."
+msgstr ""
+
+#: dashboard/dashboard.php:830
+msgid "Error: could not determine payment action."
+msgstr ""
+
+#: dashboard/dashboard.php:868
+#, php-format
+msgid ""
+"You have selected more receivers than your chosen PayPal method can handle. "
+"Only the first %d have been selected. You are still in time to go back and "
+"edit your selection."
+msgstr ""
+
+#: dashboard/dashboard.php:899
+msgid ""
+"Review the payment you are about to make and make sure everything is fine. "
+"For each user, a summary and a detailed view is shown. When you are done, "
+"you can confirm the payment through the buttons at the bottom of the page. "
+"You are still in time to go back and edit your selection: nothing will be "
+"done."
+msgstr ""
+
+#: dashboard/dashboard.php:927
+msgid "Post Title"
+msgstr ""
+
+#: dashboard/dashboard.php:942
+msgid "Summary"
+msgstr ""
+
+#: dashboard/dashboard.php:998
+msgid "Detailed"
+msgstr ""
+
+#: dashboard/dashboard.php:1073
+msgid "none"
+msgstr ""
+
+#: elements/elementor.php:13
+msgid "Penci - Pay Writer Button"
+msgstr ""
+
+#: elements/elementor.php:52 elements/jscomposer.php:81
+msgid "Button Text"
+msgstr ""
+
+#: elements/elementor.php:53
+msgid "Donate"
+msgstr ""
+
+#: elements/elementor.php:54
+msgid "Change the subscribe button text."
+msgstr ""
+
+#: elements/elementor.php:59
+msgid "Button Icons"
+msgstr ""
+
+#: elements/elementor.php:66
+msgid "Paypal Settings"
+msgstr ""
+
+#: elements/elementor.php:71 elements/jscomposer.php:87 inc/init.php:229
+msgid "Paypal Email Address"
+msgstr ""
+
+#: elements/elementor.php:76 elements/jscomposer.php:92
+msgid "Currency"
+msgstr ""
+
+#: elements/elementor.php:109 elements/jscomposer.php:124
+msgid "Description"
+msgstr ""
+
+#: elements/elementor.php:115 elements/jscomposer.php:130
+msgid "Return URL"
+msgstr ""
+
+#: elements/elementor.php:120 elements/jscomposer.php:136
+msgid "Cancel URL"
+msgstr ""
+
+#: elements/elementor.php:125 elements/jscomposer.php:142
+msgid "Fix Amount"
+msgstr ""
+
+#: elements/elementor.php:130 elements/jscomposer.php:151
+msgid "Amount"
+msgstr ""
+
+#: elements/elementor.php:139
+msgid "Typo & Colors"
+msgstr ""
+
+#: elements/elementor.php:146
+msgid "Button Typography"
+msgstr ""
+
+#: elements/elementor.php:152
+msgid "Button Color"
+msgstr ""
+
+#: elements/elementor.php:158
+msgid "Button Hover Color"
+msgstr ""
+
+#: elements/elementor.php:164
+msgid "Button Background Color"
+msgstr ""
+
+#: elements/elementor.php:170
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: elements/elementor.php:176
+msgid "Button Border Color"
+msgstr ""
+
+#: elements/elementor.php:182
+msgid "Button Border Hover Color"
+msgstr ""
+
+#: elements/elementor.php:188
+msgid "Button Padding"
+msgstr ""
+
+#: elements/elementor.php:195
+msgid "Button Border Radius"
+msgstr ""
+
+#: elements/elementor.php:202
+msgid "Button Border Width"
+msgstr ""
+
+#: elements/elementor.php:209
+msgid "Button Border Style"
+msgstr ""
+
+#: elements/elementor.php:226
+msgid "Button Icon Color"
+msgstr ""
+
+#: elements/elementor.php:232
+msgid "Button Icon Hover Color"
+msgstr ""
+
+#: elements/jscomposer.php:75
+msgid "Penci Pay Writer element"
+msgstr ""
+
+#: inc/metabox.php:98
+msgid "Enable Post Donation"
+msgstr ""
+
+#: inc/metabox.php:99
+msgid "Check this option to let your viewer donate to this post"
+msgstr ""

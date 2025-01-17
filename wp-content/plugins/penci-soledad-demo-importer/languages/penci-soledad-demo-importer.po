@@ -1,0 +1,445 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-09-07 21:11+0700\n"
+"PO-Revision-Date: 2023-09-07 21:11+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _e;__;esc_html__;esc__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-wxr-importer.php:142 includes/class-wxr-transform.php:99
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: includes/class-wxr-importer.php:195 includes/class-wxr-importer.php:332
+msgid "This does not appear to be a WXR file, missing WXR version number."
+msgstr ""
+
+#: includes/class-wxr-importer.php:199 includes/class-wxr-importer.php:336
+#, php-format
+msgid ""
+"This WXR file (version %s) is newer than the importer (version %s) and may "
+"not be supported. Please consider updating."
+msgstr ""
+
+#: includes/class-wxr-importer.php:664
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: includes/class-wxr-importer.php:926
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: includes/class-wxr-importer.php:955
+msgid "Could not create WXR transformer."
+msgstr ""
+
+#: includes/class-wxr-importer.php:1013
+msgid "Invalid author mapping"
+msgstr ""
+
+#: includes/class-wxr-importer.php:1074
+msgid "Invalid file type"
+msgstr ""
+
+#: includes/class-wxr-importer.php:1280
+#, php-format
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr ""
+
+#: includes/class-wxr-importer.php:1285
+#, php-format
+msgid ""
+"Post %d was imported with object \"%d\" of type \"%s\", but could not be "
+"found"
+msgstr ""
+
+#: includes/class-wxr-importer.php:1394
+#, php-format
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr ""
+
+#: includes/class-wxr-importer.php:1404
+#, php-format
+msgid "%s \"%s\" already exists."
+msgstr ""
+
+#: includes/class-wxr-importer.php:1489
+#, php-format
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr ""
+
+#: includes/class-wxr-importer.php:1510
+#, php-format
+msgid "Failed to import \"%s\" (%s)"
+msgstr ""
+
+#: includes/class-wxr-importer.php:1542 includes/class-wxr-importer.php:1778
+#, php-format
+msgid "Imported \"%s\" (%s)"
+msgstr ""
+
+#: includes/class-wxr-importer.php:1547
+#, php-format
+msgid "Post %d remapped to %d"
+msgstr ""
+
+#: includes/class-wxr-importer.php:1673
+#, php-format
+msgid "Term \"%s\" (%s) already exists"
+msgstr ""
+
+#: includes/class-wxr-importer.php:1740
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: includes/class-wxr-importer.php:1783
+#, php-format
+msgid "Term %d remapped to %d"
+msgstr ""
+
+#: includes/class-wxr-importer.php:1875
+#, php-format
+msgid "Skipped importing user \"%s\""
+msgstr ""
+
+#: includes/class-wxr-importer.php:1927
+#, php-format
+msgid "Failed to import user \"%s\""
+msgstr ""
+
+#: includes/class-wxr-importer.php:1948
+#, php-format
+msgid "Imported user \"%s\""
+msgstr ""
+
+#: includes/class-wxr-importer.php:1952
+#, php-format
+msgid "User %d remapped to %d"
+msgstr ""
+
+#: includes/class-wxr-importer.php:2001
+#, php-format
+msgid "Link \"%s\" already exists."
+msgstr ""
+
+#: includes/class-wxr-importer.php:2063
+#, php-format
+msgid "Failed to import link \"%s\""
+msgstr ""
+
+#: includes/class-wxr-importer.php:2091
+#, php-format
+msgid "Imported link \"%s\""
+msgstr ""
+
+#: includes/class-wxr-importer.php:2095
+#, php-format
+msgid "Link %d remapped to %d"
+msgstr ""
+
+#: includes/class-wxr-importer.php:2272 penci-demo-importer.php:1010
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: includes/class-wxr-importer.php:2285
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: includes/class-wxr-importer.php:2290 penci-demo-importer.php:1016
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: includes/class-wxr-importer.php:2296
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: includes/class-wxr-importer.php:2324
+#, php-format
+msgid "Running post-processing for post %d"
+msgstr ""
+
+#: includes/class-wxr-importer.php:2337
+#, php-format
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr ""
+
+#: includes/class-wxr-importer.php:2342
+#, php-format
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: includes/class-wxr-importer.php:2356
+#, php-format
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr ""
+
+#: includes/class-wxr-importer.php:2361
+#, php-format
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr ""
+
+#: includes/class-wxr-importer.php:2423
+#, php-format
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr ""
+
+#: includes/class-wxr-importer.php:2434
+#, php-format
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr ""
+
+#: includes/class-wxr-importer.php:2469
+#, php-format
+msgid "Could not find the parent for term #%d"
+msgstr ""
+
+#: includes/class-wxr-importer.php:2484
+#, php-format
+msgid "Cound not update term #%d with mapped data"
+msgstr ""
+
+#: includes/class-wxr-importer.php:2506
+#, php-format
+msgid "Could not find the comment parent for comment #%d"
+msgstr ""
+
+#: includes/class-wxr-importer.php:2510
+#, php-format
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: includes/class-wxr-importer.php:2524
+#, php-format
+msgid "Could not find the author for comment #%d"
+msgstr ""
+
+#: includes/class-wxr-importer.php:2528
+#, php-format
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr ""
+
+#: includes/class-wxr-importer.php:2545
+#, php-format
+msgid "Could not update comment #%d with mapped data"
+msgstr ""
+
+#: includes/class-wxr-importer.php:2564
+#, php-format
+msgid "Running post-processing for link %d"
+msgstr ""
+
+#: includes/class-wxr-importer.php:2578
+#, php-format
+msgid "Could not find the author for \"%s\" (link #%d)"
+msgstr ""
+
+#: includes/class-wxr-importer.php:2583
+#, php-format
+msgid "Link %d was imported with author \"%s\", but could not be found"
+msgstr ""
+
+#: includes/class-wxr-importer.php:2593
+#, php-format
+msgid "Link %d was marked for post-processing, but none was required."
+msgstr ""
+
+#: includes/class-wxr-importer.php:2605
+#, php-format
+msgid "Could not update \"%s\" (link #%d) with mapped data"
+msgstr ""
+
+#: includes/class-wxr-transform.php:117
+msgid "Could not open the file for writing"
+msgstr ""
+
+#: includes/customizer-importer.php:36
+msgid ""
+"The customizer import file is not in a correct format. Please make sure to "
+"use the correct customizer import file."
+msgstr ""
+
+#: includes/customizer-importer.php:42
+msgid ""
+"The customizer import file is not suitable for current theme. You can only "
+"import customizer settings for the same theme or a child theme."
+msgstr ""
+
+#: includes/parsers.php:42 includes/parsers.php:72 includes/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: includes/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: includes/parsers.php:84 includes/parsers.php:89 includes/parsers.php:279
+#: includes/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: includes/widgets-importer.php:29
+msgid "Import data could not be read. Please try a different file."
+msgstr ""
+
+#: includes/widgets-importer.php:66
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: includes/widgets-importer.php:88
+msgid "Site does not support widget"
+msgstr ""
+
+#: includes/widgets-importer.php:114
+msgid "Widget already exists"
+msgstr ""
+
+#: includes/widgets-importer.php:163
+msgid "Imported"
+msgstr ""
+
+#: includes/widgets-importer.php:166
+msgid "Imported to Inactive"
+msgstr ""
+
+#: includes/widgets-importer.php:173
+msgid "No Title"
+msgstr ""
+
+#: penci-demo-importer.php:93 penci-demo-importer.php:94
+msgid "Import Demo Data"
+msgstr ""
+
+#: penci-demo-importer.php:162
+msgid "Are you sure want to do this?"
+msgstr ""
+
+#: penci-demo-importer.php:162 penci-demo-importer.php:169
+msgid "Please try again"
+msgstr ""
+
+#: penci-demo-importer.php:169
+msgid "This import is invalid."
+msgstr ""
+
+#: penci-demo-importer.php:251 penci-demo-importer.php:264
+msgid "Dismiss this notice."
+msgstr ""
+
+#: penci-demo-importer.php:261
+msgid "It usally take few minutes to finish. Please be patient."
+msgstr ""
+
+#: penci-demo-importer.php:269
+msgid ""
+"You've installed a demo before, click button below to Uninstall that demo "
+"before import a new demo:"
+msgstr ""
+
+#: penci-demo-importer.php:282
+msgid "Uninstall"
+msgstr ""
+
+#: penci-demo-importer.php:283
+msgid ""
+"<strong>Note that</strong>: All demo data you've imported ( posts/pages/"
+"media... ) before <strong>will be removed</strong> when you uninstall demo."
+msgstr ""
+
+#: penci-demo-importer.php:290
+msgid "Type to search the demo"
+msgstr ""
+
+#: penci-demo-importer.php:345
+msgid "Import"
+msgstr ""
+
+#: penci-demo-importer.php:448 penci-demo-importer.php:919
+#: penci-demo-importer.php:1027 penci-demo-importer.php:1061
+#: penci-demo-importer.php:1085 penci-demo-importer.php:1128
+#: penci-demo-importer.php:1234
+msgid "Verifing failed"
+msgstr ""
+
+#: penci-demo-importer.php:697
+msgid "Revolution Slider plugin is not installed"
+msgstr ""
+
+#: penci-demo-importer.php:704 penci-demo-importer.php:721
+msgid "There is no slider to import"
+msgstr ""
+
+#: penci-demo-importer.php:905
+msgid "Default sign-up form"
+msgstr ""
+
+#: penci-demo-importer.php:936
+msgid "This demo dose not need"
+msgstr ""
+
+#: penci-demo-importer.php:941
+msgid "File does not exists"
+msgstr ""
+
+#: penci-demo-importer.php:974
+#, php-format
+msgid "Could not write file %s"
+msgstr ""
+
+#: penci-demo-importer.php:1036
+msgid "Finish setting up front page and blog page."
+msgstr ""
+
+#: penci-demo-importer.php:1096
+msgid "Failed to generate image ID:"
+msgstr ""
+
+#: penci-demo-importer.php:1098
+#, php-format
+msgid "Generated image ID %s successfully"
+msgstr ""
+
+#: penci-demo-importer.php:1135 penci-demo-importer.php:1217
+msgid "Failed to install plugin: "
+msgstr ""
+
+#: penci-demo-importer.php:1148
+msgid "Failed to active plugin: "
+msgstr ""
+
+#: penci-demo-importer.php:1157
+#, php-format
+msgid "Plugin %s actived successfully."
+msgstr ""
+
+#: penci-demo-importer.php:1227
+#, php-format
+msgid "Plugin %s installed successfully."
+msgstr ""
+
+#: penci-demo-importer.php:1241
+msgid "Failed to uninstall demo: "
+msgstr ""
+
+#: penci-demo-importer.php:1397
+#, php-format
+msgid ""
+"The <strong>Penci Demo Importer</strong> plugin requires <strong>PHP 5.3.2+</"
+"strong> to run properly. Please contact your hosting company and ask them to "
+"update the PHP version of your site to at least PHP 5.3.2.<br> Your current "
+"version of PHP: <strong>%s</strong>"
+msgstr ""

@@ -1,0 +1,1873 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-09-07 21:02+0700\n"
+"PO-Revision-Date: 2023-09-07 21:02+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _e;__;esc_html__;esc__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/admin.php:22
+msgid "Settings"
+msgstr ""
+
+#: admin/admin.php:67
+msgid "Suggest titles"
+msgstr ""
+
+#: admin/includes/add-menu-page.php:26 admin/includes/add-menu-page.php:27
+msgid "AI Image Generator"
+msgstr ""
+
+#: admin/includes/admin-global.php:44
+msgid "Select a title which you like"
+msgstr ""
+
+#: admin/includes/admin-global.php:45
+msgid "New title for "
+msgstr ""
+
+#: admin/includes/ajax-requests.php:50
+msgid "OpenAI says: "
+msgstr ""
+
+#: admin/includes/image-generator-class.php:27
+#: admin/includes/image-generator-class.php:48
+msgid "Image settings"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:50
+msgid "Minimize image settings panel"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:65
+msgid "Add new images to existing images"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:69
+msgid "Select this to add new images with existing generated images."
+msgstr ""
+
+#: admin/includes/image-generator-class.php:74
+msgid "How many images need to be regenerated?"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:79
+msgid ""
+"Enter the number you want to generate image before save to media library."
+msgstr ""
+
+#: admin/includes/image-generator-class.php:85
+msgid "Image AI Engine"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:89
+msgid "DALL_E"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:91
+msgid "Midjourney"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:93
+msgid "Open Journey"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:95
+msgid "Stable Diffusion"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:97
+msgid "Text to Pokemon"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:99
+msgid "VAE"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:101
+msgid "Anything"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:103
+msgid "text2image"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:105
+msgid "Choose the Image AI Engine you want to use to generate images."
+msgstr ""
+
+#: admin/includes/image-generator-class.php:110
+#: admin/includes/settings-menu-items.php:334
+#: customizer/penci_ai_content_section.php:232
+msgid "Image Size"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:114
+#: admin/includes/settings-menu-items.php:338
+msgid "Thumbnail (256x256px)"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:116
+#: admin/includes/settings-menu-items.php:340
+msgid "Medium (512x512px)"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:118
+#: admin/includes/settings-menu-items.php:342
+msgid "Large (1024x1024px)"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:120
+#: admin/includes/settings-menu-items.php:344
+msgid "DALL-E"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:120
+#: admin/includes/settings-menu-items.php:344
+msgid ""
+"Choose the size of the image you want to generate with <a href=\"https://"
+"openai.com/dall-e-2/\">"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:125
+#: admin/includes/settings-menu-items.php:350
+msgid "Image Presets"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:130
+#: admin/includes/settings-menu-items.php:354
+msgid "High Quality Art"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:132
+#: admin/includes/image-generator-class.php:173
+#: admin/includes/settings-menu-items.php:355
+#: admin/includes/settings-menu-items.php:383
+#: customizer/penci_ai_content_section.php:251
+msgid "Realistic"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:134
+#: admin/includes/settings-menu-items.php:356
+msgid "Amazing Art"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:136
+#: admin/includes/image-generator-class.php:230
+#: admin/includes/settings-menu-items.php:357
+#: admin/includes/settings-menu-items.php:435
+#: customizer/penci_ai_content_section.php:262
+msgid "Expert"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:138
+#: admin/includes/image-generator-class.php:265
+#: admin/includes/settings-menu-items.php:358
+#: admin/includes/settings-menu-items.php:465
+#: customizer/penci_ai_content_section.php:267
+msgid "Surreal"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:140
+#: admin/includes/image-generator-class.php:314
+#: admin/includes/settings-menu-items.php:359
+#: admin/includes/settings-menu-items.php:508
+#: customizer/penci_ai_content_section.php:275
+msgid "Landscape"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:142
+#: admin/includes/settings-menu-items.php:360
+msgid "High Resolution"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:144
+#: admin/includes/settings-menu-items.php:361
+msgid "Digital Painting"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:146
+#: admin/includes/image-generator-class.php:286
+#: admin/includes/settings-menu-items.php:362
+#: admin/includes/settings-menu-items.php:483
+msgid "Pop Art"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:148
+#: admin/includes/settings-menu-items.php:363
+msgid "Landscape Painting"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:150
+#: admin/includes/settings-menu-items.php:364
+msgid "Realistic Art"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:152
+#: admin/includes/settings-menu-items.php:365
+msgid "Digital Art"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:154
+#: admin/includes/settings-menu-items.php:366
+msgid "Abstract Art"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:156
+#: admin/includes/settings-menu-items.php:367
+msgid "Surrealistic Art"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:158
+#: admin/includes/settings-menu-items.php:368
+msgid "Portrait Painting"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:160
+#: admin/includes/settings-menu-items.php:369
+msgid "Neon Light"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:167
+#: admin/includes/settings-menu-items.php:377
+#: customizer/penci_ai_content_section.php:279
+msgid "Image Experiments"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:178
+#: admin/includes/settings-menu-items.php:387
+#: customizer/penci_ai_content_section.php:252
+msgid "3D render"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:182
+#: admin/includes/settings-menu-items.php:390
+#: customizer/penci_ai_content_section.php:253
+msgid "4K"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:186
+#: admin/includes/settings-menu-items.php:394
+#: customizer/penci_ai_content_section.php:254
+msgid "8K"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:191
+#: admin/includes/settings-menu-items.php:399
+#: customizer/penci_ai_content_section.php:255
+msgid "Amazing art"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:196
+#: admin/includes/settings-menu-items.php:403
+#: customizer/penci_ai_content_section.php:256
+msgid "High resolution"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:202
+#: admin/includes/settings-menu-items.php:409
+#: customizer/penci_ai_content_section.php:257
+msgid "Trending in artstation"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:206
+#: admin/includes/settings-menu-items.php:413
+#: customizer/penci_ai_content_section.php:258
+msgid "Artstation 3"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:210
+#: admin/includes/settings-menu-items.php:417
+#: customizer/penci_ai_content_section.php:259
+msgid "Oil painting"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:215
+#: admin/includes/settings-menu-items.php:422
+#: customizer/penci_ai_content_section.php:260
+msgid "Digital painting"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:223
+#: admin/includes/settings-menu-items.php:429
+#: customizer/penci_ai_content_section.php:261
+#: includes/global-functions.php:133
+msgid "Professional"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:237
+#: admin/includes/settings-menu-items.php:441
+#: customizer/penci_ai_content_section.php:263
+msgid "Stunning"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:244
+#: admin/includes/settings-menu-items.php:447
+#: customizer/penci_ai_content_section.php:264
+msgid "Creative"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:251
+#: admin/includes/settings-menu-items.php:453
+#: customizer/penci_ai_content_section.php:265
+msgid "Popular"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:258
+#: admin/includes/settings-menu-items.php:459
+#: customizer/penci_ai_content_section.php:266
+msgid "Inspired"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:272
+#: admin/includes/settings-menu-items.php:471
+#: customizer/penci_ai_content_section.php:268
+msgid "Abstract"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:279
+#: admin/includes/settings-menu-items.php:477
+#: customizer/penci_ai_content_section.php:269
+msgid "Fantasy"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:293
+#: admin/includes/settings-menu-items.php:489
+#: customizer/penci_ai_content_section.php:272
+msgid "Neo-expressionist"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:300
+#: admin/includes/settings-menu-items.php:495
+#: customizer/penci_ai_content_section.php:273
+msgid "Vector"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:307
+#: admin/includes/settings-menu-items.php:502
+#: customizer/penci_ai_content_section.php:274
+msgid "Neon"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:320
+#: admin/includes/settings-menu-items.php:513
+#: customizer/penci_ai_content_section.php:276
+msgid "Portrait"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:326
+#: admin/includes/settings-menu-items.php:518
+#: customizer/penci_ai_content_section.php:277
+msgid "Iconic"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:329
+#: admin/includes/settings-menu-items.php:521
+msgid "Choose the above styles to generate image."
+msgstr ""
+
+#: admin/includes/image-generator-class.php:348
+msgid "Generate Image"
+msgstr ""
+
+#: admin/includes/image-generator-class.php:354
+msgid "Image generation prompt"
+msgstr ""
+
+#: admin/includes/menu-pages/image-generator.php:1
+msgid "AI Image generator"
+msgstr ""
+
+#: admin/includes/register-meta-boxes.php:44
+#: admin/includes/register-meta-boxes.php:53 customizer/panel.php:23
+#: penci-ai.php:64
+msgid "Penci AI SmartContent Creator"
+msgstr ""
+
+#: admin/includes/register-meta-boxes.php:62
+msgid "AI/GPT-3 Prompt"
+msgstr ""
+
+#: admin/includes/register-meta-boxes.php:98
+msgid ""
+"OpenAI API key field is empty. To generate content, you must enter a valid "
+"API key first in the "
+msgstr ""
+
+#: admin/includes/register-meta-boxes.php:101
+msgid "settings panel"
+msgstr ""
+
+#: admin/includes/register-meta-boxes.php:108
+msgid "Ameraca's historical places"
+msgstr ""
+
+#: admin/includes/register-meta-boxes.php:116
+msgid "Copy to clipboard"
+msgstr ""
+
+#: admin/includes/register-meta-boxes.php:128
+msgid "Copy"
+msgstr ""
+
+#: admin/includes/register-meta-boxes.php:131
+msgid "Insert as content in this post"
+msgstr ""
+
+#: admin/includes/register-meta-boxes.php:137
+msgid "Insert to Post"
+msgstr ""
+
+#: admin/includes/register-meta-boxes.php:160
+msgid "Content settings"
+msgstr ""
+
+#: admin/includes/register-meta-boxes.php:166
+#: admin/includes/register-meta-boxes.php:332 customizer/panel.php:29
+#: penci-ai.php:66
+msgid "API Settings"
+msgstr ""
+
+#: admin/includes/register-meta-boxes.php:176
+msgid "Generate"
+msgstr ""
+
+#: admin/includes/register-meta-boxes.php:181
+msgid "Generation Completed!"
+msgstr ""
+
+#: admin/includes/register-meta-boxes.php:184
+msgid "Please enter a prompt to generate contents."
+msgstr ""
+
+#: admin/includes/register-meta-boxes.php:186
+msgid "Cancel"
+msgstr ""
+
+#: admin/includes/register-meta-boxes.php:189
+msgid "Featured image generation Completed!"
+msgstr ""
+
+#: admin/includes/register-meta-boxes.php:193
+msgid ""
+"If you want to change the default settings, please go to <a "
+"target=\"_blank\" href=\""
+msgstr ""
+
+#: admin/includes/register-meta-boxes.php:203
+msgid "Content Settings"
+msgstr ""
+
+#: admin/includes/register-meta-boxes.php:205
+msgid "Minimize content settings panel"
+msgstr ""
+
+#: admin/includes/register-meta-boxes.php:230
+msgid "Previously failed (not OpenAI server)"
+msgstr ""
+
+#: admin/includes/register-meta-boxes.php:235
+msgid ""
+"Select this if generation failed previously for your hosting server (not "
+"OpenAI server), if selected then it will disable live (streaming) generation."
+msgstr ""
+
+#: admin/includes/register-meta-boxes.php:263
+msgid "Include Keywords"
+msgstr ""
+
+#: admin/includes/register-meta-boxes.php:268
+msgid ""
+"Enter some keywords to include these in generated content. Seperated by "
+"comma (,). AI may create related keywords of these keywords strong as well."
+msgstr ""
+
+#: admin/includes/register-meta-boxes.php:274
+msgid "Mark Keywords as bold"
+msgstr ""
+
+#: admin/includes/register-meta-boxes.php:278
+msgid "If checked then above keywords will bold/strong in the content."
+msgstr ""
+
+#: admin/includes/register-meta-boxes.php:285
+msgid "Exclude Keywords"
+msgstr ""
+
+#: admin/includes/register-meta-boxes.php:290
+msgid ""
+"Enter some keywords to exclude these from generated content. Seperated by "
+"comma (,)."
+msgstr ""
+
+#: admin/includes/register-meta-boxes.php:334
+msgid "Minimize API settings panel"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:6
+#: customizer/penci_ai_content_section.php:52
+msgid "Randomely generate post title"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:10
+#: customizer/penci_ai_content_section.php:53
+msgid "Select this to generate blog post title."
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:15
+#: customizer/penci_ai_content_section.php:37
+msgid "Content Structure"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:23
+#: customizer/penci_ai_content_section.php:38
+msgid "Choose the content type of your blog post which fit your need!"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:28
+#: customizer/penci_ai_content_section.php:60
+msgid "How many topics"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:32
+#: customizer/penci_ai_content_section.php:61
+msgid "Enter a number of topics you want to add to your blog post."
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:37
+#: customizer/penci_ai_content_section.php:76
+msgid "Topics heading tag"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:43
+#: customizer/penci_ai_content_section.php:77
+msgid "Topics will automatically be wrapped by the selected heading tag."
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:49
+msgid "How many paragraphs"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:55
+msgid "Enter a number of paragraphs you want to add on your blog post article."
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:66
+#: customizer/penci_ai_api_section.php:17
+msgid "Temperature"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:75
+msgid ""
+"Control randomness: Lowering results in less random completions.  As the "
+"temperature approaches zero, the model will become deterministic and "
+"repetitive. If it approaches one, the model will become more randomness and "
+"creative."
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:83
+#: customizer/penci_ai_api_section.php:26
+msgid "Max Tokens"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:93
+#: customizer/penci_ai_api_section.php:27
+msgid "Set the maximum number of tokens to generate in a single request."
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:99
+#: customizer/penci_ai_api_section.php:35
+msgid "Top Prediction (Top-P)"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:108
+#: customizer/penci_ai_api_section.php:36
+msgid ""
+"Adjust the Top-P (Top Prediction) parameter to control the diversity of the "
+"generated text."
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:114
+#: customizer/penci_ai_api_section.php:44
+msgid "Best of"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:122
+#: customizer/penci_ai_api_section.php:45
+msgid "Set the number of generated sequences to return."
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:128
+#: customizer/penci_ai_api_section.php:53
+msgid "Frequency Penalty"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:136
+#: customizer/penci_ai_api_section.php:54
+msgid ""
+"Adjust the frequency penalty to control the frequency of words in the "
+"generated text."
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:141
+#: customizer/penci_ai_api_section.php:62
+msgid "Presence Penalty"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:148
+#: customizer/penci_ai_api_section.php:63
+msgid ""
+"Adjust the presence penalty to control the presence of words in the "
+"generated text."
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:158
+#: customizer/penci_ai_content_section.php:119
+msgid "Writing Style"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:166
+#: customizer/penci_ai_content_section.php:120
+msgid "Choose the writing style of your blog post which fit your need!"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:175
+#: customizer/penci_ai_content_section.php:161
+msgid "Writing Tone"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:183
+#: customizer/penci_ai_content_section.php:162
+msgid "Choose the writing tone of your blog post which fit your need!"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:192
+msgid "Add introduction"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:196
+#: customizer/penci_ai_content_section.php:184
+msgid "Add an introduction beginning of the topics."
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:201
+msgid "Add \"Introduction\" text"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:206
+msgid "Select to add \"Introduction:\" text before the introduction content."
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:211
+msgid "Introduction text size"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:214
+#: admin/includes/settings-menu-items.php:253
+msgid "Short"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:216
+#: admin/includes/settings-menu-items.php:255
+msgid "Medium"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:218
+#: admin/includes/settings-menu-items.php:257
+msgid "Long"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:220
+msgid "Select a size to set how long your introduction size is needed."
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:230
+msgid "Add conclusion"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:234
+#: admin/includes/settings-menu-items.php:273
+#: customizer/penci_ai_content_section.php:169
+msgid "Add conclusion end of the topics."
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:239
+msgid "Add \"Conclusion\" text"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:245
+msgid "Select to add \"Conclusion:\" text before the conclusion content."
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:250
+#: customizer/penci_ai_content_section.php:219
+msgid "Conclusion text size"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:259
+msgid "Select a size for how long your conclusion size is needed."
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:269
+#: customizer/penci_ai_content_section.php:168
+msgid "Add excerpt"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:278
+#: customizer/penci_ai_content_section.php:175
+msgid "Number of excerpt words"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:283
+#: customizer/penci_ai_content_section.php:176
+msgid ""
+"Enter a number of words to get the excerpt content withing the number of "
+"words."
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:293
+msgid "Content length"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:305
+#: customizer/penci_ai_content_section.php:90
+msgid "Select a content length that fit your need."
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:323
+msgid "Auto generate featured image"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:328
+#: customizer/penci_ai_content_section.php:228
+msgid ""
+"Select this to auto-generate the thumbnail image. It will generate from your "
+"main prompt."
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:532
+msgid "Select Language"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:542
+msgid "Select a language to generate contents with the language."
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:554
+#: customizer/penci_ai_content_section.php:14
+msgid "Select Post Title Before Generate"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:559
+#: customizer/penci_ai_content_section.php:15
+msgid ""
+"Check this if you want to select the post title first before the content "
+"generation."
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:564
+#: customizer/penci_ai_content_section.php:45
+msgid "How many titles you want to show to select?"
+msgstr ""
+
+#: admin/includes/settings-menu-items.php:571
+msgid ""
+"<p>Enter a number of titles you want to show first to select before the "
+"content generate.</p><strong>For the free plan, you are limited to "
+"displaying a maximum of three titles per request.</strong>"
+msgstr ""
+
+#: customizer/panel.php:30 penci-ai.php:67
+msgid "Content"
+msgstr ""
+
+#: customizer/panel.php:31 penci-ai.php:68
+msgid "Images"
+msgstr ""
+
+#: customizer/panel.php:32 penci-ai.php:69
+msgid "General"
+msgstr ""
+
+#: customizer/penci_ai_api_section.php:8
+msgid "API Key"
+msgstr ""
+
+#: customizer/penci_ai_api_section.php:9
+msgid ""
+"Enter your API key to use the GPT-3 API. <a target=\"_blank\" href=\"https://"
+"beta.openai.com/account/api-keys\">Get the API key</a>"
+msgstr ""
+
+#: customizer/penci_ai_api_section.php:18
+msgid ""
+"Control randomness: Lowering results in less random completions. As the "
+"temperature approaches zero, the model will become deterministic and "
+"repetitive. If it approaches one, the model will become more randomness and "
+"creative."
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:7
+msgid "Previously failed"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:8
+msgid ""
+"Select this if generation failed previously, if selected then it will "
+"disable live (streaming) generation."
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:23
+msgid "Content Languages"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:46
+msgid ""
+"Enter a number of titles you want to show first to select before the content "
+"generate. <strong>For the free plan, you are limited to displaying a maximum "
+"of three titles per request.</strong>"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:89
+msgid "Content Length"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:98 includes/global-functions.php:177
+msgid "normal"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:99 includes/global-functions.php:178
+msgid "business"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:100
+#: includes/global-functions.php:179
+msgid "legal"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:101
+#: includes/global-functions.php:180
+msgid "technical"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:102
+#: includes/global-functions.php:181
+msgid "marketing"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:103
+#: includes/global-functions.php:182
+msgid "creative"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:104
+#: includes/global-functions.php:183
+msgid "narrative"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:105
+#: includes/global-functions.php:184
+msgid "expository"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:106
+#: includes/global-functions.php:185
+msgid "reflective"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:107
+#: includes/global-functions.php:186
+msgid "persuasive"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:108
+#: includes/global-functions.php:187
+msgid "descriptive"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:109
+#: includes/global-functions.php:188
+msgid "instructional"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:110
+#: includes/global-functions.php:189
+msgid "news"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:111
+#: includes/global-functions.php:190
+msgid "personal"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:112
+#: includes/global-functions.php:191
+msgid "travel"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:113
+#: includes/global-functions.php:192
+msgid "recipe"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:114
+#: includes/global-functions.php:193
+msgid "poetic"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:115
+#: includes/global-functions.php:194
+msgid "satirical"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:116
+#: includes/global-functions.php:195
+msgid "formal"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:117
+#: includes/global-functions.php:196
+msgid "informal"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:128
+#: includes/global-functions.php:140
+msgid "Serious"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:129
+#: includes/global-functions.php:141
+msgid "Thoughtful"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:130
+#: includes/global-functions.php:142
+msgid "Witty"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:131
+#: includes/global-functions.php:144
+msgid "Lighthearted"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:132
+#: includes/global-functions.php:145
+msgid "Hilarious"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:133
+#: includes/global-functions.php:146
+msgid "Soothing"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:134
+#: includes/global-functions.php:147
+msgid "Emotional"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:135
+#: includes/global-functions.php:148
+msgid "Inspirational"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:136
+#: includes/global-functions.php:150
+msgid "Persuasive"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:137
+#: includes/global-functions.php:151
+msgid "Vivid"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:138
+#: includes/global-functions.php:152
+msgid "Imaginative"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:139
+#: includes/global-functions.php:153
+msgid "Musical"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:140
+#: includes/global-functions.php:154
+msgid "Rhythmical"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:141
+#: includes/global-functions.php:155
+msgid "Humorous"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:142
+#: includes/global-functions.php:156
+msgid "Critical"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:143
+#: includes/global-functions.php:157
+msgid "Clear"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:144
+#: includes/global-functions.php:158
+msgid "Neutral"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:145
+#: includes/global-functions.php:149 includes/global-functions.php:159
+msgid "Objective"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:146
+#: includes/global-functions.php:160
+msgid "Biased"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:147
+#: includes/global-functions.php:143 includes/global-functions.php:161
+msgid "Passionate"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:148
+#: includes/global-functions.php:162
+msgid "Argumentative"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:149
+#: includes/global-functions.php:163
+msgid "Reflective"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:150
+#: includes/global-functions.php:164
+msgid "Helpful"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:151
+#: includes/global-functions.php:165
+msgid "Connective"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:152
+#: includes/global-functions.php:166
+msgid "Assertive"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:153
+#: includes/global-functions.php:167
+msgid "Energetic"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:154
+#: includes/global-functions.php:168
+msgid "Relaxed"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:155
+#: includes/global-functions.php:169
+msgid "Polite"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:156
+#: includes/global-functions.php:170
+msgid "Clever"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:157
+#: includes/global-functions.php:171
+msgid "Funny"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:158
+#: includes/global-functions.php:172
+msgid "Amusing"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:159
+#: includes/global-functions.php:173
+msgid "Comforting"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:183
+msgid "Add Introduction"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:191
+msgid "Introduction Heading Title"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:198
+msgid "Add Conclusion"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:199
+msgid "Add an conclusion end of the topics."
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:206
+msgid "Conclusion Heading Title"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:220
+msgid " Select a size to set how long your conclusion size is needed."
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:227
+msgid "Auto Generate Featured Image"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:270
+msgid "Pop"
+msgstr ""
+
+#: customizer/penci_ai_content_section.php:271
+msgid "Art"
+msgstr ""
+
+#: customizer/penci_ai_general_section.php:8
+msgid "User roles can access"
+msgstr ""
+
+#: customizer/penci_ai_general_section.php:9
+msgid ""
+"Select user roles to access the \"Penci AI SmartContent Creator\" option."
+msgstr ""
+
+#: customizer/penci_ai_general_section.php:30
+msgid "Enable Support in Post Types"
+msgstr ""
+
+#: customizer/penci_ai_image_section.php:8
+msgid "Replicate API"
+msgstr ""
+
+#: customizer/penci_ai_image_section.php:9
+msgid ""
+"Fill to this option if you want to use <strong>Open Journey, Stable "
+"Diffusion, Text To Pokémon, VAE, Anything and text2image</strong> to "
+"generate images. Enter your API key to use the Replicate API. <a "
+"target=\"_blank\" href=\"https://replicate.com/\">Get the API key</a>"
+msgstr ""
+
+#: customizer/penci_ai_image_section.php:16
+msgid "Discord Channel API"
+msgstr ""
+
+#: customizer/penci_ai_image_section.php:17
+msgid ""
+"Fill to this option if you want to use <strong>Midjourney</strong> to "
+"generate images. Replaces this value with the Channel ID where the "
+"Midjourney Bot is installed. You can get the Channel ID right-clicking on "
+"the channel and Copy Channel ID. You can check more in <a href=\"https://www."
+"youtube.com/watch?v=5ryvvn6ztM4\" target=\"_blank\">this video tutorial</a>."
+msgstr ""
+
+#: customizer/penci_ai_image_section.php:24
+msgid "Discord User Token"
+msgstr ""
+
+#: customizer/penci_ai_image_section.php:25
+msgid ""
+"Fill to this option if you want to use <strong>Midjourney</strong> to "
+"generate images. To get your user token, visit <a target=\"_blank\" "
+"href=\"https://discord.com/channels/@me\">https://discord.com/channels/@me</"
+"a> and open the Network tab inside the Developers Tools. Find between your "
+"XHR requests the Authorization header. You can check more in <a "
+"href=\"https://www.youtube.com/watch?v=5ryvvn6ztM4\" target=\"_blank\">this "
+"video tutorial</a>."
+msgstr ""
+
+#: customizer/penci_ai_image_section.php:42
+msgid "AI Engine"
+msgstr ""
+
+#: customizer/penci_ai_image_section.php:43
+msgid "Choose the Image AI Engine you want to use to generate featured image"
+msgstr ""
+
+#: includes/global-functions.php:112
+msgid "Topic-Wise"
+msgstr ""
+
+#: includes/global-functions.php:113
+msgid "Article"
+msgstr ""
+
+#: includes/global-functions.php:114
+msgid "Review"
+msgstr ""
+
+#: includes/global-functions.php:115
+msgid "Opinion"
+msgstr ""
+
+#: includes/global-functions.php:116
+msgid "FAQ"
+msgstr ""
+
+#: includes/global-functions.php:121
+msgid "h1"
+msgstr ""
+
+#: includes/global-functions.php:122
+msgid "h2"
+msgstr ""
+
+#: includes/global-functions.php:123
+msgid "h3"
+msgstr ""
+
+#: includes/global-functions.php:124
+msgid "h4"
+msgstr ""
+
+#: includes/global-functions.php:125
+msgid "h5"
+msgstr ""
+
+#: includes/global-functions.php:126
+msgid "h6"
+msgstr ""
+
+#: includes/global-functions.php:132
+msgid "Informative"
+msgstr ""
+
+#: includes/global-functions.php:134
+msgid "Approachable"
+msgstr ""
+
+#: includes/global-functions.php:135
+msgid "Confident"
+msgstr ""
+
+#: includes/global-functions.php:136
+msgid "Enthusiastic"
+msgstr ""
+
+#: includes/global-functions.php:137
+msgid "Casual"
+msgstr ""
+
+#: includes/global-functions.php:138
+msgid "Respectful"
+msgstr ""
+
+#: includes/global-functions.php:139
+msgid "Sarcastic"
+msgstr ""
+
+#: includes/global-functions.php:201
+msgid "Deutsch"
+msgstr ""
+
+#: includes/global-functions.php:202
+msgid "English"
+msgstr ""
+
+#: includes/global-functions.php:203
+msgid "español"
+msgstr ""
+
+#: includes/global-functions.php:204
+msgid "español (Latinoamérica)"
+msgstr ""
+
+#: includes/global-functions.php:205
+msgid "français"
+msgstr ""
+
+#: includes/global-functions.php:206
+msgid "hrvatski"
+msgstr ""
+
+#: includes/global-functions.php:207
+msgid "italiano"
+msgstr ""
+
+#: includes/global-functions.php:208
+msgid "Nederlands"
+msgstr ""
+
+#: includes/global-functions.php:209
+msgid "polski"
+msgstr ""
+
+#: includes/global-functions.php:210
+msgid "português (Brasil)"
+msgstr ""
+
+#: includes/global-functions.php:211
+msgid "português (Portugal)"
+msgstr ""
+
+#: includes/global-functions.php:212
+msgid "Tiếng Việt"
+msgstr ""
+
+#: includes/global-functions.php:213
+msgid "Türkçe"
+msgstr ""
+
+#: includes/global-functions.php:214
+msgid "русский"
+msgstr ""
+
+#: includes/global-functions.php:215
+msgid "العربية"
+msgstr ""
+
+#: includes/global-functions.php:216
+msgid "ไทย"
+msgstr ""
+
+#: includes/global-functions.php:217
+msgid "한국어"
+msgstr ""
+
+#: includes/global-functions.php:218
+msgid "中文 (简体)"
+msgstr ""
+
+#: includes/global-functions.php:219
+msgid "中文 (繁體)"
+msgstr ""
+
+#: includes/global-functions.php:220
+msgid "香港中文"
+msgstr ""
+
+#: includes/global-functions.php:221
+msgid "日本語"
+msgstr ""
+
+#: includes/global-functions.php:222
+msgid "Acoli"
+msgstr ""
+
+#: includes/global-functions.php:223
+msgid "Afrikaans"
+msgstr ""
+
+#: includes/global-functions.php:224
+msgid "Akan"
+msgstr ""
+
+#: includes/global-functions.php:225
+msgid "azərbaycan"
+msgstr ""
+
+#: includes/global-functions.php:226
+msgid "Balinese"
+msgstr ""
+
+#: includes/global-functions.php:227
+msgid "Basa Sunda"
+msgstr ""
+
+#: includes/global-functions.php:228
+msgid "Bork, bork, bork!"
+msgstr ""
+
+#: includes/global-functions.php:229
+msgid "bosanski"
+msgstr ""
+
+#: includes/global-functions.php:230
+msgid "brezhoneg"
+msgstr ""
+
+#: includes/global-functions.php:231
+msgid "català"
+msgstr ""
+
+#: includes/global-functions.php:232
+msgid "Cebuano"
+msgstr ""
+
+#: includes/global-functions.php:233
+msgid "čeština"
+msgstr ""
+
+#: includes/global-functions.php:234
+msgid "chiShona"
+msgstr ""
+
+#: includes/global-functions.php:235
+msgid "Corsican"
+msgstr ""
+
+#: includes/global-functions.php:236
+msgid "créole haïtien"
+msgstr ""
+
+#: includes/global-functions.php:237
+msgid "Cymraeg"
+msgstr ""
+
+#: includes/global-functions.php:238
+msgid "dansk"
+msgstr ""
+
+#: includes/global-functions.php:239
+msgid "Èdè Yorùbá"
+msgstr ""
+
+#: includes/global-functions.php:240
+msgid "eesti"
+msgstr ""
+
+#: includes/global-functions.php:241
+msgid "Elmer Fudd"
+msgstr ""
+
+#: includes/global-functions.php:242
+msgid "esperanto"
+msgstr ""
+
+#: includes/global-functions.php:243
+msgid "euskara"
+msgstr ""
+
+#: includes/global-functions.php:244
+msgid "Eʋegbe"
+msgstr ""
+
+#: includes/global-functions.php:245 includes/global-functions.php:246
+msgid "Filipino"
+msgstr ""
+
+#: includes/global-functions.php:247
+msgid "føroyskt"
+msgstr ""
+
+#: includes/global-functions.php:248
+msgid "Frysk"
+msgstr ""
+
+#: includes/global-functions.php:249
+msgid "Ga"
+msgstr ""
+
+#: includes/global-functions.php:250
+msgid "Gaeilge"
+msgstr ""
+
+#: includes/global-functions.php:251
+msgid "Gàidhlig"
+msgstr ""
+
+#: includes/global-functions.php:252
+msgid "galego"
+msgstr ""
+
+#: includes/global-functions.php:253
+msgid "Guarani"
+msgstr ""
+
+#: includes/global-functions.php:254
+msgid "Hacker"
+msgstr ""
+
+#: includes/global-functions.php:255
+msgid "Hausa"
+msgstr ""
+
+#: includes/global-functions.php:256
+msgid "ʻŌlelo Hawaiʻi"
+msgstr ""
+
+#: includes/global-functions.php:257
+msgid "Ichibemba"
+msgstr ""
+
+#: includes/global-functions.php:258
+msgid "Igbo"
+msgstr ""
+
+#: includes/global-functions.php:259
+msgid "Ikirundi"
+msgstr ""
+
+#: includes/global-functions.php:260
+msgid "Indonesia"
+msgstr ""
+
+#: includes/global-functions.php:261
+msgid "interlingua"
+msgstr ""
+
+#: includes/global-functions.php:262
+msgid "IsiXhosa"
+msgstr ""
+
+#: includes/global-functions.php:263
+msgid "isiZulu"
+msgstr ""
+
+#: includes/global-functions.php:264
+msgid "íslenska"
+msgstr ""
+
+#: includes/global-functions.php:265
+msgid "Jawa"
+msgstr ""
+
+#: includes/global-functions.php:266
+msgid "Kinyarwanda"
+msgstr ""
+
+#: includes/global-functions.php:267
+msgid "Kiswahili"
+msgstr ""
+
+#: includes/global-functions.php:268
+msgid "Klingon"
+msgstr ""
+
+#: includes/global-functions.php:269
+msgid "Kongo"
+msgstr ""
+
+#: includes/global-functions.php:270
+msgid "kreol morisien"
+msgstr ""
+
+#: includes/global-functions.php:271
+msgid "Krio (Sierra Leone)"
+msgstr ""
+
+#: includes/global-functions.php:272
+msgid "Latin"
+msgstr ""
+
+#: includes/global-functions.php:273
+msgid "latviešu"
+msgstr ""
+
+#: includes/global-functions.php:274
+msgid "lea fakatonga"
+msgstr ""
+
+#: includes/global-functions.php:275
+msgid "lietuvių"
+msgstr ""
+
+#: includes/global-functions.php:276
+msgid "lingála"
+msgstr ""
+
+#: includes/global-functions.php:277
+msgid "Lozi"
+msgstr ""
+
+#: includes/global-functions.php:278
+msgid "Luba-Lulua"
+msgstr ""
+
+#: includes/global-functions.php:279
+msgid "Luganda"
+msgstr ""
+
+#: includes/global-functions.php:280
+msgid "magyar"
+msgstr ""
+
+#: includes/global-functions.php:281
+msgid "Malagasy"
+msgstr ""
+
+#: includes/global-functions.php:282
+msgid "Malti"
+msgstr ""
+
+#: includes/global-functions.php:283
+msgid "Māori"
+msgstr ""
+
+#: includes/global-functions.php:284
+msgid "Melayu"
+msgstr ""
+
+#: includes/global-functions.php:285
+msgid "Nigerian Pidgin"
+msgstr ""
+
+#: includes/global-functions.php:286
+msgid "norsk"
+msgstr ""
+
+#: includes/global-functions.php:287
+msgid "norsk nynorsk"
+msgstr ""
+
+#: includes/global-functions.php:288
+msgid "Northern Sotho"
+msgstr ""
+
+#: includes/global-functions.php:289
+msgid "Nyanja"
+msgstr ""
+
+#: includes/global-functions.php:290
+msgid "o‘zbek"
+msgstr ""
+
+#: includes/global-functions.php:291
+msgid "Occitan"
+msgstr ""
+
+#: includes/global-functions.php:292
+msgid "Oromoo"
+msgstr ""
+
+#: includes/global-functions.php:293
+msgid "Pirate"
+msgstr ""
+
+#: includes/global-functions.php:294
+msgid "română"
+msgstr ""
+
+#: includes/global-functions.php:295
+msgid "rumantsch"
+msgstr ""
+
+#: includes/global-functions.php:296
+msgid "Runasimi"
+msgstr ""
+
+#: includes/global-functions.php:297
+msgid "Runyankore"
+msgstr ""
+
+#: includes/global-functions.php:298
+msgid "Seychellois Creole"
+msgstr ""
+
+#: includes/global-functions.php:299
+msgid "shqip"
+msgstr ""
+
+#: includes/global-functions.php:300
+msgid "slovenčina"
+msgstr ""
+
+#: includes/global-functions.php:301
+msgid "slovenščina"
+msgstr ""
+
+#: includes/global-functions.php:302
+msgid "Soomaali"
+msgstr ""
+
+#: includes/global-functions.php:303
+msgid "Southern Sotho"
+msgstr ""
+
+#: includes/global-functions.php:304
+msgid "srpski (Crna Gora)"
+msgstr ""
+
+#: includes/global-functions.php:305
+msgid "srpski (latinica)"
+msgstr ""
+
+#: includes/global-functions.php:306
+msgid "suomi"
+msgstr ""
+
+#: includes/global-functions.php:307
+msgid "svenska"
+msgstr ""
+
+#: includes/global-functions.php:308
+msgid "Tswana"
+msgstr ""
+
+#: includes/global-functions.php:309
+msgid "Tumbuka"
+msgstr ""
+
+#: includes/global-functions.php:310
+msgid "türkmen dili"
+msgstr ""
+
+#: includes/global-functions.php:311
+msgid "Twi"
+msgstr ""
+
+#: includes/global-functions.php:312
+msgid "Wolof"
+msgstr ""
+
+#: includes/global-functions.php:313
+msgid "Ελληνικά"
+msgstr ""
+
+#: includes/global-functions.php:314
+msgid "беларуская"
+msgstr ""
+
+#: includes/global-functions.php:315
+msgid "български"
+msgstr ""
+
+#: includes/global-functions.php:316
+msgid "кыргызча"
+msgstr ""
+
+#: includes/global-functions.php:317
+msgid "қазақ тілі"
+msgstr ""
+
+#: includes/global-functions.php:318
+msgid "македонски"
+msgstr ""
+
+#: includes/global-functions.php:319
+msgid "монгол"
+msgstr ""
+
+#: includes/global-functions.php:320
+msgid "српски"
+msgstr ""
+
+#: includes/global-functions.php:321
+msgid "татар"
+msgstr ""
+
+#: includes/global-functions.php:322
+msgid "тоҷикӣ"
+msgstr ""
+
+#: includes/global-functions.php:323
+msgid "українська"
+msgstr ""
+
+#: includes/global-functions.php:324
+msgid "ქართული"
+msgstr ""
+
+#: includes/global-functions.php:325
+msgid "հայերեն"
+msgstr ""
+
+#: includes/global-functions.php:326
+msgid "ייִדיש"
+msgstr ""
+
+#: includes/global-functions.php:327
+msgid "עברית"
+msgstr ""
+
+#: includes/global-functions.php:328
+msgid "ئۇيغۇرچە"
+msgstr ""
+
+#: includes/global-functions.php:329
+msgid "اردو"
+msgstr ""
+
+#: includes/global-functions.php:330
+msgid "پښتو"
+msgstr ""
+
+#: includes/global-functions.php:331
+msgid "سنڌي"
+msgstr ""
+
+#: includes/global-functions.php:332
+msgid "فارسی"
+msgstr ""
+
+#: includes/global-functions.php:333
+msgid "کوردیی ناوەندی"
+msgstr ""
+
+#: includes/global-functions.php:334
+msgid "ትግርኛ"
+msgstr ""
+
+#: includes/global-functions.php:335
+msgid "አማርኛ"
+msgstr ""
+
+#: includes/global-functions.php:336
+msgid "বাংলা"
+msgstr ""
+
+#: includes/global-functions.php:337
+msgid "नेपाली"
+msgstr ""
+
+#: includes/global-functions.php:338
+msgid "मराठी"
+msgstr ""
+
+#: includes/global-functions.php:339
+msgid "हिन्दी"
+msgstr ""
+
+#: includes/global-functions.php:340
+msgid "ਪੰਜਾਬੀ"
+msgstr ""
+
+#: includes/global-functions.php:341
+msgid "ગુજરાતી"
+msgstr ""
+
+#: includes/global-functions.php:342
+msgid "ଓଡ଼ିଆ"
+msgstr ""
+
+#: includes/global-functions.php:343
+msgid "தமிழ்"
+msgstr ""
+
+#: includes/global-functions.php:344
+msgid "অসমীয়া"
+msgstr ""
+
+#: includes/global-functions.php:345
+msgid "తెలుగు"
+msgstr ""
+
+#: includes/global-functions.php:346
+msgid "ಕನ್ನಡ"
+msgstr ""
+
+#: includes/global-functions.php:347
+msgid "മലയാളം"
+msgstr ""
+
+#: includes/global-functions.php:348
+msgid "සිංහල"
+msgstr ""
+
+#: includes/global-functions.php:349
+msgid "ລາວ"
+msgstr ""
+
+#: includes/global-functions.php:350
+msgid "မြန်မာ"
+msgstr ""
+
+#: includes/global-functions.php:351
+msgid "ខ្មែរ"
+msgstr ""
+
+#: includes/global-functions.php:352
+msgid "ᏣᎳᎩ"
+msgstr ""

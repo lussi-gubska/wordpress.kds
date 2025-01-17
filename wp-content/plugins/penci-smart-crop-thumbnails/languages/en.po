@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-09-07 21:10+0700\n"
+"PO-Revision-Date: 2023-09-07 21:10+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: customizer/panel.php:18 penci-smart-crop-thumbnails.php:30
+msgid "Penci Smart Thumbnail"
+msgstr ""
+
+#: customizer/penci_smartthumbnails_general_section.php:4
+msgid "Show Grid on Preview Image"
+msgstr ""
+
+#: customizer/penci_smartthumbnails_general_section.php:12
+msgid "Force Clear Cache"
+msgstr ""
+
+#: customizer/penci_smartthumbnails_general_section.php:13
+msgid "Force browser to reload images, after focus point has changed"
+msgstr ""
+
+#: customizer/penci_smartthumbnails_general_section.php:21
+msgid "Default Focus Point"
+msgstr ""
+
+#: customizer/penci_smartthumbnails_general_section.php:26
+msgid "Top Left"
+msgstr ""
+
+#: customizer/penci_smartthumbnails_general_section.php:27
+msgid "Top Center"
+msgstr ""
+
+#: customizer/penci_smartthumbnails_general_section.php:28
+msgid "Top Right"
+msgstr ""
+
+#: customizer/penci_smartthumbnails_general_section.php:29
+msgid "Center Left"
+msgstr ""
+
+#: customizer/penci_smartthumbnails_general_section.php:30
+msgid "Center Center"
+msgstr ""
+
+#: customizer/penci_smartthumbnails_general_section.php:31
+msgid "Center Right"
+msgstr ""
+
+#: customizer/penci_smartthumbnails_general_section.php:32
+msgid "Bottom Left"
+msgstr ""
+
+#: customizer/penci_smartthumbnails_general_section.php:33
+msgid "Bottom Center"
+msgstr ""
+
+#: customizer/penci_smartthumbnails_general_section.php:34
+msgid "Bottom Right"
+msgstr ""
+
+#: customizer/penci_smartthumbnails_general_section.php:40
+msgid "Place the focus point on the upper side for portrait images"
+msgstr ""
+
+#: customizer/penci_smartthumbnails_general_section.php:41
+msgid "This will override `default focus point` for portrait images."
+msgstr ""
+
+#: customizer/penci_smartthumbnails_general_section.php:49
+msgid "Enlarge small images"
+msgstr ""
+
+#: customizer/penci_smartthumbnails_general_section.php:57
+msgid "Delete Useless Thumbnail Images"
+msgstr ""
+
+#: penci-smart-crop-thumbnails.php:269
+msgid "All thumbnail sizes have been successfully generated."
+msgstr ""
+
+#: penci-smart-crop-thumbnails.php:291
+msgid "All"
+msgstr ""
+
+#: penci-smart-crop-thumbnails.php:292
+msgid "Preview Cropped Images"
+msgstr ""
+
+#: penci-smart-crop-thumbnails.php:483
+msgid "Preview Images"
+msgstr ""

@@ -1,0 +1,317 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-09-07 17:21+0700\n"
+"PO-Revision-Date: 2023-09-07 17:21+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _;__;_e;esc__;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/customize.php:11 inc/options.php:24 inc/sections/panel.php:23
+msgid "Recipe Options"
+msgstr ""
+
+#: inc/customize.php:112 inc/sections/penci_new_section_recipe_section.php:47
+msgid "Center"
+msgstr ""
+
+#: inc/customize.php:113 inc/sections/penci_new_section_recipe_section.php:48
+msgid "Left"
+msgstr ""
+
+#: inc/customize.php:114 inc/sections/penci_new_section_recipe_section.php:49
+msgid "Right"
+msgstr ""
+
+#: inc/customize.php:193 inc/sections/penci_new_section_recipe_section.php:107
+msgid ""
+"If you remove Nutrition Facts - you can get warning missing it for all your "
+"recipe cards in google search console. And we do not recommend you do that."
+msgstr ""
+
+#: inc/options.php:27 inc/sections/panel.php:29
+msgid "General Options"
+msgstr ""
+
+#: inc/options.php:29 inc/sections/panel.php:30
+msgid "Default Schema Data"
+msgstr ""
+
+#: inc/options.php:30 inc/sections/panel.php:30
+msgid ""
+"Because Google will validate your recipes to make it display good on search "
+"results. So, you should set a default value for all default fileds below to "
+"make Google validate your recipe bestest. If you want to modify any default "
+"field, let go to edit your posts and change recipe data there."
+msgstr ""
+
+#: inc/options.php:32 inc/sections/panel.php:31
+msgid "Font Size"
+msgstr ""
+
+#: inc/options.php:33 inc/sections/panel.php:32
+msgid "Colors"
+msgstr ""
+
+#: inc/options.php:34 inc/sections/panel.php:33
+msgid "Text Translation"
+msgstr ""
+
+#: inc/shortcodes.php:36
+msgid "Jump to Recipe"
+msgstr ""
+
+#: inc/shortcodes.php:42
+msgid "Print Recipe"
+msgstr ""
+
+#: init.php:136
+msgid "Recipe For This Posts"
+msgstr ""
+
+#: init.php:278
+msgid "Your Recipes"
+msgstr ""
+
+#: init.php:279
+msgid ""
+"To display your recipe for this post, you can use the following shortcode:"
+msgstr ""
+
+#: init.php:281
+msgid "[penci_recipe]"
+msgstr ""
+
+#: init.php:282
+msgid ""
+"If you do not need this feature, please go to <strong>Plugins > Installed "
+"Plugins > and\r\n"
+"                    deactivate plugin \"Penci Recipe\"</strong> plugin"
+msgstr ""
+
+#: init.php:284
+msgid ""
+"You can check options for Recipe/Recipe Index via <strong>Appearance > "
+"Customize > Recipe Options</strong>"
+msgstr ""
+
+#: init.php:285
+msgid ""
+"Additionally, you can set default data for some fields below via "
+"<strong>Appearance > Customize > Recipe\r\n"
+"                    Options</strong> as well."
+msgstr ""
+
+#: init.php:289
+msgid "Recipe Title:"
+msgstr ""
+
+#: init.php:295
+msgid "Servings for:"
+msgstr ""
+
+#: init.php:298
+msgid "Example: 4"
+msgstr ""
+
+#: init.php:302
+msgid "Prep Time:"
+msgstr ""
+
+#: init.php:308
+msgid ""
+"Prep Time\r\n"
+"                    Structured Data Format:"
+msgstr ""
+
+#: init.php:313
+msgid ""
+"This is Structured Data time format for Prep Time, Google and other the "
+"search engines will read it. Example: If the Prep Time is: 2 Hours 30 "
+"Minutes, you need fill here: <strong>2H30M</strong> | If the Prep Time is: "
+"40 Minutes, you need fill here: <strong>40M</strong> | If the Prep Time is: "
+"2 Hours, you need fill here: <strong>2H</strong>. All characters need "
+"uppercase."
+msgstr ""
+
+#: init.php:317
+msgid "Cooking Time:"
+msgstr ""
+
+#: init.php:320
+msgid "Example: 30 Minutes"
+msgstr ""
+
+#: init.php:323
+msgid ""
+"Cooking Time\r\n"
+"                    Structured Data Format:"
+msgstr ""
+
+#: init.php:328
+msgid ""
+"This is Structured Data time format for Cooking Time, Google and other the "
+"search engines will read it. Example: If the Cooking Time is: 2 Hours 30 "
+"Minutes, you need fill here: <strong>2H30M</strong> | If the Cooking Time "
+"is: 40 Minutes, you need fill here: <strong>40M</strong> | If the Cooking "
+"Time is: 2 Hours, you need fill here: <strong>2H</strong>. All characters "
+"need uppercase."
+msgstr ""
+
+#: init.php:331
+msgid ""
+"Total Time\r\n"
+"                    Structured Data Format:"
+msgstr ""
+
+#: init.php:336
+msgid ""
+"This is Structured Data time format for Total Time, Google and other the "
+"search engines will read it. Example: If the Total Time is: 2 Hours 30 "
+"Minutes, you need fill here: <strong>2H30M</strong> | If the Total Time is: "
+"40 Minutes, you need fill here: <strong>40M</strong> | If the Total Time is: "
+"2 Hours, you need fill here: <strong>2H</strong>. All characters need "
+"uppercase."
+msgstr ""
+
+#: init.php:339
+msgid ""
+"Number calories for this\r\n"
+"                    recipe:"
+msgstr ""
+
+#: init.php:343
+msgid ""
+"Fill number calories for your recipe here. Example: <strong>200</strong>"
+msgstr ""
+
+#: init.php:346
+msgid ""
+"Number fat for this\r\n"
+"                    recipe:"
+msgstr ""
+
+#: init.php:350
+msgid "Fill the fat for your recipe here. Example: <strong>25 grams</strong>"
+msgstr ""
+
+#: init.php:354
+msgid "Recipe Cuisine:"
+msgstr ""
+
+#: init.php:357
+msgid ""
+"The cuisine of the recipe. Example: <strong>French or Ethiopian</strong>"
+msgstr ""
+
+#: init.php:361
+msgid "Recipe Keywords:"
+msgstr ""
+
+#: init.php:364
+msgid ""
+"Fill the keywords for your recipe here. Example: <strong>cake for a party, "
+"coffee</strong>"
+msgstr ""
+
+#: init.php:368
+msgid "Recipe Video ID:"
+msgstr ""
+
+#: init.php:371
+msgid ""
+"Fill the Youtube video ID for your recipe here. Example: If the video has "
+"URL like this: <br><strong>https://www.youtube.com/watch?v=<span\r\n"
+"                                style=\"color: #6759d2;\">YQHsXMglC9A<span></"
+"strong> - the video ID will be is <strong>YQHsXMglC9A</strong>"
+msgstr ""
+
+#: init.php:375
+msgid ""
+"Recipe Video\r\n"
+"                    Title:"
+msgstr ""
+
+#: init.php:379
+msgid "Fill the Youtube video title here"
+msgstr ""
+
+#: init.php:382
+msgid ""
+"Recipe Video\r\n"
+"                    Duration:"
+msgstr ""
+
+#: init.php:387
+msgid ""
+"Fill the Youtube video duration here. Example: If the video has  duration "
+"is: 30 Minutes 17 Secs, you need fill here: <strong>30M17S</strong>"
+msgstr ""
+
+#: init.php:390
+msgid ""
+"Recipe Video Upload\r\n"
+"                    Date:"
+msgstr ""
+
+#: init.php:394
+msgid ""
+"Fill the Youtube video upload date here. Example: <strong>2018-07-31</"
+"strong> ( format: YYYY-MM-DD )"
+msgstr ""
+
+#: init.php:397
+msgid ""
+"Recipe Video\r\n"
+"                    Description:"
+msgstr ""
+
+#: init.php:401
+msgid "Fill the Youtube video description here."
+msgstr ""
+
+#: init.php:406
+msgid "Ingredients:"
+msgstr ""
+
+#: init.php:410
+msgid ""
+"Type each ingredient on a new line.<br>You can switch the Ingredients to "
+"visual editor via <strong>Customize > Recipe Options > Make Ingredients is "
+"Visual Editor on Edit Recipe Screen</strong>"
+msgstr ""
+
+#: init.php:413
+msgid "Type the ingredients for your recipe here"
+msgstr ""
+
+#: init.php:418
+msgid "Instructions:"
+msgstr ""
+
+#: init.php:420
+msgid "Type the instructions for your recipe here"
+msgstr ""
+
+#: init.php:424
+msgid "Notes:"
+msgstr ""
+
+#: init.php:428
+msgid ""
+"If you have any additional notes you can write them here.<br>You can switch "
+"the Ingredients to visual editor via <strong>Customize > Recipe Options > "
+"Make Notes is Visual Editor on Edit Recipe Screen</strong>"
+msgstr ""
+
+#: init.php:431
+msgid "If you have any additional notes you can write them here."
+msgstr ""
